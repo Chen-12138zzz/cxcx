@@ -1,5 +1,24 @@
 .obsidian
 .tmp-tools
 .workbuddy
-tools
+
+# ---- tools/ 的忽略策略（2026-09-22 调整）----
+# 原为整目录忽略；现改为「检索脚本与说明入库，缓存与过程产物不入库」。
+# 理由：链路要可复现（脚本入库），但 477 个 API 响应缓存共 72 MB
+#       且在持续增长，不适合进版本历史。
+tools/_cache/
+tools/_cache_cr/
+tools/_cache_eng/
+tools/_cache_f/
+
+# tools/ 下的过程产物：日志、原始抓取快照、带 _ 前缀的临时文件
+tools/*.log
+tools/_*
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
 **/tool
