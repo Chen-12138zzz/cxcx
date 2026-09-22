@@ -1,0 +1,33 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'row' }}>
+
+    <Box style={{ width: 820, height: 720, padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 18 }}>
+        <Box style={{ width: 80, height: 4, background: '#FFC107' }} />
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1.2 }}>
+            解决什么问题
+        </Text>
+        <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.7 }}>
+            这一章要回答：<span style={{ fontWeight: 'bold', color: '#1E4FA8' }}>具体到一条预警、一个数字，我们解决了什么</span>。
+            问题必须小到可验证，大到值得做。
+        </Text>
+
+        <Box style={{ flexDirection: 'column', gap: 12, marginTop: 6 }}>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>数字对不上源 —— 能回到哪一条记录</Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>措辞冒充依据 —— 忠实度能不能计算</Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>出事查不到 —— 假设有没有被记下来</Text>
+            </Box>
+        </Box>
+    </Box>
+
+    <Box style={{ width: 460, height: 720, background: '#F0F5FC', justifyContent: 'center', alignItems: 'center' }}>
+        <Text style={{ fontSize: 180, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1 }}>04</Text>
+    </Box>
+
+</Slide>

@@ -1,0 +1,131 @@
+{
+ "total": 213,
+ "y2024": 102,
+ "cn": 109,
+ "cn_first": 86,
+ "doi": 213,
+ "years": [
+  [
+   2026,
+   7
+  ],
+  [
+   2025,
+   40
+  ],
+  [
+   2024,
+   55
+  ],
+  [
+   2023,
+   34
+  ],
+  [
+   2022,
+   38
+  ],
+  [
+   2021,
+   39
+  ]
+ ],
+ "countries": [
+  [
+   "CN",
+   86
+  ],
+  [
+   "US",
+   25
+  ],
+  [
+   "",
+   9
+  ],
+  [
+   "GB",
+   9
+  ],
+  [
+   "IN",
+   8
+  ],
+  [
+   "AU",
+   5
+  ],
+  [
+   "DE",
+   4
+  ],
+  [
+   "GR",
+   4
+  ],
+  [
+   "SE",
+   4
+  ],
+  [
+   "FR",
+   4
+  ],
+  [
+   "TW",
+   3
+  ],
+  [
+   "IT",
+   3
+  ]
+ ],
+ "types": {
+  "article": 198,
+  "review": 15
+ },
+ "cross": {
+  "GEO ∩ AQUA": 10,
+  "SUIT ∩ AQUA": 6,
+  "GEO ∩ SUIT ∩ AQUA": 6,
+  "GEO ∩ SCALE": 13,
+  "SCALE ∩ AQUA": 3,
+  "GEO ∩ SCALE ∩ AQUA": 2,
+  "SUIT ∩ MC ∩ AQUA": 3,
+  "GEO ∩ DATA ∩ AQUA": 0,
+  "UNC ∩ SUIT ∩ AQUA": 0,
+  "多准则 ∩ 水产": 3,
+  "池塘尺度词": 0
+ },
+ "queries": [
+  [
+   "multi-source geospatial data fusion aquaculture suitability",
+   34
+  ],
+  [
+   "spatial multi-criteria analysis aquaculture site suitability",
+   34
+  ],
+  [
+   "GIS remote sensing suitability mapping mariculture",
+   25
+  ],
+  [
+   "spatiotemporal fusion multi-source remote sensing water",
+   34
+  ],
+  [
+   "scale mismatch multi-scale remote sensing modeling",
+   32
+  ],
+  [
+   "geospatial data fusion land suitability machine learning",
+   25
+  ],
+  [
+   "aquaculture zoning spatial analysis multi-source",
+   29
+  ]
+ ],
+ "sum_hits": 213
+}

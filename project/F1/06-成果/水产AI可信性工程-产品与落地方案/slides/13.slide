@@ -1,0 +1,33 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'row' }}>
+
+    <Box style={{ width: 460, height: 720, background: '#F0F5FC', justifyContent: 'center', alignItems: 'center' }}>
+        <Text style={{ fontSize: 180, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1 }}>05</Text>
+    </Box>
+
+    <Box style={{ width: 820, height: 720, padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 18 }}>
+        <Box style={{ width: 80, height: 4, background: '#FFC107' }} />
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1.2 }}>
+            为什么选这个命题
+        </Text>
+        <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.7 }}>
+            这一章是立项逻辑自述。核心不是「这个方向好」，而是
+            <span style={{ fontWeight: 'bold', color: '#1E4FA8' }}>我们做砸过一次，因此知道该怎么选</span>。
+        </Text>
+
+        <Box style={{ flexDirection: 'column', gap: 12, marginTop: 6 }}>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>上一轮的教训：不能用「没人做」立项</Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>16 个方向过审，只有 3 个站着</Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>承认近邻存在，再指出差异 —— 这是唯一站得住的路</Text>
+            </Box>
+        </Box>
+    </Box>
+
+</Slide>

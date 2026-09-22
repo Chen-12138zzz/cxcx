@@ -1,0 +1,93 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'column' }}>
+
+    <Box style={{ width: 1280, height: 56, background: '#1E4FA8', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingLeft: 40, paddingRight: 40 }}>
+        <Text style={{ fontSize: 14, color: '#BFD5EF', letterSpacing: 2 }}>02 服务谁</Text>
+        <Text style={{ fontSize: 14, color: '#BFD5EF' }}>水产 AI 可信性工程</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 20, flexDirection: 'column', gap: 4 }}>
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>需求从哪来：三个真实触发场景</Text>
+        <Text style={{ fontSize: 16, color: '#4A5568' }}>这三个场景来自我们上一轮真实失败项目的复盘，不是假想客户访谈</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 16, height: 520, flexDirection: 'column', gap: 14 }}>
+
+        <Box style={{ flexDirection: 'row', gap: 14, height: 300 }}>
+
+            <Box style={{ flex: 1, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 16, flexDirection: 'column', gap: 10 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 10 }}>
+                    <Box style={{ width: 34, height: 34, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 17, fontWeight: 'bold', color: '#FFFFFF' }}>1</Text>
+                    </Box>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>预警发出去了，被问「凭什么」</Text>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    预警里的数字和原始记录对不上，
+                    <span style={{ fontWeight: 'bold', color: '#1A2230' }}>计算链路没有留痕</span>，
+                    事后谁也复述不出来。
+                    <br /><br />
+                    <span style={{ fontWeight: 'bold', color: '#1E4FA8' }}>对应：逐数字证据审计</span>
+                </Text>
+            </Box>
+
+            <Box style={{ flex: 1, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 16, flexDirection: 'column', gap: 10 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 10 }}>
+                    <Box style={{ width: 34, height: 34, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 17, fontWeight: 'bold', color: '#FFFFFF' }}>2</Text>
+                    </Box>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>两个来源，两个结论</Text>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    同一口塘，浮标说水质恶化、人工采样说正常。
+                    没有口径说明，无法判定该信谁。
+                    <br /><br />
+                    <span style={{ fontWeight: 'bold', color: '#1E4FA8' }}>对应：忠实度与口径一致性</span>
+                </Text>
+            </Box>
+
+            <Box style={{ flex: 1, background: '#FBE9E8', border: '1px solid #D9534F', padding: 16, flexDirection: 'column', gap: 10 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 10 }}>
+                    <Box style={{ width: 34, height: 34, background: '#D9534F', justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 17, fontWeight: 'bold', color: '#FFFFFF' }}>3</Text>
+                    </Box>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>结论被用后出了问题</Text>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    需要回溯：当时依据是什么、
+                    假设了什么、谁签的字 —— 而当时
+                    <span style={{ fontWeight: 'bold', color: '#D9534F' }}>什么都没记</span>。
+                    <br /><br />
+                    <span style={{ fontWeight: 'bold', color: '#D9534F' }}>对应：假设台账与问责留痕</span>
+                </Text>
+            </Box>
+
+        </Box>
+
+        <Box style={{ flexDirection: 'row', gap: 14, height: 190 }}>
+
+            <Box style={{ flex: 1, background: '#FFFFFF', border: '1px solid #D6DCE5', padding: 16, flexDirection: 'column', gap: 8, justifyContent: 'center' }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>三个场景有一个共同点</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    它们都不是「模型不够准」的问题，
+                    而是<span style={{ fontWeight: 'bold', color: '#1E4FA8' }}>「说不清为什么」</span>的问题。
+                    把模型换得更准，这三件事一件也不会变好。
+                </Text>
+            </Box>
+
+            <Box style={{ width: 380, background: '#E8EFF8', borderLeft: '4px solid #1E4FA8', padding: 16, flexDirection: 'column', gap: 6, justifyContent: 'center' }}>
+                <Text style={{ fontSize: 19, color: '#4A5568' }}>场景来源</Text>
+                <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.4 }}>
+                    上一轮《蓝哨》预警系统的<br />真实失败复盘记录。
+                </Text>
+            </Box>
+
+        </Box>
+
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, height: 40, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>场景为对自身项目失败经历的归纳，未做外部客户访谈；不构成对任何机构现状的陈述</Text>
+        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>08 / 14</Text>
+    </Box>
+
+</Slide>

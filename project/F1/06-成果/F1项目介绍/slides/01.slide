@@ -1,0 +1,84 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'row', position: 'relative' }}>
+
+    {/* 左侧深蓝色块 40% */}
+    <Box style={{ width: 500, height: 720, background: '#0E3F8C', padding: 40, flexDirection: 'column', justifyContent: 'space-between' }}>
+        <Box style={{ flexDirection: 'column', gap: 8 }}>
+            <Text style={{ fontSize: 14, color: '#8FB4E0', letterSpacing: 2 }}>大学生创新创业训练计划</Text>
+            <Text style={{ fontSize: 14, color: '#8FB4E0', letterSpacing: 2 }}>项目代号 F1</Text>
+        </Box>
+
+        <Box style={{ flexDirection: 'column', gap: 16 }}>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                不产出预测
+            </Text>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                只回答「改了会怎样」
+            </Text>
+            <Box style={{ width: 64, height: 3, background: '#FFC107', marginTop: 4 }} />
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6, marginTop: 8 }}>
+                并说清这个判断
+            </Text>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                在什么条件下失效
+            </Text>
+        </Box>
+
+        <Box style={{ flexDirection: 'column', gap: 6 }}>
+            <Text style={{ fontSize: 14, color: '#8FB4E0' }}>广东海洋大学 · 数学与计算机学院</Text>
+            <Text style={{ fontSize: 14, color: '#8FB4E0' }}>软件工程 · 2026-09</Text>
+        </Box>
+    </Box>
+
+    {/* 右侧白色承载标题 */}
+    <Box style={{ width: 780, height: 720, padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 24 }}>
+        <Text style={{ fontSize: 14, color: '#3D7BD9', letterSpacing: 3 }}>CAUSAL INFERENCE · AQUACULTURE</Text>
+
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1.25 }}>
+            面向养殖观测数据的
+        </Text>
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1.25 }}>
+            干预效应估计
+        </Text>
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1.25 }}>
+            与识别有效性审计
+        </Text>
+
+        <Box style={{ width: 120, height: 4, background: '#1E4FA8', marginTop: 4 }} />
+
+        <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.6, marginTop: 4 }}>
+            一个方法型研究原型 —— 在已经存在的养殖观测数据上做效应估计，
+            并把这个估计在什么条件下站不住，一并写清楚。
+        </Text>
+
+        {/* 视觉锚点：七步流程缩略 SVG */}
+        <Box style={{ marginTop: 8 }}>
+            <svg width={700} height={72} viewBox='0 0 700 72'>
+                <line x1='40' y1='36' x2='660' y2='36' stroke='#D6DCE5' strokeWidth='2' />
+                <circle cx='40' cy='36' r='9' fill='#1E4FA8' />
+                <circle cx='143' cy='36' r='9' fill='#3D7BD9' />
+                <circle cx='246' cy='36' r='9' fill='#3D7BD9' />
+                <circle cx='349' cy='36' r='9' fill='#3D7BD9' />
+                <circle cx='452' cy='36' r='9' fill='#3D7BD9' />
+                <circle cx='555' cy='36' r='9' fill='#3D7BD9' />
+                <circle cx='660' cy='36' r='13' fill='#0E3F8C' />
+
+                <text x='40' y='16' fontSize='13' fill='#4A5568' textAnchor='middle'>角色审计</text>
+                <text x='143' y='16' fontSize='13' fill='#4A5568' textAnchor='middle'>正性诊断</text>
+                <text x='246' y='16' fontSize='13' fill='#4A5568' textAnchor='middle'>效应估计</text>
+                <text x='349' y='16' fontSize='13' fill='#4A5568' textAnchor='middle'>剂量反应</text>
+                <text x='452' y='16' fontSize='13' fill='#4A5568' textAnchor='middle'>敏感性</text>
+                <text x='555' y='16' fontSize='13' fill='#4A5568' textAnchor='middle'>假设台账</text>
+                <text x='660' y='16' fontSize='13' fill='#1E4FA8' textAnchor='middle' fontWeight='bold'>报告守卫</text>
+
+                <text x='350' y='64' fontSize='12' fill='#8B97A8' textAnchor='middle'>数据凭证 · 全程留痕 · 不合格输出直接拦截</text>
+            </svg>
+        </Box>
+    </Box>
+
+    {/* 校名角标 */}
+    <Box style={{ position: 'absolute', right: 40, top: 40, flexDirection: 'row', alignItems: 'center', gap: 8 }}>
+        <Box style={{ width: 4, height: 28, background: '#1E4FA8' }} />
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>广东海洋大学</Text>
+    </Box>
+
+</Slide>

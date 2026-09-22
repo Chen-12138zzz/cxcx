@@ -1,0 +1,92 @@
+[
+  {
+    "id": "A1",
+    "name": "无未测混杂",
+    "statement": "给定调整集 X = {塘面积, 水深, 塘型, 气温} 后，干预 T（投喂量）与潜在结果 Y(t) 独立。通俗说：所有同时影响『投了多少』与『长得怎样』的因素都已被观测到。",
+    "evidence_level": "untestable",
+    "diagnostic": "无",
+    "evidence_file": "05-验证/敏感性分析结果.md",
+    "status": "unverified",
+    "diagnostic_ran": false,
+    "consequence_if_violated": "估计值向『虾本身状态好』的方向偏移，效应被高估；偏倚量与 U 的强度成正比，无法从数据中估计，只能给出『推翻所需强度』",
+    "notes": [
+      "本项目最脆弱的一条：虾的摄食/健康状态无法逐塘观测",
+      "唯一能做的事是 E-value 与偏 R² 敏感性分析，给出『需要多强才能推翻』",
+      "★ 永远不得标记为已验证"
+    ]
+  },
+  {
+    "id": "A2",
+    "name": "正性 / 重叠",
+    "statement": "对每个协变量层，投喂量在任一取值上都有正概率密度；即各层都有共同支撑，不会出现『某类塘口从不出现某档投喂量』。",
+    "evidence_level": "testable",
+    "diagnostic": "diagnostics/positivity.py：T 分位分箱 × 协变量分层，统计空箱",
+    "evidence_file": "05-验证/正性诊断结果.md",
+    "status": "unverified",
+    "diagnostic_ran": false,
+    "consequence_if_violated": "缺失箱的反事实结果靠模型外推，不是从数据估出；若缺失严重，结论必须限定在『有共同支撑的子总体』",
+    "notes": [
+      "判定规则已代码化：存在空箱 → violated；存在箱计数 < 5 → warning；否则 ok（ok ≠ 假设成立）"
+    ]
+  },
+  {
+    "id": "A3",
+    "name": "一致性 / SUTVA",
+    "statement": "一个塘口的潜在结果只取决于它自己接受的投喂量，不受其他塘口投喂决策影响（无干扰）；且『投喂量』的定义在各塘口间一致（无版本差异）。",
+    "evidence_level": "partially",
+    "diagnostic": "空间邻近性检查：若邻近塘口存在共同水源/换水通道，干扰假说无法排除；本项目的处理是**在报告中声明**而非检验",
+    "evidence_file": "05-验证/实验与验证报告.md#SUTVA",
+    "status": "unverified",
+    "diagnostic_ran": false,
+    "consequence_if_violated": "若塘口间有水质相互影响（共用水源），估计的是『投喂 + 其外溢效应』，与个体层面的干预效应不等价",
+    "notes": [
+      "散户高位池多在相邻位置、可能共用进排水渠 → 干扰不可完全排除",
+      "★ 本项目合成数据不含空间结构，因此该条在合成验证中不可检验",
+      "真实数据阶段须实地确认进排水是否独立"
+    ]
+  },
+  {
+    "id": "A4",
+    "name": "调整集不含中介",
+    "statement": "水质退化指数不在调整集中（要估的是总效应）。",
+    "evidence_level": "testable",
+    "diagnostic": "diagnostics/bad_control.py：audit_adjustment_set 静态审计 + Δθ 对照",
+    "evidence_file": "05-验证/坏控制检查结果.md",
+    "status": "unverified",
+    "diagnostic_ran": false,
+    "consequence_if_violated": "估计的是控制水质后的直接效应，系统性小于总效应；报告若标为总效应即为错误",
+    "notes": [
+      "常见错误做法：把水质当作『控制变量』放进回归 —— 看起来更严谨，实际改变了估计目标"
+    ]
+  },
+  {
+    "id": "A5",
+    "name": "调整集不含碰撞",
+    "statement": "FCR（饲料转化率）不在调整集中。",
+    "evidence_level": "testable",
+    "diagnostic": "diagnostics/bad_control.py：同上；FCR = 饲料量/增重，分子含 T、分母含 Y",
+    "evidence_file": "05-验证/坏控制检查结果.md",
+    "status": "unverified",
+    "diagnostic_ran": false,
+    "consequence_if_violated": "打开 T 与 Y 之间的后门通路，制造本来不存在的相关；偏倚方向与大小均不可预期",
+    "notes": [
+      "FCR 在养殖文献里被大量当作协变量使用 —— 本项目认为这是结构性错误，会在报告中说明理由"
+    ]
+  },
+  {
+    "id": "A6",
+    "name": "干预变量为实际值",
+    "statement": "投喂记录反映的是**实际投喂量**，而不是计划投喂量或『应该投』的推荐值。",
+    "evidence_level": "partially",
+    "diagnostic": "可估测量误差导致的**衰减上界**：若有少量塘口的实际投喂量可独立核实（如称重记录），可估计测量误差方差比例，进而给出真实效应的下界修正",
+    "evidence_file": "待建（依赖 B-1 数据通道）",
+    "status": "unverified",
+    "diagnostic_ran": false,
+    "consequence_if_violated": "若记录为计划值，则真实投喂与记录的偏离使估计效应**向零衰减**（attenuation bias）；真实效应的绝对值大于估计值",
+    "notes": [
+      "散户常有『按经验投』而不称量 → 记录可能是估计值",
+      "★ 这是真实数据阶段必须现场核实的一条（阻断项 B-1 的一部分）",
+      "当前无法判定，报告中须显式声明"
+    ]
+  }
+]

@@ -1,0 +1,375 @@
+{
+  "experiment": "exp1_scale",
+  "question": "输出网格粗于决策单元（单池 50 m）时，代价如何随尺度比增长？",
+  "data_mode": "【合成】",
+  "truth_known": true,
+  "setup": {
+    "n": 128,
+    "length_m": 3200.0,
+    "cell_m": 25.0,
+    "pond_side_m": 50.0,
+    "gap_m": 10.0,
+    "n_ponds": 2809,
+    "pond_area_ha": 0.25,
+    "n_pond_pixels": 11236,
+    "pond_pixel_share": 0.685791015625,
+    "factors": [
+      1,
+      2,
+      4,
+      8,
+      16
+    ],
+    "k_frac": 0.1,
+    "resolution_note": "输出网格相对单池的比值 = coarse_cell_m / 50 m；1.0 表示与池同尺度"
+  },
+  "scale_curve": [
+    {
+      "factor": 1,
+      "coarse_cell_m": 25.0,
+      "grid_vs_pond_ratio": 0.5,
+      "variance_retention": 1.0,
+      "rank_agreement_cells": 1.0,
+      "rank_agreement_pooled": 1.0,
+      "topk_overlap_pooled": 1.0,
+      "n_valid_cells": 11236,
+      "n_pooled_pixels": 11236,
+      "mean_pond_fraction_in_cell": 1.0
+    },
+    {
+      "factor": 2,
+      "coarse_cell_m": 50.0,
+      "grid_vs_pond_ratio": 1.0,
+      "variance_retention": 0.9052372790131396,
+      "rank_agreement_cells": 1.0,
+      "rank_agreement_pooled": 0.9479098463866276,
+      "topk_overlap_pooled": 0.7829181494661922,
+      "n_valid_cells": 2809,
+      "n_pooled_pixels": 11236,
+      "mean_pond_fraction_in_cell": 4.0
+    },
+    {
+      "factor": 4,
+      "coarse_cell_m": 100.0,
+      "grid_vs_pond_ratio": 2.0,
+      "variance_retention": 0.7843595592653952,
+      "rank_agreement_cells": 0.9972683272531065,
+      "rank_agreement_pooled": 0.8723717219993771,
+      "topk_overlap_pooled": 0.6494661921708185,
+      "n_valid_cells": 729,
+      "n_pooled_pixels": 11236,
+      "mean_pond_fraction_in_cell": 15.41289437585734
+    },
+    {
+      "factor": 8,
+      "coarse_cell_m": 200.0,
+      "grid_vs_pond_ratio": 4.0,
+      "variance_retention": 0.612508451919069,
+      "rank_agreement_cells": 0.9761429288622907,
+      "rank_agreement_pooled": 0.7411367126608783,
+      "topk_overlap_pooled": 0.5258007117437722,
+      "n_valid_cells": 196,
+      "n_pooled_pixels": 11236,
+      "mean_pond_fraction_in_cell": 57.326530612244895
+    },
+    {
+      "factor": 16,
+      "coarse_cell_m": 400.0,
+      "grid_vs_pond_ratio": 8.0,
+      "variance_retention": 0.32943273519096206,
+      "rank_agreement_cells": 0.9741836734693877,
+      "rank_agreement_pooled": 0.5368946644187994,
+      "topk_overlap_pooled": 0.3220640569395018,
+      "n_valid_cells": 49,
+      "n_pooled_pixels": 11236,
+      "mean_pond_fraction_in_cell": 229.30612244897958
+    }
+  ],
+  "skipped": [],
+  "coarse_grid_size": [
+    {
+      "factor": 1,
+      "n_coarse_cells": 11236,
+      "n_pooled_pixels": 11236
+    },
+    {
+      "factor": 2,
+      "n_coarse_cells": 2809,
+      "n_pooled_pixels": 11236
+    },
+    {
+      "factor": 4,
+      "n_coarse_cells": 729,
+      "n_pooled_pixels": 11236
+    },
+    {
+      "factor": 8,
+      "n_coarse_cells": 196,
+      "n_pooled_pixels": 11236
+    },
+    {
+      "factor": 16,
+      "n_coarse_cells": 49,
+      "n_pooled_pixels": 11236
+    }
+  ],
+  "geometry": [
+    {
+      "factor": 1,
+      "grid_m": 25.0,
+      "cells_per_pond": 2.0,
+      "ponds_per_cell": 0.17361111111111113,
+      "grid_coarser_than_pond": false,
+      "ratio_grid_to_pond": 0.5
+    },
+    {
+      "factor": 2,
+      "grid_m": 50.0,
+      "cells_per_pond": 1.0,
+      "ponds_per_cell": 0.6944444444444445,
+      "grid_coarser_than_pond": false,
+      "ratio_grid_to_pond": 1.0
+    },
+    {
+      "factor": 4,
+      "grid_m": 100.0,
+      "cells_per_pond": 0.5,
+      "ponds_per_cell": 2.777777777777778,
+      "grid_coarser_than_pond": true,
+      "ratio_grid_to_pond": 2.0
+    },
+    {
+      "factor": 8,
+      "grid_m": 200.0,
+      "cells_per_pond": 0.25,
+      "ponds_per_cell": 11.111111111111112,
+      "grid_coarser_than_pond": true,
+      "ratio_grid_to_pond": 4.0
+    },
+    {
+      "factor": 16,
+      "grid_m": 400.0,
+      "cells_per_pond": 0.125,
+      "ponds_per_cell": 44.44444444444445,
+      "grid_coarser_than_pond": true,
+      "ratio_grid_to_pond": 8.0
+    }
+  ],
+  "mode_gap": [
+    {
+      "factor": 1,
+      "mean_abs_gap_between_modes": 0.0,
+      "max_abs_gap": 0.0,
+      "mean_pond_fraction_in_cell": 1.0
+    },
+    {
+      "factor": 2,
+      "mean_abs_gap_between_modes": 0.0,
+      "max_abs_gap": 0.0,
+      "mean_pond_fraction_in_cell": 4.0
+    },
+    {
+      "factor": 4,
+      "mean_abs_gap_between_modes": 0.01373732133930034,
+      "max_abs_gap": 0.49931422280523247,
+      "mean_pond_fraction_in_cell": 15.41289437585734
+    },
+    {
+      "factor": 8,
+      "mean_abs_gap_between_modes": 0.048150523044412905,
+      "max_abs_gap": 0.8691314756667424,
+      "mean_pond_fraction_in_cell": 57.326530612244895
+    },
+    {
+      "factor": 16,
+      "mean_abs_gap_between_modes": 0.04671167091857123,
+      "max_abs_gap": 0.5172339277456919,
+      "mean_pond_fraction_in_cell": 229.30612244897958
+    }
+  ],
+  "decision_vs_info_ratio": [
+    {
+      "factor": 1,
+      "coarse_cell_m": 25.0,
+      "grid_vs_pond_ratio": 0.5,
+      "variance_retention": 1.0,
+      "topk_overlap_pooled": 1.0,
+      "info_loss": 0.0,
+      "decision_loss": 0.0,
+      "ratio_decision_over_info": NaN
+    },
+    {
+      "factor": 2,
+      "coarse_cell_m": 50.0,
+      "grid_vs_pond_ratio": 1.0,
+      "variance_retention": 0.9052372790131396,
+      "topk_overlap_pooled": 0.7829181494661922,
+      "info_loss": 0.09476272098686045,
+      "decision_loss": 0.2170818505338078,
+      "ratio_decision_over_info": 2.2907937665055838
+    },
+    {
+      "factor": 4,
+      "coarse_cell_m": 100.0,
+      "grid_vs_pond_ratio": 2.0,
+      "variance_retention": 0.7843595592653952,
+      "topk_overlap_pooled": 0.6494661921708185,
+      "info_loss": 0.21564044073460475,
+      "decision_loss": 0.35053380782918153,
+      "ratio_decision_over_info": 1.6255476321373046
+    },
+    {
+      "factor": 8,
+      "coarse_cell_m": 200.0,
+      "grid_vs_pond_ratio": 4.0,
+      "variance_retention": 0.612508451919069,
+      "topk_overlap_pooled": 0.5258007117437722,
+      "info_loss": 0.387491548080931,
+      "decision_loss": 0.4741992882562278,
+      "ratio_decision_over_info": 1.223766790797685
+    },
+    {
+      "factor": 16,
+      "coarse_cell_m": 400.0,
+      "grid_vs_pond_ratio": 8.0,
+      "variance_retention": 0.32943273519096206,
+      "topk_overlap_pooled": 0.3220640569395018,
+      "info_loss": 0.6705672648090379,
+      "decision_loss": 0.6779359430604982,
+      "ratio_decision_over_info": 1.0109887234855681
+    }
+  ],
+  "original_criterion_S4_cooccurrence": {
+    "thresholds": {
+      "variance_retention_gt": 0.85,
+      "topk_overlap_lt": 0.6
+    },
+    "co_occurring_scales_m": [],
+    "note": "原判据的两个阈值分别落在曲线两端，从不共现；已在修正记录中登记为判据设计错误（非实现缺陷）"
+  },
+  "cross_seed_robustness": {
+    "n_seeds": 12,
+    "scales_factor": [
+      2,
+      4,
+      8,
+      16
+    ],
+    "scales_m": [
+      50.0,
+      100.0,
+      200.0,
+      400.0
+    ],
+    "count_ratio_gt1_per_scale": [
+      12,
+      12,
+      12,
+      5
+    ],
+    "mean_ratio_per_scale": [
+      2.280076407577676,
+      1.5377424841199987,
+      1.1948172578534442,
+      0.9633223966969235
+    ],
+    "min_ratio": 0.8329746892934486,
+    "all_scales_all_seeds_gt1": false,
+    "note": "ratio>1 在 f=2,4,8 上 12/12 成立；在 f=16 上仅 5/12 成立。故判据限定在 f<=8 使用。"
+  },
+  "s4_scope": {
+    "scope_factors": [
+      2,
+      4,
+      8
+    ],
+    "mean_ratio_monotone_decreasing": true
+  },
+  "geometry_wide_check": {
+    "25m": {
+      "factor": 1,
+      "grid_m": 25.0,
+      "cells_per_pond": 2.0,
+      "ponds_per_cell": 0.17361111111111113,
+      "grid_coarser_than_pond": false,
+      "ratio_grid_to_pond": 0.5
+    },
+    "100m": {
+      "factor": 4,
+      "grid_m": 100.0,
+      "cells_per_pond": 0.5,
+      "ponds_per_cell": 2.777777777777778,
+      "grid_coarser_than_pond": true,
+      "ratio_grid_to_pond": 2.0
+    },
+    "1000m": {
+      "factor": 40,
+      "grid_m": 1000.0,
+      "cells_per_pond": 0.05,
+      "ponds_per_cell": 277.7777777777778,
+      "grid_coarser_than_pond": true,
+      "ratio_grid_to_pond": 20.0
+    }
+  },
+  "checks": [
+    {
+      "id": "S1",
+      "desc": "f=1 时信息量保留率恰为 1（同尺度无损失）",
+      "pass": true,
+      "observed": "1.000000000000",
+      "expected": "== 1.0"
+    },
+    {
+      "id": "S2",
+      "desc": "信息量保留率随粗化单调不增",
+      "pass": true,
+      "observed": "1.0000 → 0.9052 → 0.7844 → 0.6125 → 0.3294",
+      "expected": "单调不增"
+    },
+    {
+      "id": "S3",
+      "desc": "前k重叠率随粗化单调不增，且 f>1 时不恒为1（防自比）",
+      "pass": true,
+      "observed": "1.0000 → 0.7829 → 0.6495 → 0.5258 → 0.3221",
+      "expected": "单调不增 且 至少一个 < 1"
+    },
+    {
+      "id": "S4",
+      "desc": "★主结果：f≤8（≤4倍池体）上 决策相对损失>信息相对损失，12/12 种子成立",
+      "pass": true,
+      "observed": "f=2(50m):12/12; f=4(100m):12/12; f=8(200m):12/12; f=16(400m):5/12",
+      "expected": "f=2,4,8 上均为 12/12"
+    },
+    {
+      "id": "S4b",
+      "desc": "比值均值随粗化单调递减（越细分离越显著）",
+      "pass": true,
+      "observed": "2.280 → 1.538 → 1.195 → 0.963",
+      "expected": "单调递减"
+    },
+    {
+      "id": "S4c",
+      "desc": "披露：原阈值对(var>0.85 且 topk<0.60)从不共现",
+      "pass": true,
+      "observed": "共现尺度=[]",
+      "expected": "（记录事实，非失败）"
+    },
+    {
+      "id": "S5",
+      "desc": "几何诊断与失配曲线的网格尺度一致",
+      "pass": true,
+      "observed": "完全一致",
+      "expected": "完全一致"
+    },
+    {
+      "id": "S6",
+      "desc": "纯几何：25m 不比池粗、100m 与 1000m 比池粗",
+      "pass": true,
+      "observed": "25m→False, 100m→True, 1000m→True",
+      "expected": "False / True / True"
+    }
+  ],
+  "n_pass": 8,
+  "n_total": 8,
+  "verdict": "PASS"
+}

@@ -1,0 +1,69 @@
+{
+ "_meta": {
+  "queries": [
+   "causal inference observational aquaculture",
+   "causal effect estimation fish growth feeding",
+   "causal machine learning environmental intervention effect",
+   "double machine learning treatment effect environmental data",
+   "targeted maximum likelihood estimation causal effect ecology",
+   "causal discovery time series environmental monitoring",
+   "counterfactual prediction ecological intervention",
+   "confounding adjustment observational fishery data"
+  ],
+  "per_query": {
+   "causal inference observational aquaculture": 36,
+   "causal effect estimation fish growth feeding": 39,
+   "causal machine learning environmental intervention effect": 40,
+   "double machine learning treatment effect environmental data": 33,
+   "targeted maximum likelihood estimation causal effect ecology": 36,
+   "causal discovery time series environmental monitoring": 30,
+   "counterfactual prediction ecological intervention": 37,
+   "confounding adjustment observational fishery data": 39
+  }
+ },
+ "selected": [
+  {
+   "id": "https://openalex.org/W7127039022",
+   "doi": "10.1016/j.watres.2026.125492",
+   "title": "Bridging causality and deep learning for harmful algal bloom prediction",
+   "year": 2026,
+   "date": "2026-02-02",
+   "type": "article",
+   "venue": "Water Research",
+   "cited": 10,
+   "authors": [
+    "Pouya Zarbipour",
+    "Mohammad Reza Nikoo",
+    "Hassan Akbari",
+    "Rouzbeh Nazari",
+    "Maryam Karimi"
+   ],
+   "n_authors": 5,
+   "first_author": "Pouya Zarbipour",
+   "first_country": "IR",
+   "countries": [
+    "IR",
+    "OM",
+    "US"
+   ],
+   "cn": false,
+   "cn_first": false,
+   "topics": [
+    "Marine and coastal ecosystems",
+    "Hydrological Forecasting Using AI",
+    "Oil Spill Detection and Mitigation"
+   ]
+  }
+ ],
+ "stats": {
+  "n": 1,
+  "rec": 1,
+  "cn": 0,
+  "cnf": 0,
+  "strong": 1,
+  "pool": 1,
+  "raw": 290,
+  "dropped_dedup": 3,
+  "dropped_gate": 286
+ }
+}

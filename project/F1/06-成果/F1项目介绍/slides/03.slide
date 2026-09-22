@@ -1,0 +1,69 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'column' }}>
+
+    {/* A3 深蓝顶条 */}
+    <Box style={{ width: 1280, height: 56, background: '#1E4FA8', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingLeft: 40, paddingRight: 40 }}>
+        <Text style={{ fontSize: 14, color: '#BFD5EF', letterSpacing: 2 }}>01 问题与边界</Text>
+        <Text style={{ fontSize: 14, color: '#BFD5EF' }}>F1 · 项目介绍</Text>
+    </Box>
+
+    {/* B 标题块 */}
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 24, flexDirection: 'column', gap: 6 }}>
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>我们要回答的三个问题</Text>
+        <Text style={{ fontSize: 16, color: '#4A5568' }}>不是「用 AI 做养殖」，而是三个能被反复追问的具体问题</Text>
+    </Box>
+
+    {/* C 内容区 */}
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 20, height: 508, flexDirection: 'column', gap: 14 }}>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'stretch', gap: 20, height: 132, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 20 }}>
+            <Box style={{ width: 100, justifyContent: 'center', alignItems: 'center' }}>
+                <Text style={{ fontSize: 72, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1 }}>①</Text>
+            </Box>
+            <Box style={{ flex: 1, flexDirection: 'column', justifyContent: 'center', gap: 6 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>这个干预的效应量是多少？</Text>
+                <Text style={{ fontSize: 20, color: '#4A5568', lineHeight: 1.5 }}>
+                    投喂量、养殖密度、换水频次、增氧时长 —— 在已经发生的观测数据里，改一档会让生长变成什么样。
+                </Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'stretch', gap: 20, height: 132, background: '#FFFFFF', border: '1px solid #D6DCE5', padding: 20 }}>
+            <Box style={{ width: 100, justifyContent: 'center', alignItems: 'center' }}>
+                <Text style={{ fontSize: 72, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1 }}>②</Text>
+            </Box>
+            <Box style={{ flex: 1, flexDirection: 'column', justifyContent: 'center', gap: 6 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>这个数字多脆弱？</Text>
+                <Text style={{ fontSize: 20, color: '#4A5568', lineHeight: 1.5 }}>
+                    需要多强的未测混杂，才能把它推到 0。这是唯一能给「结论有多可信」定量的办法。
+                </Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'stretch', gap: 20, height: 132, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 20 }}>
+            <Box style={{ width: 100, justifyContent: 'center', alignItems: 'center' }}>
+                <Text style={{ fontSize: 72, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1 }}>③</Text>
+            </Box>
+            <Box style={{ flex: 1, flexDirection: 'column', justifyContent: 'center', gap: 6 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>效应在谁身上更大？</Text>
+                <Text style={{ fontSize: 20, color: '#4A5568', lineHeight: 1.5 }}>
+                    不同塘型、规模、品种之间的效应差异 —— 以及这个差异能不能被数据支撑到。
+                </Text>
+            </Box>
+        </Box>
+
+        {/* 底部强调条 */}
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14, paddingLeft: 20, paddingRight: 20, height: 48, background: '#E8EFF8', borderLeft: '4px solid #1E4FA8' }}>
+            <Text style={{ fontSize: 20, color: '#1A2230' }}>
+                边界：<span style={{ fontWeight: 'bold', color: '#0E3F8C' }}>不产出预测、不推荐投喂量、不做因果发现</span> —— 只做「估计 + 有效性审计」。
+            </Text>
+        </Box>
+
+    </Box>
+
+    {/* D 页脚 */}
+    <Box style={{ paddingLeft: 40, paddingRight: 40, height: 40, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>广东海洋大学 · 数学与计算机学院</Text>
+        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>03 / 12</Text>
+    </Box>
+
+</Slide>

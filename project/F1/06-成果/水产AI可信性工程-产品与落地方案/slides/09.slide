@@ -1,0 +1,33 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'row' }}>
+
+    <Box style={{ width: 460, height: 720, background: '#F0F5FC', justifyContent: 'center', alignItems: 'center' }}>
+        <Text style={{ fontSize: 180, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1 }}>03</Text>
+    </Box>
+
+    <Box style={{ width: 820, height: 720, padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 18 }}>
+        <Box style={{ width: 80, height: 4, background: '#FFC107' }} />
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1.2 }}>
+            优势在哪
+        </Text>
+        <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.7 }}>
+            这一章要回答的是：<span style={{ fontWeight: 'bold', color: '#1E4FA8' }}>凭什么是我们</span>。
+            答案不是「我们更聪明」，而是三件别人要么没动机、要么做不了的事。
+        </Text>
+
+        <Box style={{ flexDirection: 'column', gap: 12, marginTop: 6 }}>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>优势不是「我们有什么」，是「为什么别人不做」</Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>理由必须不是「他们没想到」—— 那随时可被消除</Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>能站住的只有两个结构性错配</Text>
+            </Box>
+        </Box>
+    </Box>
+
+</Slide>

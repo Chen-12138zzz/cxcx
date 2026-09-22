@@ -1,0 +1,2 @@
+ 1|2026|国外|S=1|   10| Bridging causality and deep learning for harmful algal bloom prediction
+      venue=Water Research | doi=10.1016/j.watres.2026.125492

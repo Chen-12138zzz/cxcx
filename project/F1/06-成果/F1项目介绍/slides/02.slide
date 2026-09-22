@@ -1,0 +1,64 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'row' }}>
+
+    {/* 左侧窄深蓝栏 32% */}
+    <Box style={{ width: 400, height: 720, background: '#0E3F8C', padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 20 }}>
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#FFFFFF', lineHeight: 1.1 }}>
+            目录
+        </Text>
+        <Box style={{ width: 80, height: 4, background: '#FFC107' }} />
+        <Text style={{ fontSize: 18, color: '#8FB4E0', letterSpacing: 3, marginTop: 4 }}>
+            CONTENTS
+        </Text>
+        <Text style={{ fontSize: 16, color: '#8FB4E0', lineHeight: 1.8, marginTop: 24 }}>
+            四章，十二页。<br />
+            先说问题在哪，再说方法怎么设计，<br />
+            然后看结果 —— 包括没做成的那部分。
+        </Text>
+    </Box>
+
+    {/* 右侧 4 条条目 */}
+    <Box style={{ width: 880, height: 720, padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 16 }}>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 24, padding: 20, background: '#F0F5FC', borderRadius: 6, border: '1px solid #D6DCE5' }}>
+            <Box style={{ width: 56, height: 56, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#FFFFFF' }}>01</Text>
+            </Box>
+            <Box style={{ flexDirection: 'column', gap: 6 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>问题与边界</Text>
+                <Text style={{ fontSize: 16, color: '#4A5568' }}>三个问题 · 数据里的三个陷阱 · 和同类工作差在哪</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 24, padding: 20, background: '#FFFFFF', borderRadius: 6, border: '1px solid #D6DCE5' }}>
+            <Box style={{ width: 56, height: 56, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#FFFFFF' }}>02</Text>
+            </Box>
+            <Box style={{ flexDirection: 'column', gap: 6 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>方法设计</Text>
+                <Text style={{ fontSize: 16, color: '#4A5568' }}>从数据到结论要过七道关 · 为什么先用合成数据</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 24, padding: 20, background: '#F0F5FC', borderRadius: 6, border: '1px solid #D6DCE5' }}>
+            <Box style={{ width: 56, height: 56, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#FFFFFF' }}>03</Text>
+            </Box>
+            <Box style={{ flexDirection: 'column', gap: 6 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>实验与结论</Text>
+                <Text style={{ fontSize: 16, color: '#4A5568' }}>21/21 判定项与它的修正史 · 一条否定性结论</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 24, padding: 20, background: '#FFFFFF', borderRadius: 6, border: '1px solid #D6DCE5' }}>
+            <Box style={{ width: 56, height: 56, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#FFFFFF' }}>04</Text>
+            </Box>
+            <Box style={{ flexDirection: 'column', gap: 6 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>现状与下一步</Text>
+                <Text style={{ fontSize: 16, color: '#4A5568' }}>已经具备什么 · 还缺什么 · 为什么不绕过</Text>
+            </Box>
+        </Box>
+
+    </Box>
+
+</Slide>

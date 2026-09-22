@@ -1,0 +1,96 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'column' }}>
+
+    <Box style={{ width: 1280, height: 56, background: '#1E4FA8', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingLeft: 40, paddingRight: 40 }}>
+        <Text style={{ fontSize: 14, color: '#BFD5EF', letterSpacing: 2 }}>02 方法设计</Text>
+        <Text style={{ fontSize: 14, color: '#BFD5EF' }}>F1 · 项目介绍</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 20, flexDirection: 'column', gap: 4 }}>
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>从数据到结论，要过七道关</Text>
+        <Text style={{ fontSize: 16, color: '#4A5568' }}>每一步的中间产物都可复核 —— 这是「可审计」的具体含义</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 16, height: 520, flexDirection: 'row', gap: 24 }}>
+
+        {/* 左：七节点竖向流程 SVG */}
+        <Box style={{ width: 470, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 16, flexDirection: 'column' }}>
+            <Text style={{ fontSize: 18, fontWeight: 'bold', color: '#1E4FA8', marginBottom: 6 }}>处理链路</Text>
+            <svg width={434} height={420} viewBox='0 0 434 420'>
+                <line x1='26' y1='26' x2='26' y2='394' stroke='#D6DCE5' strokeWidth='2' />
+
+                <circle cx='26' cy='26' r='10' fill='#1E4FA8' />
+                <text x='50' y='24' fontSize='16' fill='#1A2230' fontWeight='bold'>角色审计</text>
+                <text x='50' y='43' fontSize='13' fill='#8B97A8'>谁是混杂 / 中介 / 碰撞</text>
+
+                <circle cx='26' cy='79' r='10' fill='#3D7BD9' />
+                <text x='50' y='77' fontSize='16' fill='#1A2230' fontWeight='bold'>正性诊断</text>
+                <text x='50' y='96' fontSize='13' fill='#8B97A8'>有没有共同支撑</text>
+
+                <circle cx='26' cy='132' r='10' fill='#3D7BD9' />
+                <text x='50' y='130' fontSize='16' fill='#1A2230' fontWeight='bold'>效应估计</text>
+                <text x='50' y='149' fontSize='13' fill='#8B97A8'>双重稳健 + 交叉拟合</text>
+
+                <circle cx='26' cy='185' r='10' fill='#3D7BD9' />
+                <text x='50' y='183' fontSize='16' fill='#1A2230' fontWeight='bold'>剂量-反应曲线</text>
+                <text x='50' y='202' fontSize='13' fill='#8B97A8'>效应随干预档位怎么变</text>
+
+                <circle cx='26' cy='238' r='10' fill='#3D7BD9' />
+                <text x='50' y='236' fontSize='16' fill='#1A2230' fontWeight='bold'>敏感性分析</text>
+                <text x='50' y='255' fontSize='13' fill='#8B97A8'>多强的混杂才能推翻结论</text>
+
+                <circle cx='26' cy='291' r='13' fill='#0E3F8C' />
+                <text x='50' y='289' fontSize='16' fill='#0E3F8C' fontWeight='bold'>识别假设台账</text>
+                <text x='50' y='308' fontSize='13' fill='#8B97A8'>逐条标注核验状态</text>
+
+                <circle cx='26' cy='344' r='13' fill='#0E3F8C' />
+                <text x='50' y='342' fontSize='16' fill='#0E3F8C' fontWeight='bold'>报告守卫</text>
+                <text x='50' y='361' fontSize='13' fill='#8B97A8'>不合格输出直接拦截</text>
+
+                <rect x='0' y='392' width='434' height='28' fill='#E8EFF8' rx='4' />
+                <text x='217' y='411' fontSize='14' fill='#1E4FA8' textAnchor='middle' fontWeight='bold'>效应值 + 它的有效边界</text>
+            </svg>
+        </Box>
+
+        {/* 右：要点卡片 */}
+        <Box style={{ width: 706, flexDirection: 'column', gap: 14 }}>
+
+            <Box style={{ height: 168, background: '#FFFFFF', border: '1px solid #D6DCE5', padding: 12, flexDirection: 'column', gap: 6 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>为什么必须先用合成数据</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    因果推断的根本困难是<b>无法验证</b>。我们先造一个真值已知的世界：
+                    写出显式因果结构，让平均效应可<b>解析计算</b>，
+                    从而把「偏了多少」变成可测量的数字。
+                </Text>
+            </Box>
+
+            <Box style={{ height: 168, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 12, flexDirection: 'column', gap: 6 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>★ 台账为什么禁止写「已验证」</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    识别假设（尤其「无未测混杂」）<b>原则上不可被数据证实</b>。
+                    允许写「已验证」会诱导虚假确定性，故状态只有
+                    <span style={{ color: '#1E4FA8', fontWeight: 'bold' }}>未核实 / 部分核实 / 已违背 / 不适用</span> 四种。
+                </Text>
+            </Box>
+
+            <Box style={{ height: 78, background: '#0E3F8C', padding: 14, flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Text style={{ fontSize: 34, fontWeight: 'bold', color: '#FFC107', lineHeight: 1 }}>7</Text>
+                <Text style={{ fontSize: 22, color: '#FFFFFF', lineHeight: 1.35, flex: 1 }}>
+                    道关全过才输出。<b>一个「看起来合理」的假数字，比显式空缺危险得多。</b>
+                </Text>
+            </Box>
+
+            <Box style={{ height: 48, background: '#E8EFF8', borderLeft: '4px solid #1E4FA8', paddingLeft: 16, flexDirection: 'row', alignItems: 'center' }}>
+                <Text style={{ fontSize: 22, color: '#4A5568' }}>
+                    【合成】流程在合成数据上验证；真实数据通道尚未落实。
+                </Text>
+            </Box>
+
+        </Box>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, height: 40, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>广东海洋大学 · 数学与计算机学院</Text>
+        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>07 / 12</Text>
+    </Box>
+
+</Slide>

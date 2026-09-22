@@ -1,0 +1,14 @@
+﻿scenario,n,positivity_violation,strata_per_covariate,n_strata,n_boxes,expected_per_box,median_expected_in_box,median_stratum_size,n_strata_undetermined,n_strata_sparse_gap,undetermined_fraction,n_strata_small,min_box_count,verdict,worst_stratum_size,worst_empty_boxes
+A_sample_size,600,0.0,3,54,5,2.2222222222222223,2.2,11.0,0,25,0.0,54,0,sparse,16,[0]
+A_sample_size,1200,0.0,3,54,5,4.444444444444445,4.4,22.0,4,10,0.07407407407407407,37,0,undetermined,35,[0]
+A_sample_size,2400,0.0,3,54,5,8.88888888888889,8.9,44.5,2,0,0.037037037037037035,0,0,undetermined,58,[0]
+A_sample_size,4800,0.0,3,54,5,17.77777777777778,17.8,89.0,0,0,0.0,0,1,ok,68,[]
+A_sample_size,9600,0.0,3,54,5,35.55555555555556,35.8,179.0,0,0,0.0,0,2,ok,166,[]
+A_sample_size,19200,0.0,3,54,5,71.11111111111111,70.6,353.0,0,0,0.0,0,7,ok,418,[]
+C_resolution,1200,0.0,2,16,5,15.0,15.3,76.5,0,0,0.0,0,2,ok,92,[]
+C_resolution,1200,0.0,3,54,5,4.444444444444445,4.4,22.0,4,10,0.07407407407407407,37,0,undetermined,35,[0]
+C_resolution,4800,0.0,2,16,5,60.0,60.599999999999994,303.0,0,0,0.0,0,10,ok,276,[]
+C_resolution,4800,0.0,3,54,5,17.77777777777778,17.8,89.0,0,0,0.0,0,1,ok,68,[]
+D_tiny_n,200,0.0,3,52,5,0.7692307692307693,0.8,4.0,0,49,0.0,52,0,sparse,8,"[0, 4]"
+D_tiny_n,400,0.0,3,54,5,1.4814814814814814,1.4,7.0,0,43,0.0,54,0,sparse,13,[1]
+D_tiny_n,600,0.0,3,54,5,2.2222222222222223,2.2,11.0,0,25,0.0,54,0,sparse,16,[0]

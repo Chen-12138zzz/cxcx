@@ -1,0 +1,76 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'row' }}>
+
+    {/* 左侧窄深蓝栏 400px */}
+    <Box style={{ width: 400, height: 720, background: '#0E3F8C', padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 16 }}>
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#FFFFFF', lineHeight: 1.1 }}>
+            目录
+        </Text>
+        <Box style={{ width: 80, height: 4, background: '#FFC107' }} />
+        <Text style={{ fontSize: 18, color: '#8FB4E0', letterSpacing: 3, marginTop: 2 }}>
+            CONTENTS
+        </Text>
+        <Text style={{ fontSize: 16, color: '#8FB4E0', lineHeight: 1.8, marginTop: 20 }}>
+            五章。按提问顺序排：<br />
+            先说什么东西、给谁用，<br />
+            再说凭什么、解决什么，<br />
+            最后说为什么是它 ——<br />
+            以及它现在还缺什么。
+        </Text>
+    </Box>
+
+    {/* 右侧 5 条条目 */}
+    <Box style={{ width: 880, height: 720, padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 12 }}>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 22, paddingLeft: 18, paddingRight: 18, paddingTop: 14, paddingBottom: 14, background: '#F0F5FC', borderRadius: 6, border: '1px solid #D6DCE5' }}>
+            <Box style={{ width: 52, height: 52, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                <Text style={{ fontSize: 23, fontWeight: 'bold', color: '#FFFFFF' }}>01</Text>
+            </Box>
+            <Box style={{ flexDirection: 'column', gap: 5, flex: 1 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>这是什么产品</Text>
+                <Text style={{ fontSize: 16, color: '#4A5568' }}>一句话定义 · 做哪三件事 · 三层价值</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 22, paddingLeft: 18, paddingRight: 18, paddingTop: 14, paddingBottom: 14, background: '#FFFFFF', borderRadius: 6, border: '1px solid #D6DCE5' }}>
+            <Box style={{ width: 52, height: 52, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                <Text style={{ fontSize: 23, fontWeight: 'bold', color: '#FFFFFF' }}>02</Text>
+            </Box>
+            <Box style={{ flexDirection: 'column', gap: 5, flex: 1 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>服务谁</Text>
+                <Text style={{ fontSize: 16, color: '#4A5568' }}>四层对象 · 三个真实触发场景 · 谁最痛</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 22, paddingLeft: 18, paddingRight: 18, paddingTop: 14, paddingBottom: 14, background: '#F0F5FC', borderRadius: 6, border: '1px solid #D6DCE5' }}>
+            <Box style={{ width: 52, height: 52, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                <Text style={{ fontSize: 23, fontWeight: 'bold', color: '#FFFFFF' }}>03</Text>
+            </Box>
+            <Box style={{ flexDirection: 'column', gap: 5, flex: 1 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>优势在哪</Text>
+                <Text style={{ fontSize: 16, color: '#4A5568' }}>两个不会自动消失的「不匹配」· 竞品边界</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 22, paddingLeft: 18, paddingRight: 18, paddingTop: 14, paddingBottom: 14, background: '#FFFFFF', borderRadius: 6, border: '1px solid #D6DCE5' }}>
+            <Box style={{ width: 52, height: 52, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                <Text style={{ fontSize: 23, fontWeight: 'bold', color: '#FFFFFF' }}>04</Text>
+            </Box>
+            <Box style={{ flexDirection: 'column', gap: 5, flex: 1 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>解决什么问题</Text>
+                <Text style={{ fontSize: 16, color: '#4A5568' }}>三条问题表现 · 怎么处理 · 怎么验证有没有用</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 22, paddingLeft: 18, paddingRight: 18, paddingTop: 14, paddingBottom: 14, background: '#F0F5FC', borderRadius: 6, border: '1px solid #D6DCE5' }}>
+            <Box style={{ width: 52, height: 52, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                <Text style={{ fontSize: 23, fontWeight: 'bold', color: '#FFFFFF' }}>05</Text>
+            </Box>
+            <Box style={{ flexDirection: 'column', gap: 5, flex: 1 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>为什么选这个命题</Text>
+                <Text style={{ fontSize: 16, color: '#4A5568' }}>四步立项逻辑 · 以及它现在缺什么</Text>
+            </Box>
+        </Box>
+
+    </Box>
+
+</Slide>

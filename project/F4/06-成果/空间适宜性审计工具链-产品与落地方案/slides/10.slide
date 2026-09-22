@@ -1,0 +1,34 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'row' }}>
+
+    <Box style={{ width: 460, height: 720, background: '#F0F5FC', justifyContent: 'center', alignItems: 'center' }}>
+        <Text style={{ fontSize: 180, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1 }}>04</Text>
+    </Box>
+
+    <Box style={{ width: 820, height: 720, padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 18 }}>
+        <Box style={{ width: 80, height: 4, background: '#FFC107' }} />
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1.2 }}>
+            解决什么问题
+        </Text>
+        <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.7 }}>
+            三个问题都来自已有文献指出、但尚未被转成数字的缺口。
+            每个答案都带
+            <span style={{ fontWeight: 'bold', color: '#1E4FA8' }}>样本量、方法名与适用范围</span>。
+        </Text>
+
+        <Box style={{ flexDirection: 'column', gap: 12, marginTop: 6 }}>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>问题一：融合换来多少精度、多少代价</Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>问题二：网格粗于池体时，精度还成立吗</Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>问题三：报告少写一项，后果有多大</Text>
+            </Box>
+        </Box>
+    </Box>
+
+</Slide>

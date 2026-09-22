@@ -1,0 +1,288 @@
+{
+  "generated_from": "E:\\BJTU\\CXCY\\CXCY-PAPER\\project\\F4",
+  "statistical_convention": {
+    "cn_chars": "len(re.findall(r\"[\\u4e00-\\u9fff]\", text))",
+    "note": "只计 CJK 基本区汉字；不含标点、数字、拉丁字母、扩展区汉字"
+  },
+  "groups": {
+    "核心源码（src/）": [
+      {
+        "path": "04-原型系统/src/__init__.py",
+        "name": "__init__.py",
+        "bytes": 848,
+        "lines": 20,
+        "blank_lines": 4,
+        "comment_or_docstring_lines": 3,
+        "code_lines": 13,
+        "cn_chars": 121,
+        "sha256": "7cf0d28724ac239146cfdad15425c5065102098488e1ebb547c9f4f5b31597f5"
+      },
+      {
+        "path": "04-原型系统/src/audit/__init__.py",
+        "name": "__init__.py",
+        "bytes": 222,
+        "lines": 5,
+        "blank_lines": 1,
+        "comment_or_docstring_lines": 2,
+        "code_lines": 2,
+        "cn_chars": 8,
+        "sha256": "ca501bf8995ed70a0e5ef4fa4173162469d56d72b9d7022c043e9e0b8a2f5e86"
+      },
+      {
+        "path": "04-原型系统/src/audit/audit.py",
+        "name": "audit.py",
+        "bytes": 9401,
+        "lines": 196,
+        "blank_lines": 23,
+        "comment_or_docstring_lines": 19,
+        "code_lines": 154,
+        "cn_chars": 1147,
+        "sha256": "e7a3b27551ca19510ee286aacdb65c913007d73b1edec1e6769967b8c87abdf5"
+      },
+      {
+        "path": "04-原型系统/src/fusion/__init__.py",
+        "name": "__init__.py",
+        "bytes": 573,
+        "lines": 17,
+        "blank_lines": 1,
+        "comment_or_docstring_lines": 2,
+        "code_lines": 14,
+        "cn_chars": 10,
+        "sha256": "172e3ea2ca803a88c51453c3784e4f6ed06af20029281418da0c7362fdcf3e18"
+      },
+      {
+        "path": "04-原型系统/src/fusion/gain.py",
+        "name": "gain.py",
+        "bytes": 13780,
+        "lines": 307,
+        "blank_lines": 39,
+        "comment_or_docstring_lines": 28,
+        "code_lines": 240,
+        "cn_chars": 1375,
+        "sha256": "547da5f2b68414a0705d0827993ffb2aa3a66a4d8afd1c9a15ac2028672f43b0"
+      },
+      {
+        "path": "04-原型系统/src/fusion/scale.py",
+        "name": "scale.py",
+        "bytes": 13490,
+        "lines": 286,
+        "blank_lines": 37,
+        "comment_or_docstring_lines": 32,
+        "code_lines": 217,
+        "cn_chars": 1598,
+        "sha256": "7b558e8946fa86c45c5f59f9bfc49ba72925812039887bdd3061e94b97068861"
+      },
+      {
+        "path": "04-原型系统/src/mce.py",
+        "name": "mce.py",
+        "bytes": 11090,
+        "lines": 272,
+        "blank_lines": 40,
+        "comment_or_docstring_lines": 33,
+        "code_lines": 199,
+        "cn_chars": 1178,
+        "sha256": "f2b29e809ea02bb2c7303986fd0f495b71aa4a0a9a6c4c7b43b52394d683b82f"
+      },
+      {
+        "path": "04-原型系统/src/synth.py",
+        "name": "synth.py",
+        "bytes": 9137,
+        "lines": 233,
+        "blank_lines": 35,
+        "comment_or_docstring_lines": 28,
+        "code_lines": 170,
+        "cn_chars": 1004,
+        "sha256": "5bc06cfb0b44f6b00df45481f09a2a9afb4625cd59bff63066928342a6ada552"
+      }
+    ],
+    "自动化测试（tests/）": [
+      {
+        "path": "04-原型系统/tests/run_tests.py",
+        "name": "run_tests.py",
+        "bytes": 44555,
+        "lines": 845,
+        "blank_lines": 87,
+        "comment_or_docstring_lines": 100,
+        "code_lines": 658,
+        "cn_chars": 2710,
+        "sha256": "00fbe9402326d84d346ed047d6716995237890f0140bae6854ec320ff00727a2"
+      }
+    ],
+    "实验脚本（experiments/）": [
+      {
+        "path": "04-原型系统/experiments/exp0_structure.py",
+        "name": "exp0_structure.py",
+        "bytes": 13176,
+        "lines": 275,
+        "blank_lines": 28,
+        "comment_or_docstring_lines": 18,
+        "code_lines": 229,
+        "cn_chars": 1032,
+        "sha256": "79743e78e2aff2c2ef0d34353af6e3aca9f29e9ba1fd7a8e2fd6f4d998353af0"
+      },
+      {
+        "path": "04-原型系统/experiments/exp1_scale.py",
+        "name": "exp1_scale.py",
+        "bytes": 18077,
+        "lines": 340,
+        "blank_lines": 29,
+        "comment_or_docstring_lines": 21,
+        "code_lines": 290,
+        "cn_chars": 1400,
+        "sha256": "2aebebb52353374336cc0963639ba6ed2d33e730e64eff287ecbf6d645425c5a"
+      },
+      {
+        "path": "04-原型系统/experiments/exp2_fusion.py",
+        "name": "exp2_fusion.py",
+        "bytes": 16556,
+        "lines": 327,
+        "blank_lines": 33,
+        "comment_or_docstring_lines": 25,
+        "code_lines": 269,
+        "cn_chars": 1300,
+        "sha256": "cac848f8ff7f4f07ffda5637ec4a0f9e7223b1adca64d847d249223f3b995523"
+      },
+      {
+        "path": "04-原型系统/experiments/exp3_audit.py",
+        "name": "exp3_audit.py",
+        "bytes": 14169,
+        "lines": 288,
+        "blank_lines": 27,
+        "comment_or_docstring_lines": 13,
+        "code_lines": 248,
+        "cn_chars": 1101,
+        "sha256": "3b295921a5d72a144c83780acedaadeedb86a84204109850ee519effd2e2320b"
+      },
+      {
+        "path": "04-原型系统/experiments/gen_source_listing.py",
+        "name": "gen_source_listing.py",
+        "bytes": 12764,
+        "lines": 288,
+        "blank_lines": 23,
+        "comment_or_docstring_lines": 12,
+        "code_lines": 253,
+        "cn_chars": 1071,
+        "sha256": "3c43d950dfb588bd70b99562ad0b6bde2ba6c0091dc35e1dbc7830bc2951c537"
+      },
+      {
+        "path": "04-原型系统/experiments/run_all.py",
+        "name": "run_all.py",
+        "bytes": 2340,
+        "lines": 69,
+        "blank_lines": 12,
+        "comment_or_docstring_lines": 3,
+        "code_lines": 54,
+        "cn_chars": 221,
+        "sha256": "3d0d2791f4555805256f0024a40ead79f98a789ba4b6b6cabcef5829fdbcdac8"
+      }
+    ]
+  },
+  "totals": {
+    "files": 15,
+    "bytes": 180178,
+    "lines": 3768,
+    "code_lines": 3010,
+    "cn_chars": 15276
+  },
+  "api_counts": {
+    "src.synth": 5,
+    "src.mce": 9,
+    "src.fusion": 8,
+    "src.audit": 3
+  },
+  "api_total": 25,
+  "test_assertions_approx": 146,
+  "experiment_check_counts": {
+    "exp0_structure.py": {
+      "n_checks": 6
+    },
+    "exp1_scale.py": {
+      "n_checks": 8
+    },
+    "exp2_fusion.py": {
+      "n_checks": 10
+    },
+    "exp3_audit.py": {
+      "n_checks": 7
+    }
+  },
+  "scope_note": "以上 totals 只统计**原型系统本体**（src/tests/experiments）。演示材料（PPT）的工具脚本单列于 deck_tools，不计入该口径。",
+  "deck_tools": {
+    "path": "06-成果/空间适宜性审计工具链-产品与落地方案/tools",
+    "files": [
+      {
+        "path": "06-成果/空间适宜性审计工具链-产品与落地方案/tools/build_pptx.py",
+        "name": "build_pptx.py",
+        "bytes": 1500,
+        "lines": 38,
+        "blank_lines": 6,
+        "comment_or_docstring_lines": 3,
+        "code_lines": 29,
+        "cn_chars": 52,
+        "sha256": "2146ef0f9331e6973f5f4b5fe9182659873631c63f28be6967704157dc108d07"
+      },
+      {
+        "path": "06-成果/空间适宜性审计工具链-产品与落地方案/tools/gate_check.py",
+        "name": "gate_check.py",
+        "bytes": 5089,
+        "lines": 102,
+        "blank_lines": 7,
+        "comment_or_docstring_lines": 9,
+        "code_lines": 86,
+        "cn_chars": 368,
+        "sha256": "199b3295c38f51b96ed1d8cf4967a5227be55301e68108e72bde745093d32fb9"
+      },
+      {
+        "path": "06-成果/空间适宜性审计工具链-产品与落地方案/tools/lint_all.py",
+        "name": "lint_all.py",
+        "bytes": 1754,
+        "lines": 44,
+        "blank_lines": 4,
+        "comment_or_docstring_lines": 0,
+        "code_lines": 40,
+        "cn_chars": 36,
+        "sha256": "2d7689aa43635a565a4391879ed33fe5db52dfc1569bd5311eca1dd7b9357791"
+      },
+      {
+        "path": "06-成果/空间适宜性审计工具链-产品与落地方案/tools/lint_one.py",
+        "name": "lint_one.py",
+        "bytes": 908,
+        "lines": 17,
+        "blank_lines": 0,
+        "comment_or_docstring_lines": 0,
+        "code_lines": 17,
+        "cn_chars": 36,
+        "sha256": "bcb9116ee9a09d1d1ebb97a25b5db1062ff30df3d9a115490b8681e80fb69f50"
+      },
+      {
+        "path": "06-成果/空间适宜性审计工具链-产品与落地方案/tools/scan_words.py",
+        "name": "scan_words.py",
+        "bytes": 5815,
+        "lines": 127,
+        "blank_lines": 20,
+        "comment_or_docstring_lines": 15,
+        "code_lines": 92,
+        "cn_chars": 999,
+        "sha256": "3410f12f15c6e8177dabc3bcd6daa309f15217adc33c990e47653f24f519c1af"
+      },
+      {
+        "path": "06-成果/空间适宜性审计工具链-产品与落地方案/tools/verify_pptx.py",
+        "name": "verify_pptx.py",
+        "bytes": 2351,
+        "lines": 49,
+        "blank_lines": 6,
+        "comment_or_docstring_lines": 3,
+        "code_lines": 40,
+        "cn_chars": 155,
+        "sha256": "3cf93cf3496550c20ad6311c675e871d8d6937592283eb9ed30a9d0dddd2697a"
+      }
+    ],
+    "totals": {
+      "files": 6,
+      "bytes": 17417,
+      "lines": 377,
+      "code_lines": 304,
+      "cn_chars": 1646
+    }
+  }
+}

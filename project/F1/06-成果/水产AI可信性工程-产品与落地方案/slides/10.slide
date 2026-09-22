@@ -1,0 +1,115 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'column' }}>
+
+    <Box style={{ width: 1280, height: 56, background: '#1E4FA8', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingLeft: 40, paddingRight: 40 }}>
+        <Text style={{ fontSize: 14, color: '#BFD5EF', letterSpacing: 2 }}>03 优势在哪</Text>
+        <Text style={{ fontSize: 14, color: '#BFD5EF' }}>水产 AI 可信性工程</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 18, flexDirection: 'column', gap: 4 }}>
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>优势不在算法，在两个「不匹配」</Text>
+        <Text style={{ fontSize: 16, color: '#4A5568' }}>这两个错配不会自动消失 —— 这才是优势能站住的原因</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 14, height: 522, flexDirection: 'row', gap: 20 }}>
+
+        {/* 左栏：两个不匹配 + 能力对照 */}
+        <Box style={{ width: 716, flexDirection: 'column', gap: 12 }}>
+
+            <Box style={{ height: 136, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 14, flexDirection: 'column', gap: 6 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 12 }}>
+                    <Box style={{ width: 34, height: 34, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 17, fontWeight: 'bold', color: '#FFFFFF' }}>1</Text>
+                    </Box>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>动机不匹配</Text>
+                    <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#E8EFF8', borderRadius: 13, justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>不会消失</Text>
+                    </Box>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.4 }}>
+                    做安全合规的那家，KPI 是
+                    <span style={{ fontWeight: 'bold', color: '#1A2230' }}>拦截率与误报率</span>，
+                    不关心「这个数字从哪条数据算出来」。
+                </Text>
+            </Box>
+
+            <Box style={{ height: 136, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 14, flexDirection: 'column', gap: 6 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 12 }}>
+                    <Box style={{ width: 34, height: 34, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 17, fontWeight: 'bold', color: '#FFFFFF' }}>2</Text>
+                    </Box>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>粒度不匹配</Text>
+                    <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#E8EFF8', borderRadius: 13, justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>不会消失</Text>
+                    </Box>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.4 }}>
+                    通用工具评测的是「问答对」「特征分布」。养殖预警文本的
+                    <span style={{ fontWeight: 'bold', color: '#1A2230' }}>领域结构</span>，通用工具不认识。
+                </Text>
+            </Box>
+
+            {/* 能力对照 SVG */}
+            <Box style={{ flex: 1, background: '#FFFFFF', border: '1px solid #D6DCE5', padding: 14, flexDirection: 'column' }}>
+                <Text style={{ fontSize: 18, fontWeight: 'bold', color: '#1E4FA8', marginBottom: 2 }}>能力分层与缺口</Text>
+                <svg width={688} height={160} viewBox='0 0 688 160'>
+                    <rect x='0' y='8' width='212' height='62' rx='4' fill='#F0F5FC' stroke='#D6DCE5' strokeWidth='1' />
+                    <text x='106' y='32' fontSize='14' fill='#1A2230' textAnchor='middle' fontWeight='bold'>安全合规层</text>
+                    <text x='106' y='52' fontSize='12' fill='#8B97A8' textAnchor='middle'>拦有害内容 · 查合规风险</text>
+
+                    <rect x='238' y='8' width='212' height='62' rx='4' fill='#F0F5FC' stroke='#D6DCE5' strokeWidth='1' />
+                    <text x='344' y='32' fontSize='14' fill='#1A2230' textAnchor='middle' fontWeight='bold'>通用可信层</text>
+                    <text x='344' y='52' fontSize='12' fill='#8B97A8' textAnchor='middle'>问答对 · 特征分布 · 漂移</text>
+
+                    <rect x='476' y='4' width='212' height='70' rx='4' fill='#E8EFF8' stroke='#1E4FA8' strokeWidth='2' />
+                    <text x='582' y='30' fontSize='14' fill='#0E3F8C' textAnchor='middle' fontWeight='bold'>事实与问责层</text>
+                    <text x='582' y='50' fontSize='12' fill='#1E4FA8' textAnchor='middle'>逐数字回溯 · 出错定位到环节</text>
+                    <text x='582' y='66' fontSize='12' fill='#D9534F' textAnchor='middle'>← 本项目</text>
+
+                    <line x1='218' y1='39' x2='232' y2='39' stroke='#D6DCE5' strokeWidth='2' />
+                    <line x1='456' y1='39' x2='470' y2='39' stroke='#D6DCE5' strokeWidth='2' />
+
+                    <rect x='0' y='92' width='688' height='60' rx='4' fill='#0E3F8C' />
+                    <text x='16' y='116' fontSize='14' fill='#FFC107' fontWeight='bold'>关键区别：</text>
+                    <text x='100' y='116' fontSize='14' fill='#FFFFFF'>我们的理由不是「他们没想到」。</text>
+                    <text x='16' y='138' fontSize='14' fill='#BFD5EF'>大厂不缺想到这件事的人，缺的是「为湛江的散户预警文本做问责」这个具体动机。</text>
+                </svg>
+            </Box>
+
+        </Box>
+
+        {/* 右栏：门槛 + 深蓝实色卡（全篇 2 张之一） */}
+        <Box style={{ width: 464, flexDirection: 'column', gap: 12 }}>
+
+            <Box style={{ height: 268, background: '#0E3F8C', padding: 20, flexDirection: 'column', gap: 10, justifyContent: 'center' }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#FFFFFF', lineHeight: 1.35 }}>
+                    别人做不了的地方在哪
+                </Text>
+                <Text style={{ fontSize: 22, color: '#BFD5EF', lineHeight: 1.45 }}>
+                    门槛不在算法，在
+                    <span style={{ color: '#FFC107', fontWeight: 'bold' }}>数据的连续性</span>。
+                    <br />
+                    要证明「审计有效」，必须有一批
+                    <span style={{ color: '#FFC107', fontWeight: 'bold' }}>真实产生过错误</span>
+                    的预警文本 —— 这类数据只在长期运营的系统里有。
+                </Text>
+            </Box>
+
+            <Box style={{ flex: 1, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 16, flexDirection: 'column', gap: 8, justifyContent: 'center' }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>我们为什么有这批数据</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    上一轮预警系统留下的真实运行记录，
+                    连同可复现的评测集与判定口径 ——
+                    这是本项目
+                    <span style={{ fontWeight: 'bold', color: '#1E4FA8' }}>已经握在手里的东西</span>。
+                </Text>
+            </Box>
+
+        </Box>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, height: 40, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>近邻判定基于 2026-09-20 所及范围内的公开信息；未见披露不等于不存在</Text>
+        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>10 / 14</Text>
+    </Box>
+
+</Slide>

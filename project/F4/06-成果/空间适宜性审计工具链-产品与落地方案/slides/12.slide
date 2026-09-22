@@ -1,0 +1,35 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'row' }}>
+
+    <Box style={{ width: 460, height: 720, background: '#F0F5FC', justifyContent: 'center', alignItems: 'center' }}>
+        <Text style={{ fontSize: 180, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1 }}>05</Text>
+    </Box>
+
+    <Box style={{ width: 820, height: 720, padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 18 }}>
+        <Box style={{ width: 80, height: 4, background: '#FFC107' }} />
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1.2 }}>
+            为什么选这个命题
+        </Text>
+        <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.7 }}>
+            我们不以"没人做过"立项。恰恰相反 ——
+            这个领域很成熟，两篇关键文献都已
+            <span style={{ fontWeight: 'bold', color: '#1E4FA8' }}>公开承认</span>
+            我们关注的那些缺口。
+        </Text>
+
+        <Box style={{ flexDirection: 'column', gap: 12, marginTop: 6 }}>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>依据构成：8 条，空白型占比 0%</Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#1E4FA8' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>差异性质：粒度不匹配 + 动机不匹配</Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#D9534F' }} />
+                <Text style={{ fontSize: 20, color: '#1A2230' }}>明确排除：不是"他们没想到"</Text>
+            </Box>
+        </Box>
+    </Box>
+
+</Slide>

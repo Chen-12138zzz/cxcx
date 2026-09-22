@@ -1,0 +1,81 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'row', position: 'relative' }}>
+
+    {/* 左侧深蓝色块 500px */}
+    <Box style={{ width: 500, height: 720, background: '#0E3F8C', padding: 40, flexDirection: 'column', justifyContent: 'space-between' }}>
+        <Box style={{ flexDirection: 'column', gap: 8 }}>
+            <Text style={{ fontSize: 14, color: '#8FB4E0', letterSpacing: 2 }}>大学生创新创业训练计划</Text>
+            <Text style={{ fontSize: 14, color: '#8FB4E0', letterSpacing: 2 }}>产品定义与落地方案</Text>
+        </Box>
+
+        <Box style={{ flexDirection: 'column', gap: 14 }}>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                不做预测
+            </Text>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                不做控制
+            </Text>
+            <Box style={{ width: 64, height: 3, background: '#FFC107', marginTop: 4 }} />
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6, marginTop: 8 }}>
+                只检查养殖 AI
+            </Text>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                说出去的话
+            </Text>
+        </Box>
+
+        <Box style={{ flexDirection: 'column', gap: 6 }}>
+            <Text style={{ fontSize: 14, color: '#8FB4E0' }}>广东海洋大学 · 数学与计算机学院</Text>
+            <Text style={{ fontSize: 14, color: '#8FB4E0' }}>软件工程 · 2026-09</Text>
+        </Box>
+    </Box>
+
+    {/* 右侧白色承载标题 */}
+    <Box style={{ width: 780, height: 720, padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 20 }}>
+        <Text style={{ fontSize: 13, color: '#3D7BD9', letterSpacing: 3 }}>TRUSTWORTHINESS ENGINEERING FOR AQUACULTURE AI</Text>
+
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1.25 }}>
+            水产 AI
+        </Text>
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1.25 }}>
+            可信性工程
+        </Text>
+
+        <Box style={{ width: 120, height: 4, background: '#1E4FA8', marginTop: 4 }} />
+
+        <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.6 }}>
+            让养殖 AI 说出的每一句话，都能被追溯到数据、
+            被追问、被追责。
+        </Text>
+
+        {/* 视觉锚点：三环链 SVG */}
+        <Box style={{ marginTop: 6 }}>
+            <svg width={700} height={92} viewBox='0 0 700 92'>
+                <rect x='0' y='16' width='190' height='60' rx='4' fill='#F0F5FC' stroke='#D6DCE5' strokeWidth='1' />
+                <text x='95' y='42' fontSize='15' fill='#1E4FA8' textAnchor='middle' fontWeight='bold'>E3 输入可信</text>
+                <text x='95' y='62' fontSize='12' fill='#8B97A8' textAnchor='middle'>进来的数据干不干净</text>
+
+                <rect x='255' y='8' width='190' height='76' rx='4' fill='#E8EFF8' stroke='#1E4FA8' strokeWidth='2' />
+                <text x='350' y='38' fontSize='16' fill='#0E3F8C' textAnchor='middle' fontWeight='bold'>E10 输出可信</text>
+                <text x='350' y='60' fontSize='12' fill='#1E4FA8' textAnchor='middle'>说出去的话有没有依据</text>
+
+                <rect x='510' y='16' width='190' height='60' rx='4' fill='#F0F5FC' stroke='#D6DCE5' strokeWidth='1' />
+                <text x='605' y='42' fontSize='15' fill='#1E4FA8' textAnchor='middle' fontWeight='bold'>E8 数据来源</text>
+                <text x='605' y='62' fontSize='12' fill='#8B97A8' textAnchor='middle'>不进塘口怎么拿数据</text>
+
+                <line x1='194' y1='46' x2='251' y2='46' stroke='#3D7BD9' strokeWidth='2' />
+                <polygon points='251,46 241,41 241,51' fill='#3D7BD9' />
+                <line x1='506' y1='46' x2='449' y2='46' stroke='#3D7BD9' strokeWidth='2' />
+                <polygon points='449,46 459,41 459,51' fill='#3D7BD9' />
+
+                <text x='350' y='2' fontSize='12' fill='#8B97A8' textAnchor='middle'>主命题</text>
+            </svg>
+        </Box>
+    </Box>
+
+    {/* 校名角标 */}
+    <Box style={{ position: 'absolute', right: 40, top: 40, flexDirection: 'row', alignItems: 'center', gap: 8 }}>
+        <Box style={{ width: 4, height: 28, background: '#1E4FA8' }} />
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>广东海洋大学</Text>
+    </Box>
+
+</Slide>

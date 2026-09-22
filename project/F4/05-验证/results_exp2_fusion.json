@@ -1,0 +1,307 @@
+{
+  "experiment": "exp2_fusion",
+  "question": "融合的收益/代价是多少？该结论是否依赖输出分辨率？",
+  "data_mode": "【合成】",
+  "truth_known": true,
+  "schemes": [
+    "single_L1",
+    "fused_L1L2",
+    "fused_L1L2L3",
+    "fused_coarse_expand"
+  ],
+  "weights_full": [
+    0.5128205128205128,
+    0.30769230769230765,
+    0.17948717948717946
+  ],
+  "per_scheme": {
+    "single_L1": {
+      "n": 11236,
+      "mse_raw": 1.0973282739442118,
+      "rmse_raw": 1.0475343784068434,
+      "var_raw": 0.02646435698252927,
+      "bias_mean_raw": 0.5630352118204508,
+      "mse_calibrated": 0.34229068989028283,
+      "rmse_calibrated": 0.5850561425113686,
+      "var_resid_calibrated": 0.34229068989028283,
+      "calib_a": -2.628369415521027,
+      "calib_b": 5.068372653521467,
+      "pearson_r": 0.8155465496630494,
+      "var_truth": 1.022117713658545,
+      "nmse_raw": 1.0735830709913634,
+      "nmse_calibrated": 0.334883825332696,
+      "share_of_error_from_scale": 0.6880690145165393
+    },
+    "fused_L1L2": {
+      "n": 11236,
+      "mse_raw": 1.1351794168687863,
+      "rmse_raw": 1.0654479888144641,
+      "var_raw": 0.012938710897147125,
+      "bias_mean_raw": 0.5654072481279607,
+      "mse_calibrated": 0.0906564569215446,
+      "rmse_calibrated": 0.30109210703959777,
+      "var_resid_calibrated": 0.0906564569215446,
+      "calib_a": -4.382818862060272,
+      "calib_b": 8.484707853351559,
+      "pearson_r": 0.954623102469746,
+      "var_truth": 1.022117713658545,
+      "nmse_raw": 1.1106151490179645,
+      "nmse_calibrated": 0.08869473223103719,
+      "share_of_error_from_scale": 0.9201390938080906
+    },
+    "fused_L1L2L3": {
+      "n": 11236,
+      "mse_raw": 1.1472026413333338,
+      "rmse_raw": 1.0710754601489727,
+      "var_raw": 0.009207924445673787,
+      "bias_mean_raw": 0.5560134095025259,
+      "mse_calibrated": 0.007915114128223212,
+      "rmse_calibrated": 0.08896692715960922,
+      "var_resid_calibrated": 0.007915114128223212,
+      "calib_a": -5.309524511871723,
+      "calib_b": 10.49497687876421,
+      "pearson_r": 0.9961205558898162,
+      "var_truth": 1.022117713658545,
+      "nmse_raw": 1.1223782016525892,
+      "nmse_calibrated": 0.007743838133762531,
+      "share_of_error_from_scale": 0.9931005091489121
+    },
+    "fused_coarse_expand": {
+      "n": 11236,
+      "mse_raw": 1.2217258634671027,
+      "rmse_raw": 1.105317087295362,
+      "var_raw": 0.00574306460628709,
+      "bias_mean_raw": 0.556771431859971,
+      "mse_calibrated": 0.4350607576254182,
+      "rmse_calibrated": 0.6595913565423809,
+      "var_resid_calibrated": 0.4350607576254182,
+      "calib_a": -5.124655230207777,
+      "calib_b": 10.11039837563395,
+      "pearson_r": 0.757861180079398,
+      "var_truth": 1.022117713658545,
+      "nmse_raw": 1.1952888078752542,
+      "nmse_calibrated": 0.4256464317286622,
+      "share_of_error_from_scale": 0.6438965805383123
+    }
+  },
+  "gain_vs_baseline": {
+    "single_L1": {
+      "nmse_reduction": 0.0,
+      "rmse_reduction": 0.0,
+      "r_increase": 0.0,
+      "mse_calibrated_reduction": 0.0
+    },
+    "fused_L1L2": {
+      "nmse_reduction": -0.037032078026601134,
+      "rmse_reduction": -0.01791361040762074,
+      "r_increase": 0.13907655280669662,
+      "mse_calibrated_reduction": 0.2516342329687382
+    },
+    "fused_L1L2L3": {
+      "nmse_reduction": -0.04879513066122576,
+      "rmse_reduction": -0.02354108174212932,
+      "r_increase": 0.18057400622676678,
+      "mse_calibrated_reduction": 0.3343755757620596
+    },
+    "fused_coarse_expand": {
+      "nmse_reduction": -0.12170573688389075,
+      "rmse_reduction": -0.05778270888851855,
+      "r_increase": -0.05768536958365145,
+      "mse_calibrated_reduction": -0.09277006773513535
+    }
+  },
+  "verdict": "fusion_hurts",
+  "verdict_detail": "各融合方案相对基线的 NMSE 降幅（正=更好）：fused_L1L2:-0.0370, fused_L1L2L3:-0.0488, fused_coarse_expand:-0.1217",
+  "baseline": "single_L1",
+  "layer_order_invariance_max_diff": 2.220446049250313e-16,
+  "decomposition_identity": [
+    {
+      "scheme": "single_L1",
+      "mse_raw": 1.0973282739442118,
+      "bias2_plus_var": 1.0973282739442118,
+      "diff": 0.0
+    },
+    {
+      "scheme": "fused_L1L2",
+      "mse_raw": 1.1351794168687863,
+      "bias2_plus_var": 1.1351794168687863,
+      "diff": 0.0
+    },
+    {
+      "scheme": "fused_L1L2L3",
+      "mse_raw": 1.1472026413333338,
+      "bias2_plus_var": 1.147202641333334,
+      "diff": 2.220446049250313e-16
+    },
+    {
+      "scheme": "fused_coarse_expand",
+      "mse_raw": 1.2217258634671027,
+      "bias2_plus_var": 1.2217258634671029,
+      "diff": 2.220446049250313e-16
+    }
+  ],
+  "variance_compression": {
+    "var_truth_on_mask": 1.022117713658545,
+    "var_single_L1_on_mask": 0.02646435698252927,
+    "var_fused_L1L2L3_on_mask": 0.009207924445673787,
+    "single_vs_truth_ratio": 0.025891691953760735,
+    "fused_over_single_ratio": 0.347936828835573,
+    "theoretical_upper_bound_sum_w_squared": 0.3898750821827744,
+    "note": "min-max 重分类把各层压入 [0,1]，其方差远小于真值方差；WLC 的 Σw=1 凸组合再压缩一次。故得分是单调代理、非同尺度估计。"
+  },
+  "sign_inversion": {
+    "sequence": [
+      "single_L1",
+      "fused_L1L2",
+      "fused_L1L2L3"
+    ],
+    "nmse_raw": [
+      1.0735830709913634,
+      1.1106151490179645,
+      1.1223782016525892
+    ],
+    "nmse_calibrated": [
+      0.334883825332696,
+      0.08869473223103719,
+      0.007743838133762531
+    ],
+    "rmse_calibrated": [
+      0.5850561425113686,
+      0.30109210703959777,
+      0.08896692715960922
+    ],
+    "calib_b": [
+      5.068372653521467,
+      8.484707853351559,
+      10.49497687876421
+    ],
+    "pearson_r": [
+      0.8155465496630494,
+      0.954623102469746,
+      0.9961205558898162
+    ],
+    "delta_nmse_raw_A_to_C": 0.04879513066122576,
+    "delta_nmse_calibrated_A_to_C": -0.3271399871989335,
+    "sign_is_inverted": true,
+    "note": "nmse_raw 上升而 nmse_calibrated 下降 ⇒ 单一精度数字会把结论的符号搞反。这正是本项目主张『必须分解误差』的直接证据。"
+  },
+  "resolution_cost": [
+    {
+      "factor": 1,
+      "out_cell_m": 25.0,
+      "grid_vs_pond_ratio": 0.5,
+      "nmse_raw": 1.1223782016525892,
+      "pearson_r": 0.9961205558898162
+    },
+    {
+      "factor": 2,
+      "out_cell_m": 50.0,
+      "grid_vs_pond_ratio": 1.0,
+      "nmse_raw": 1.1370364271398241,
+      "pearson_r": 0.949090107873497
+    },
+    {
+      "factor": 4,
+      "out_cell_m": 100.0,
+      "grid_vs_pond_ratio": 2.0,
+      "nmse_raw": 1.159310940726578,
+      "pearson_r": 0.8783778298162503
+    },
+    {
+      "factor": 8,
+      "out_cell_m": 200.0,
+      "grid_vs_pond_ratio": 4.0,
+      "nmse_raw": 1.1952888078752542,
+      "pearson_r": 0.757861180079398
+    },
+    {
+      "factor": 16,
+      "out_cell_m": 400.0,
+      "grid_vs_pond_ratio": 8.0,
+      "nmse_raw": 1.2475784448916143,
+      "pearson_r": 0.5535557026183013
+    },
+    {
+      "factor": 32,
+      "out_cell_m": 800.0,
+      "grid_vs_pond_ratio": 16.0,
+      "nmse_raw": 1.288975798504099,
+      "pearson_r": 0.3165307450561967
+    }
+  ],
+  "checks": [
+    {
+      "id": "G1",
+      "desc": "误差三分解自洽 mse_raw == bias²+var（容差1e-9）",
+      "pass": true,
+      "observed": "max|diff|=2.220e-16",
+      "expected": "< 1e-9"
+    },
+    {
+      "id": "G2",
+      "desc": "基线对自身增益恒为 0",
+      "pass": true,
+      "observed": "0.000e+00",
+      "expected": "== 0"
+    },
+    {
+      "id": "G3",
+      "desc": "纯缩放方案可被仿射标定清零（尺度占比≈1）",
+      "pass": true,
+      "observed": "share=1.000000000000, mse_cal=0.000e+00",
+      "expected": "share==1 且 mse_cal<1e-20"
+    },
+    {
+      "id": "G4",
+      "desc": "★主结果：判别力随融合单调提升 r(A)<r(B)<r(C)",
+      "pass": true,
+      "observed": "0.8155 → 0.9546 → 0.9961",
+      "expected": "严格递增"
+    },
+    {
+      "id": "G4b",
+      "desc": "★符号反转：Δnmse_raw>0 而 Δnmse_calibrated<0",
+      "pass": true,
+      "observed": "Δraw=+0.0488, Δcal=-0.3271",
+      "expected": "raw 上升 且 calibrated 下降"
+    },
+    {
+      "id": "G4c",
+      "desc": "标定后融合优势重现：rmse_cal 单调下降",
+      "pass": true,
+      "observed": "0.5851 → 0.3011 → 0.0890",
+      "expected": "严格递减"
+    },
+    {
+      "id": "G8",
+      "desc": "得分场被系统性压缩（calib_b > 1）",
+      "pass": true,
+      "observed": "5.07 → 8.48 → 10.49",
+      "expected": "全部 > 1"
+    },
+    {
+      "id": "G5",
+      "desc": "输出分辨率变粗(C→D)使 nmse_raw 上升",
+      "pass": true,
+      "observed": "C=1.1224 → D=1.1953",
+      "expected": "D > C"
+    },
+    {
+      "id": "G6",
+      "desc": "verdict 落在三值集合内（不预设方向，红线G-3）",
+      "pass": true,
+      "observed": "fusion_hurts",
+      "expected": "fusion_helps / fusion_hurts / inconclusive"
+    },
+    {
+      "id": "G7",
+      "desc": "WLC 对层序不变（交换律自检）",
+      "pass": true,
+      "observed": "max|diff|=2.220e-16",
+      "expected": "< 1e-12"
+    }
+  ],
+  "n_pass": 10,
+  "n_total": 10,
+  "verdict_experiment": "PASS"
+}

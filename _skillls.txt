@@ -1,0 +1,10 @@
+SKILL
+    SKILL.md
+SKILL\assets
+    baseline.example.json
+    delegation-task-spec-template.md
+    failure-analysis-template.md
+    source-of-truth-template.md
+    workspace-scaffold.md
+SKILL\scripts
+    consistency_check.py

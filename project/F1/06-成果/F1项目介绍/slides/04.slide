@@ -1,0 +1,129 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'column' }}>
+
+    <Box style={{ width: 1280, height: 56, background: '#1E4FA8', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingLeft: 40, paddingRight: 40 }}>
+        <Text style={{ fontSize: 14, color: '#BFD5EF', letterSpacing: 2 }}>01 问题与边界</Text>
+        <Text style={{ fontSize: 14, color: '#BFD5EF' }}>F1 · 项目介绍</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 20, flexDirection: 'column', gap: 4 }}>
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>养殖观测数据里的三个结构性陷阱</Text>
+        <Text style={{ fontSize: 16, color: '#4A5568' }}>前两个能静态审计；第三个原则上不可检验 —— 这正是本项目的落点</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 16, height: 520, flexDirection: 'row', gap: 24 }}>
+
+        {/* 左栏：三个陷阱 */}
+        <Box style={{ width: 700, flexDirection: 'column', gap: 10 }}>
+
+            <Box style={{ height: 158, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 14, flexDirection: 'column', gap: 6 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 12 }}>
+                    <Box style={{ width: 36, height: 36, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 18, fontWeight: 'bold', color: '#FFFFFF' }}>1</Text>
+                    </Box>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>
+                        中介被误当混杂
+                    </Text>
+                    <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#E8EFF8', borderRadius: 13, justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>可静态审计</Text>
+                    </Box>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    <span style={{ fontWeight: 'bold', color: '#1A2230' }}>水质退化</span>既是投喂的结果，又是生长的原因。
+                    调整它只估到直接效应，<span style={{ fontWeight: 'bold', color: '#D9534F' }}>低估总效应</span>。
+                </Text>
+            </Box>
+
+            <Box style={{ height: 158, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 14, flexDirection: 'column', gap: 6 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 12 }}>
+                    <Box style={{ width: 36, height: 36, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 18, fontWeight: 'bold', color: '#FFFFFF' }}>2</Text>
+                    </Box>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>
+                        碰撞被误当混杂
+                    </Text>
+                    <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#E8EFF8', borderRadius: 13, justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>可静态审计</Text>
+                    </Box>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    <span style={{ fontWeight: 'bold', color: '#1A2230' }}>饲料系数</span>＝投喂量 ÷ 增重，分子含干预、分母含结果。
+                    调整它打开后门通路，<span style={{ fontWeight: 'bold', color: '#D9534F' }}>效应被严重放大</span>。
+                </Text>
+            </Box>
+
+            <Box style={{ height: 158, background: '#F7F9FC', border: '1px solid #D9534F', padding: 14, flexDirection: 'column', gap: 6 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 12 }}>
+                    <Box style={{ width: 36, height: 36, background: '#D9534F', justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 18, fontWeight: 'bold', color: '#FFFFFF' }}>3</Text>
+                    </Box>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>
+                        未测混杂不可检验
+                    </Text>
+                    <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#FBE9E8', borderRadius: 13, justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 14, color: '#D9534F' }}>无统计量能告警</Text>
+                    </Box>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    虾的摄食状态同时影响投喂与生长，但<span style={{ fontWeight: 'bold', color: '#D9534F' }}>测不到</span>。
+                    估计有偏，<b>却没有任何统计量报警</b>。
+                </Text>
+            </Box>
+
+        </Box>
+
+        {/* 右栏：DAG 因果图 + 结论 */}
+        <Box style={{ width: 476, flexDirection: 'column', gap: 14 }}>
+
+            <Box style={{ height: 268, background: '#FFFFFF', border: '1px solid #D6DCE5', padding: 14, flexDirection: 'column' }}>
+                <Text style={{ fontSize: 18, fontWeight: 'bold', color: '#1E4FA8', marginBottom: 4 }}>因果结构示意</Text>
+                <svg width={440} height={208} viewBox='0 0 440 250'>
+                    {/* 中介路径 */}
+                    <text x='0' y='16' fontSize='14' fill='#1E4FA8' fontWeight='bold'>中介 M（须调整吗？不）</text>
+                    <circle cx='40' cy='60' r='20' fill='#E8EFF8' stroke='#1E4FA8' strokeWidth='2' />
+                    <text x='40' y='66' fontSize='15' fill='#1A2230' textAnchor='middle'>T</text>
+                    <circle cx='200' cy='60' r='20' fill='#E8EFF8' stroke='#1E4FA8' strokeWidth='2' />
+                    <text x='200' y='66' fontSize='15' fill='#1A2230' textAnchor='middle'>M</text>
+                    <circle cx='360' cy='60' r='20' fill='#E8EFF8' stroke='#1E4FA8' strokeWidth='2' />
+                    <text x='360' y='66' fontSize='15' fill='#1A2230' textAnchor='middle'>Y</text>
+                    <line x1='60' y1='60' x2='180' y2='60' stroke='#3D7BD9' strokeWidth='2' />
+                    <line x1='220' y1='60' x2='340' y2='60' stroke='#3D7BD9' strokeWidth='2' />
+                    <line x1='48' y1='78' x2='352' y2='78' stroke='#D9534F' strokeWidth='2' strokeDasharray='6 4' />
+                    <text x='200' y='96' fontSize='13' fill='#D9534F' textAnchor='middle'>T → Y 总效应（含经 M 的通路）</text>
+
+                    {/* 碰撞 */}
+                    <text x='0' y='140' fontSize='14' fill='#1E4FA8' fontWeight='bold'>碰撞 C（须调整吗？绝不）</text>
+                    <circle cx='40' cy='184' r='20' fill='#E8EFF8' stroke='#1E4FA8' strokeWidth='2' />
+                    <text x='40' y='190' fontSize='15' fill='#1A2230' textAnchor='middle'>T</text>
+                    <circle cx='200' cy='184' r='20' fill='#FBE9E8' stroke='#D9534F' strokeWidth='2' />
+                    <text x='200' y='190' fontSize='15' fill='#1A2230' textAnchor='middle'>C</text>
+                    <circle cx='360' cy='184' r='20' fill='#E8EFF8' stroke='#1E4FA8' strokeWidth='2' />
+                    <text x='360' y='190' fontSize='15' fill='#1A2230' textAnchor='middle'>Y</text>
+                    <line x1='58' y1='178' x2='182' y2='178' stroke='#D9534F' strokeWidth='2' />
+                    <polygon points='182,178 172,173 172,183' fill='#D9534F' />
+                    <line x1='218' y1='178' x2='342' y2='178' stroke='#D9534F' strokeWidth='2' />
+                    <polygon points='218,178 228,173 228,183' fill='#D9534F' />
+                    <text x='200' y='226' fontSize='13' fill='#D9534F' textAnchor='middle'>调整 C 会「造出」一条本不存在的 T–Y 关联</text>
+                </svg>
+            </Box>
+
+            {/* 深蓝实色卡（全篇 3 张之一） */}
+            <Box style={{ height: 222, background: '#0E3F8C', padding: 20, flexDirection: 'column', gap: 10, justifyContent: 'center' }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#FFFFFF', lineHeight: 1.4 }}>
+                    为什么这是真问题
+                </Text>
+                <Text style={{ fontSize: 22, color: '#BFD5EF', lineHeight: 1.45 }}>
+                    前两个陷阱看变量名就能判定；第三个不可检验，只能做敏感性分析并如实披露。
+                    <br />
+                    所以产出是<span style={{ color: '#FFC107', fontWeight: 'bold' }}>效应值 + 它的有效边界</span>。
+                </Text>
+            </Box>
+
+        </Box>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, height: 40, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>广东海洋大学 · 数学与计算机学院　｜　因果结构为本项目合成设定，非真实塘口实测</Text>
+        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>04 / 12</Text>
+    </Box>
+
+</Slide>

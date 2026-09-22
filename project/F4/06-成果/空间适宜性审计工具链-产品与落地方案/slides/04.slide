@@ -1,0 +1,114 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'column' }}>
+
+    <Box style={{ width: 1280, height: 56, background: '#1E4FA8', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingLeft: 40, paddingRight: 40 }}>
+        <Text style={{ fontSize: 14, color: '#BFD5EF', letterSpacing: 2 }}>01 这是什么产品</Text>
+        <Text style={{ fontSize: 14, color: '#BFD5EF' }}>空间适宜性审计工具链</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 20, flexDirection: 'column', gap: 4 }}>
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>产品做哪三件事</Text>
+        <Text style={{ fontSize: 16, color: '#4A5568' }}>三件事都在"算后果"，不在"算适宜性" —— 这是它和选址系统的分界线</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 16, height: 520, flexDirection: 'row', gap: 22 }}>
+
+        {/* 左：三件事 */}
+        <Box style={{ width: 700, flexDirection: 'column', gap: 10 }}>
+
+            <Box style={{ height: 156, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 14, flexDirection: 'column', gap: 6 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 12 }}>
+                    <Box style={{ width: 36, height: 36, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 18, fontWeight: 'bold', color: '#FFFFFF' }}>1</Text>
+                    </Box>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>尺度失配诊断</Text>
+                    <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#E8EFF8', borderRadius: 13, justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>已交付</Text>
+                    </Box>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    输出网格粗于池体时，把后果拆成
+                    <span style={{ fontWeight: 'bold', color: '#1A2230' }}>信息量保留率</span>与
+                    <span style={{ fontWeight: 'bold', color: '#1A2230' }}>决策一致性</span>两个量，分开报。
+                </Text>
+            </Box>
+
+            <Box style={{ height: 156, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 14, flexDirection: 'column', gap: 6 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 12 }}>
+                    <Box style={{ width: 36, height: 36, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 18, fontWeight: 'bold', color: '#FFFFFF' }}>2</Text>
+                    </Box>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>融合账本与误差三分解</Text>
+                    <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#E8EFF8', borderRadius: 13, justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>已交付</Text>
+                    </Box>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    偏差、方差、总误差分开报，再做一次
+                    <span style={{ fontWeight: 'bold', color: '#1A2230' }}>仿射标定</span>，
+                    把结构误差与尺度误差分开。
+                </Text>
+            </Box>
+
+            <Box style={{ height: 156, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 14, flexDirection: 'column', gap: 6 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 12 }}>
+                    <Box style={{ width: 36, height: 36, background: '#1E4FA8', justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 18, fontWeight: 'bold', color: '#FFFFFF' }}>3</Text>
+                    </Box>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>缺失到可计算后果</Text>
+                    <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#E8EFF8', borderRadius: 13, justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>已交付</Text>
+                    </Box>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    把"未报权重"从一句计数，变成
+                    <span style={{ fontWeight: 'bold', color: '#1A2230' }}>前 10% 推荐集换掉几个</span>
+                    这样一个可核对的数字。
+                </Text>
+            </Box>
+
+        </Box>
+
+        {/* 右：审计链路 SVG + 交付物 */}
+        <Box style={{ width: 478, flexDirection: 'column', gap: 18 }}>
+
+            <Box style={{ height: 254, background: '#FFFFFF', border: '1px solid #D6DCE5', padding: 14, flexDirection: 'column' }}>
+                <Text style={{ fontSize: 18, fontWeight: 'bold', color: '#1E4FA8', marginBottom: 4 }}>审计链路</Text>
+                <svg width={442} height={196} viewBox='0 0 442 196'>
+                    <rect x='0' y='4' width='442' height='42' rx='4' fill='#F0F5FC' stroke='#D6DCE5' strokeWidth='1' />
+                    <text x='14' y='22' fontSize='13' fill='#8B97A8'>输入</text>
+                    <text x='14' y='39' fontSize='14' fill='#1A2230'>一套 GIS-MCE 适宜性评估流程（栅格 + 权重 + 重分类）</text>
+
+                    <line x1='221' y1='50' x2='221' y2='70' stroke='#3D7BD9' strokeWidth='2' />
+                    <polygon points='221,72 216,62 226,62' fill='#3D7BD9' />
+
+                    <rect x='0' y='76' width='442' height='42' rx='4' fill='#E8EFF8' stroke='#1E4FA8' strokeWidth='1' />
+                    <text x='14' y='94' fontSize='13' fill='#1E4FA8'>逐项拆开，单项扰动</text>
+                    <text x='14' y='111' fontSize='14' fill='#1A2230'>尺度 · 权重 · 重分类 · 分辨率</text>
+
+                    <line x1='221' y1='122' x2='221' y2='142' stroke='#3D7BD9' strokeWidth='2' />
+                    <polygon points='221,144 216,134 226,134' fill='#3D7BD9' />
+
+                    <rect x='0' y='148' width='442' height='42' rx='4' fill='#FFFFFF' stroke='#D6DCE5' strokeWidth='1' />
+                    <text x='14' y='166' fontSize='13' fill='#8B97A8'>输出</text>
+                    <text x='14' y='183' fontSize='14' fill='#1A2230'>每一项选择各自带来多大后果（带样本量）</text>
+                </svg>
+            </Box>
+
+            <Box style={{ flex: 1, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 16, flexDirection: 'column', gap: 8, justifyContent: 'center' }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>交付什么</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    ① 实验与验证报告（含 14 条局限）<br />
+                    ② 修正记录（24 条，只增不删）<br />
+                    ③ 原始结果 JSON + 一键复现入口
+                </Text>
+            </Box>
+
+        </Box>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, height: 40, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>三个诊断器都已在本地实现并跑通，不是概念稿</Text>
+        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>04 / 14</Text>
+    </Box>
+
+</Slide>

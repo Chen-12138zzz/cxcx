@@ -1,0 +1,6604 @@
+[
+ {
+  "id": "https://openalex.org/W3164812679",
+  "doi": "10.3390/rs13091663",
+  "title": "An Optical and SAR Based Fusion Approach for Mapping Surface Water Dynamics over Mainland China",
+  "year": 2021,
+  "date": "2021-04-24",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 63,
+  "authors": [
+   "Daniel Druce",
+   "Xiaoye Tong",
+   "Lei Xia",
+   "Tao Guo",
+   "Cécile Marie Margaretha Kittel",
+   "Kenneth Grogan",
+   "Christian Tøttrup"
+  ],
+  "n_authors": 7,
+  "first_author": "Daniel Druce",
+  "first_country": "DK",
+  "countries": [
+   "DK"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Flood Risk Assessment and Management",
+   "Hydrology and Watershed Management Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4307486628",
+  "doi": "10.1016/j.aac.2022.10.001",
+  "title": "Understanding the potential applications of Artificial Intelligence in Agriculture Sector",
+  "year": 2022,
+  "date": "2022-10-28",
+  "type": "article",
+  "venue": "Advanced Agrochem",
+  "cited": 853,
+  "authors": [
+   "Mohd Javaid",
+   "Abid Haleem",
+   "Ibrahim Haleem Khan",
+   "Rajiv Suman"
+  ],
+  "n_authors": 4,
+  "first_author": "Mohd Javaid",
+  "first_country": "IN",
+  "countries": [
+   "IN",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Smart Agriculture and AI",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4404272339",
+  "doi": "10.3390/su16229848",
+  "title": "Groundwater Quality Prediction and Analysis Using Machine Learning Models and Geospatial Technology",
+  "year": 2024,
+  "date": "2024-11-12",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 25,
+  "authors": [
+   "Bommi Rammohan",
+   "Pachaivannan Partheeban",
+   "Ranihemamalini Ranganathan",
+   "Balaraman Sundarambal"
+  ],
+  "n_authors": 4,
+  "first_author": "Bommi Rammohan",
+  "first_country": "",
+  "countries": [
+   "IN"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Hydrological Forecasting Using AI",
+   "Groundwater and Watershed Analysis"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4411092850",
+  "doi": "10.3390/su17125256",
+  "title": "A Narrative Review on Smart Sensors and IoT Solutions for Sustainable Agriculture and Aquaculture Practices",
+  "year": 2025,
+  "date": "2025-06-06",
+  "type": "review",
+  "venue": "Sustainability",
+  "cited": 27,
+  "authors": [
+   "Liwei Liu",
+   "Winton Cheng",
+   "Hsin‐Wei Kuo"
+  ],
+  "n_authors": 3,
+  "first_author": "Liwei Liu",
+  "first_country": "TW",
+  "countries": [
+   "TW"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Food Supply Chain Traceability",
+   "Water Quality Monitoring Technologies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4407389811",
+  "doi": "10.3390/electronics14040696",
+  "title": "Integrating Artificial Intelligence Agents with the Internet of Things for Enhanced Environmental Monitoring: Applications in Water Quality and Climate Data",
+  "year": 2025,
+  "date": "2025-02-11",
+  "type": "article",
+  "venue": "Electronics",
+  "cited": 190,
+  "authors": [
+   "Tymoteusz Miller",
+   "Irmina Durlik",
+   "Ewelina Kostecka",
+   "Polina Kozlovska",
+   "Adrianna Łobodzińska",
+   "S. Sokołowska",
+   "Agnieszka Nowy"
+  ],
+  "n_authors": 7,
+  "first_author": "Tymoteusz Miller",
+  "first_country": "PL",
+  "countries": [
+   "MY",
+   "PL"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Water Quality Monitoring Technologies",
+   "Hydrological Forecasting Using AI"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4220884956",
+  "doi": "10.1007/s11273-022-09875-3",
+  "title": "Monitoring migratory birds of India's largest shallow saline Ramsar site (Sambhar Lake) using geospatial data for wetland restoration",
+  "year": 2022,
+  "date": "2022-03-29",
+  "type": "article",
+  "venue": "Wetlands Ecology and Management",
+  "cited": 16,
+  "authors": [
+   "Rajashree Naik",
+   "Laxmi Kant Sharma"
+  ],
+  "n_authors": 2,
+  "first_author": "Rajashree Naik",
+  "first_country": "IN",
+  "countries": [
+   "IN"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Avian ecology and behavior",
+   "Species Distribution and Climate Change"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4296186954",
+  "doi": "10.1007/s11069-022-05612-4",
+  "title": "Mapping and characterising buildings for flood exposure analysis using open-source data and artificial intelligence",
+  "year": 2022,
+  "date": "2022-09-17",
+  "type": "article",
+  "venue": "Natural Hazards",
+  "cited": 41,
+  "authors": [
+   "Kushanav Bhuyan",
+   "Cees Van Westen",
+   "Jiong Wang",
+   "Sansar Raj Meena"
+  ],
+  "n_authors": 4,
+  "first_author": "Kushanav Bhuyan",
+  "first_country": "IT",
+  "countries": [
+   "IT",
+   "NL"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Flood Risk Assessment and Management",
+   "Automated Road and Building Extraction"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3187037246",
+  "doi": "10.3390/rs13132565",
+  "title": "Mangrove Ecosystem Mapping Using Sentinel-1 and Sentinel-2 Satellite Images and Random Forest Algorithm in Google Earth Engine",
+  "year": 2021,
+  "date": "2021-06-30",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 194,
+  "authors": [
+   "Arsalan Ghorbanian",
+   "Soheil Zaghian",
+   "Reza Mohammadi Asiyabi",
+   "Meisam Amani",
+   "Ali Mohammadzadeh",
+   "Sadegh Jamali"
+  ],
+  "n_authors": 6,
+  "first_author": "Arsalan Ghorbanian",
+  "first_country": "IR",
+  "countries": [
+   "IR",
+   "RO",
+   "SE"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coastal wetland ecosystem dynamics",
+   "Agricultural and Environmental Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4391961934",
+  "doi": "10.1038/s43017-024-00516-2",
+  "title": "Assessing and addressing the global state of food production data scarcity",
+  "year": 2024,
+  "date": "2024-02-20",
+  "type": "review",
+  "venue": "Nature Reviews Earth & Environment",
+  "cited": 74,
+  "authors": [
+   "Asfaw Kebede",
+   "Hanan Abou Ali",
+   "Tyler Clavelle",
+   "Halley E. Froehlich",
+   "Jessica A. Gephart",
+   "Sarah Hartman",
+   "Mario Herrero",
+   "Hannah Kerner",
+   "Piyush Mehta",
+   "Catherine Nakalembe",
+   "D. K. Ray",
+   "Stefan Siebert"
+  ],
+  "n_authors": 14,
+  "first_author": "Asfaw Kebede",
+  "first_country": "US",
+  "countries": [
+   "DE",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Water-Energy-Food Nexus Studies",
+   "Climate change impacts on agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4298110875",
+  "doi": "10.3390/rs14194868",
+  "title": "A Review of Spectral Indices for Mangrove Remote Sensing",
+  "year": 2022,
+  "date": "2022-09-29",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 204,
+  "authors": [
+   "Thuong V. Tran",
+   "Ruth Reef",
+   "Xuan Zhu"
+  ],
+  "n_authors": 3,
+  "first_author": "Thuong V. Tran",
+  "first_country": "VN",
+  "countries": [
+   "AU",
+   "VN"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coastal wetland ecosystem dynamics",
+   "Remote-Sensing Image Classification"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3119495940",
+  "doi": "10.3390/ijgi10010027",
+  "title": "Torrential Flood Water Management: Rainwater Harvesting through Relation Based Dam Suitability Analysis and Quantification of Erosion Potential",
+  "year": 2021,
+  "date": "2021-01-12",
+  "type": "article",
+  "venue": "ISPRS International Journal of Geo-Information",
+  "cited": 17,
+  "authors": [
+   "Bilal Munir",
+   "Sajid Rashid Ahmad",
+   "Raja Rehan"
+  ],
+  "n_authors": 3,
+  "first_author": "Bilal Munir",
+  "first_country": "PK",
+  "countries": [
+   "PK"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Soil erosion and sediment transport",
+   "Groundwater and Watershed Analysis"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4313377249",
+  "doi": "10.1016/j.rsase.2022.100907",
+  "title": "What is going on within google earth engine? A systematic review and meta-analysis",
+  "year": 2022,
+  "date": "2022-12-18",
+  "type": "review",
+  "venue": "Remote Sensing Applications Society and Environment",
+  "cited": 102,
+  "authors": [
+   "Pedro Pérez‐Cutillas",
+   "Alberto Pérez-Navarro",
+   "Carmelo Conesa García",
+   "Demetrio Antonio Zema",
+   "Jesús P. Amado-Álvarez"
+  ],
+  "n_authors": 5,
+  "first_author": "Pedro Pérez‐Cutillas",
+  "first_country": "ES",
+  "countries": [
+   "ES",
+   "IT",
+   "MX"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Flood Risk Assessment and Management",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4387264069",
+  "doi": "10.3390/environments10100170",
+  "title": "Meta-Analysis of Satellite Observations for United Nations Sustainable Development Goals: Exploring the Potential of Machine Learning for Water Quality Monitoring",
+  "year": 2023,
+  "date": "2023-10-02",
+  "type": "review",
+  "venue": "Environments",
+  "cited": 45,
+  "authors": [
+   "Sabastian Simbarashe Mukonza",
+   "Jie‐Lun Chiang"
+  ],
+  "n_authors": 2,
+  "first_author": "Sabastian Simbarashe Mukonza",
+  "first_country": "TW",
+  "countries": [
+   "TW"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Water Quality Monitoring Technologies",
+   "Air Quality Monitoring and Forecasting"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3160891842",
+  "doi": "10.1038/s41598-021-89034-5",
+  "title": "First comprehensive quantification of annual land use/cover from 1990 to 2020 across mainland Vietnam",
+  "year": 2021,
+  "date": "2021-05-11",
+  "type": "article",
+  "venue": "Scientific Reports",
+  "cited": 87,
+  "authors": [
+   "Duong Cao Phan",
+   "Ta Hoang Trung",
+   "Van Thinh Truong",
+   "Taiga Sasagawa",
+   "Thuy Phuong Thi Vu",
+   "Dieu Tien Bui",
+   "Masato Hayashi",
+   "Takeo Tadono",
+   "Kenlo Nishida Nasahara"
+  ],
+  "n_authors": 9,
+  "first_author": "Duong Cao Phan",
+  "first_country": "JP",
+  "countries": [
+   "JP",
+   "NO",
+   "VN"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Remote Sensing and Land Use"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4412751296",
+  "doi": "10.3390/diagnostics15151914",
+  "title": "Machine Learning-Powered Smart Healthcare Systems in the Era of Big Data: Applications, Diagnostic Insights, Challenges, and Ethical Implications",
+  "year": 2025,
+  "date": "2025-07-30",
+  "type": "article",
+  "venue": "Diagnostics",
+  "cited": 55,
+  "authors": [
+   "Sita Rani",
+   "Raman Kumar",
+   "Raman Kumar",
+   "B. S. Panda",
+   "Rajender Kumar",
+   "Rajender Kumar",
+   "Nafaa Farhan Muften",
+   "Mayada Ahmed Abass",
+   "Jasmina Lozanović Šajić"
+  ],
+  "n_authors": 9,
+  "first_author": "Sita Rani",
+  "first_country": "IN",
+  "countries": [
+   "AT",
+   "IN",
+   "IQ",
+   "JO"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Artificial Intelligence in Healthcare and Education",
+   "Machine Learning in Healthcare"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4282978935",
+  "doi": "10.1007/s11356-022-21348-x",
+  "title": "What is the relationship between land use and surface water quality? A review and prospects from remote sensing perspective",
+  "year": 2022,
+  "date": "2022-06-16",
+  "type": "article",
+  "venue": "Environmental Science and Pollution Research",
+  "cited": 209,
+  "authors": [
+   "Chunyan Cheng",
+   "Fei Zhang",
+   "Jingchao Shi",
+   "Hsiang‐te Kung"
+  ],
+  "n_authors": 4,
+  "first_author": "Chunyan Cheng",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Water Quality and Pollution Assessment",
+   "Groundwater and Watershed Analysis"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4386715194",
+  "doi": "10.3390/rs15184500",
+  "title": "Mapping the National Seagrass Extent in Seychelles Using PlanetScope NICFI Data",
+  "year": 2023,
+  "date": "2023-09-13",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 26,
+  "authors": [
+   "Chengfa Benjamin Lee",
+   "L. D. Martin",
+   "Dimosthenis Traganos",
+   "Sylvanna Antat",
+   "Stacy K. Baez",
+   "Annabelle Cupidon",
+   "A. Faure",
+   "Jérôme Harlay",
+   "Matthew C. Morgan",
+   "Jeanne A. Mortimer",
+   "Peter Reinartz",
+   "Gwilym Rowlands"
+  ],
+  "n_authors": 12,
+  "first_author": "Chengfa Benjamin Lee",
+  "first_country": "DE",
+  "countries": [
+   "DE",
+   "GB",
+   "SC",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine and coastal plant biology",
+   "Coral and Marine Ecosystems Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4414018485",
+  "doi": "10.3390/en18174740",
+  "title": "The Role of Geographic Information Systems in Environmental Management and the Development of Renewable Energy Sources—A Review Approach",
+  "year": 2025,
+  "date": "2025-09-05",
+  "type": "article",
+  "venue": "Energies",
+  "cited": 15,
+  "authors": [
+   "Anna Kochanek",
+   "Agnieszka Generowicz",
+   "Tomasz Zacłona"
+  ],
+  "n_authors": 3,
+  "first_author": "Anna Kochanek",
+  "first_country": "PL",
+  "countries": [
+   "PL"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Geographic Information Systems Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4402991600",
+  "doi": "10.52968/27529535",
+  "title": "A Hybrid AHP-TOPIS-Based Marine Economic Activities Evaluation Model for Marine Geospatial Data Infrastructure",
+  "year": 2024,
+  "date": "2024-01-01",
+  "type": "article",
+  "venue": "Unilag Journal of Transport and Logistics",
+  "cited": 2,
+  "authors": [
+   "Isa Adekunle Hamid-Mosaku",
+   "Mohd Rizaludin Mahmud",
+   "Universiti Teknologi Malaysia (UTM), 81310 Johor Bahru, Johor, Malaysia",
+   "Mohd Mohd Safie",
+   "Universiti Teknologi Malaysia (UTM), 81310 Johor Bahru, Johor, Malaysia",
+   "Abdul‐Lateef Balogun",
+   "ESRI Australia",
+   "Kazeem Raheem"
+  ],
+  "n_authors": 8,
+  "first_author": "Isa Adekunle Hamid-Mosaku",
+  "first_country": "",
+  "countries": [
+   "MY",
+   "NG",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Technology and Data Analysis"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3193168343",
+  "doi": "10.3390/rs13163123",
+  "title": "Assessment of Empirical Algorithms for Shallow Water Bathymetry Using Multi-Spectral Imagery of Pearl River Delta Coast, China",
+  "year": 2021,
+  "date": "2021-08-06",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 13,
+  "authors": [
+   "Chunzhu Wei",
+   "Qianying Zhao",
+   "Yang Lu",
+   "Dongjie Fu"
+  ],
+  "n_authors": 4,
+  "first_author": "Chunzhu Wei",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "GB"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote Sensing and LiDAR Applications",
+   "Coastal and Marine Dynamics"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4390971553",
+  "doi": "10.3390/foods13020306",
+  "title": "Global Food Security and Sustainability Issues: The Road to 2030 from Nutrition and Sustainable Healthy Diets to Food Systems Change",
+  "year": 2024,
+  "date": "2024-01-18",
+  "type": "article",
+  "venue": "Foods",
+  "cited": 172,
+  "authors": [
+   "Theodoros Varzakas",
+   "Slim Smaoui"
+  ],
+  "n_authors": 2,
+  "first_author": "Theodoros Varzakas",
+  "first_country": "GR",
+  "countries": [
+   "GR",
+   "TN"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Agriculture Sustainability and Environmental Impact",
+   "Bioeconomy and Sustainability Development"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4411151934",
+  "doi": "10.3390/su17125326",
+  "title": "Habitat Suitability Dynamics of Yellow River Delta Nature Reserves for Rare Waterbirds",
+  "year": 2025,
+  "date": "2025-06-09",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 3,
+  "authors": [
+   "Hongli Wang",
+   "Yunyi Chi",
+   "Yujie Zhong",
+   "Qiang Wang"
+  ],
+  "n_authors": 4,
+  "first_author": "Hongli Wang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Species Distribution and Climate Change",
+   "Wildlife Ecology and Conservation"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4403450802",
+  "doi": "10.3390/su16208889",
+  "title": "Marine Equipment Siting Using Machine-Learning-Based Ocean Remote Sensing Data: Current Status and Future Prospects",
+  "year": 2024,
+  "date": "2024-10-14",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 14,
+  "authors": [
+   "Dapeng Zhang",
+   "Yunsheng Ma",
+   "Huiling Zhang",
+   "Yi Zhang"
+  ],
+  "n_authors": 4,
+  "first_author": "Dapeng Zhang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Oil Spill Detection and Mitigation",
+   "Maritime Navigation and Safety"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4417196676",
+  "doi": "10.3390/hydrology12120325",
+  "title": "Towards a Near-Real-Time Water Stress Monitoring System in Tropical Heterogeneous Landscapes Using Remote Sensing Data",
+  "year": 2025,
+  "date": "2025-12-10",
+  "type": "article",
+  "venue": "Hydrology",
+  "cited": 8,
+  "authors": [
+   "Abdul Holik",
+   "Wei Tian",
+   "Aris Psilovikos",
+   "Mohamed Elhag"
+  ],
+  "n_authors": 4,
+  "first_author": "Abdul Holik",
+  "first_country": "SA",
+  "countries": [
+   "CN",
+   "GR",
+   "ID",
+   "OM",
+   "SA"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Soil Moisture and Remote Sensing",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4405229094",
+  "doi": "10.1093/icesjms/fsae166",
+  "title": "A comprehensive framework incorporating deep learning for analyzing fishing vessel activity using automatic identification system data",
+  "year": 2024,
+  "date": "2024-12-05",
+  "type": "article",
+  "venue": "ICES Journal of Marine Science",
+  "cited": 10,
+  "authors": [
+   "Fangcheng Han",
+   "Yang Liu",
+   "Hao Tian",
+   "Jianchao Li",
+   "Yongjun Tian"
+  ],
+  "n_authors": 5,
+  "first_author": "Fangcheng Han",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Marine and fisheries research",
+   "Maritime Navigation and Safety"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4405282523",
+  "doi": "10.55730/1300-011x.3243",
+  "title": "Advances in hyperspectral remote sensing for precision fertilization decision-making: a comprehensive overview",
+  "year": 2024,
+  "date": "2024-12-02",
+  "type": "article",
+  "venue": "TURKISH JOURNAL OF AGRICULTURE AND FORESTRY",
+  "cited": 24,
+  "authors": [
+   "Jing Nie",
+   "Ke Wu",
+   "Yang Li",
+   "JINGBIN LI",
+   "BOHAN HOU"
+  ],
+  "n_authors": 5,
+  "first_author": "Jing Nie",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote Sensing in Agriculture",
+   "Smart Agriculture and AI"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4394862928",
+  "doi": "10.1109/access.2024.3389935",
+  "title": "Mapping and Classification of the Liaohe Estuary Wetland Based on the Combination of Object-Oriented and Temporal Features",
+  "year": 2024,
+  "date": "2024-01-01",
+  "type": "article",
+  "venue": "IEEE Access",
+  "cited": 8,
+  "authors": [
+   "Sien Guo",
+   "Ziyi Feng",
+   "Peng Wang",
+   "Jie Chang",
+   "Hao Han",
+   "Haifu Li",
+   "Chunling Chen",
+   "Wen Du"
+  ],
+  "n_authors": 8,
+  "first_author": "Sien Guo",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4407243986",
+  "doi": "10.1016/j.jenvman.2025.124443",
+  "title": "Significant expansion of small water bodies in the Dongting Lake region following the impoundment of the Three Gorges Dam",
+  "year": 2025,
+  "date": "2025-02-07",
+  "type": "article",
+  "venue": "Journal of Environmental Management",
+  "cited": 8,
+  "authors": [
+   "Mingming Tian",
+   "Jingqiao Mao",
+   "Kang Wang",
+   "Kang Wang",
+   "Yanhong Chen",
+   "Huan Gao",
+   "Tiejun Wang"
+  ],
+  "n_authors": 7,
+  "first_author": "Mingming Tian",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "NL"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Hydrology and Watershed Management Studies",
+   "Flood Risk Assessment and Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4405708905",
+  "doi": "10.1371/journal.pone.0315837",
+  "title": "Evaluation of atmospheric correction algorithms for salt lake water assessment: Accuracy, band-specific effects, and sensor consistency",
+  "year": 2024,
+  "date": "2024-12-23",
+  "type": "article",
+  "venue": "PLoS ONE",
+  "cited": 7,
+  "authors": [
+   "Changjiang Liu",
+   "Fei Zhang",
+   "C.Y. Jim",
+   "Saheed Adeyinka Oke",
+   "Elhadi Adam"
+  ],
+  "n_authors": 5,
+  "first_author": "Changjiang Liu",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "HK",
+   "ZA"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Marine and coastal ecosystems",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4410004934",
+  "doi": "10.3390/electronics14091853",
+  "title": "SIR-DCGAN: An Attention-Guided Robust Watermarking Method for Remote Sensing Image Protection Using Deep Convolutional Generative Adversarial Networks",
+  "year": 2025,
+  "date": "2025-05-01",
+  "type": "article",
+  "venue": "Electronics",
+  "cited": 5,
+  "authors": [
+   "Shaoliang Pan",
+   "Xiaojun Yin",
+   "Mingrui Ding",
+   "Pengshuai Liu"
+  ],
+  "n_authors": 4,
+  "first_author": "Shaoliang Pan",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Advanced Steganography and Watermarking Techniques",
+   "Image Enhancement Techniques"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4406114558",
+  "doi": "10.3390/rs17010155",
+  "title": "Distribution and Structure of China–ASEAN’s Intertidal Ecosystems: Insights from High-Precision, Satellite-Based Mapping",
+  "year": 2025,
+  "date": "2025-01-05",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 4,
+  "authors": [
+   "Zheng Zhang",
+   "Renming Jia"
+  ],
+  "n_authors": 2,
+  "first_author": "Zheng Zhang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Coastal wetland ecosystem dynamics",
+   "Marine and coastal plant biology"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4405723322",
+  "doi": "10.3390/rs16244793",
+  "title": "Water Quality Inversion Framework for Taihu Lake Based on Multilayer Denoising Autoencoder and Ensemble Learning",
+  "year": 2024,
+  "date": "2024-12-23",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 7,
+  "authors": [
+   "Zhihao Sun",
+   "Liang Guo",
+   "Zhe Tao",
+   "Y.P. Li",
+   "Yang Zhan",
+   "Shuling Li",
+   "Ying Zhao"
+  ],
+  "n_authors": 7,
+  "first_author": "Zhihao Sun",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "GB"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Water Quality Monitoring Technologies",
+   "Hydrological Forecasting Using AI"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4411737734",
+  "doi": "10.3390/w17131914",
+  "title": "GIS-Based Evaluation of Mining-Induced Water-Related Hazards in Pakistan and Integrated Risk Mitigation Strategies",
+  "year": 2025,
+  "date": "2025-06-27",
+  "type": "article",
+  "venue": "Water",
+  "cited": 5,
+  "authors": [
+   "Li Jiang",
+   "Zhuoying Tan",
+   "Aboubakar Siddique",
+   "Hilal Ahmad",
+   "Wajid Rashid",
+   "Jianshu Liu",
+   "Yinglin Yang"
+  ],
+  "n_authors": 7,
+  "first_author": "Li Jiang",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "PK"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Groundwater and Watershed Analysis",
+   "Mining and Resource Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4394927824",
+  "doi": "10.3389/fpls.2024.1332788",
+  "title": "Monitoring and evaluation of vegetation restoration in the Ebinur Lake Wetland National Nature Reserve under lockdown protection",
+  "year": 2024,
+  "date": "2024-04-18",
+  "type": "article",
+  "venue": "Frontiers in Plant Science",
+  "cited": 6,
+  "authors": [
+   "Nan Xia",
+   "Yu-Qian Tang",
+   "Mengying Tang",
+   "Weilin Quan",
+   "Zhanjiang Xu",
+   "Bowen Zhang",
+   "Yuxuan Xiao",
+   "Yonggang Ma"
+  ],
+  "n_authors": 8,
+  "first_author": "Nan Xia",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Wetland Management and Conservation"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3210430896",
+  "doi": "10.1111/raq.12625",
+  "title": "Offshore aquaculture of finfish: Big expectations at sea",
+  "year": 2021,
+  "date": "2021-11-02",
+  "type": "article",
+  "venue": "Reviews in Aquaculture",
+  "cited": 111,
+  "authors": [
+   "Bernat Morro",
+   "Keith Davidson",
+   "Thomas P. Adams",
+   "Lynne Falconer",
+   "Max Holloway",
+   "A Dale",
+   "Dmitry Aleynik",
+   "Philipp R. Thies",
+   "Faryal Khalid",
+   "Jon Hardwick",
+   "Helen C.M. Smith",
+   "P.A. Gillibrand"
+  ],
+  "n_authors": 13,
+  "first_author": "Bernat Morro",
+  "first_country": "GB",
+  "countries": [
+   "GB"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Parasite Biology and Host Interactions",
+   "Coral and Marine Ecosystems Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3153510150",
+  "doi": "10.3389/fmars.2021.666662",
+  "title": "Towards Environmental Sustainability in Marine Finfish Aquaculture",
+  "year": 2021,
+  "date": "2021-04-21",
+  "type": "article",
+  "venue": "Frontiers in Marine Science",
+  "cited": 111,
+  "authors": [
+   "C. Carballeira",
+   "Kristine Cerbule",
+   "Paula Senff",
+   "Insa Kristina Stolz"
+  ],
+  "n_authors": 4,
+  "first_author": "C. Carballeira",
+  "first_country": "CL",
+  "countries": [
+   "CL",
+   "DE",
+   "NO"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Aquaculture Nutrition and Growth",
+   "Marine Bivalve and Aquaculture Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4387907937",
+  "doi": "10.3390/ijgi12100439",
+  "title": "GIS-Based Multi-Criteria Evaluation (MCE) Methods for Aquaculture Site Selection: A Systematic Review and Meta-Analysis",
+  "year": 2023,
+  "date": "2023-10-23",
+  "type": "review",
+  "venue": "ISPRS International Journal of Geo-Information",
+  "cited": 22,
+  "authors": [
+   "Sanae Chentouf",
+   "Boutaina Sebbah",
+   "El Houssine Bahousse",
+   "Miriam Wahbi",
+   "Mustapha Maâtouk"
+  ],
+  "n_authors": 5,
+  "first_author": "Sanae Chentouf",
+  "first_country": "MA",
+  "countries": [
+   "MA"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Aquaculture Nutrition and Growth",
+   "Marine Bivalve and Aquaculture Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3204246278",
+  "doi": "10.1016/j.indic.2021.100149",
+  "title": "Assessing sustainability with multi-criteria methods: A methodologically focused literature review",
+  "year": 2021,
+  "date": "2021-09-23",
+  "type": "article",
+  "venue": "Environmental and Sustainability Indicators",
+  "cited": 100,
+  "authors": [
+   "Axel Lindfors"
+  ],
+  "n_authors": 1,
+  "first_author": "Axel Lindfors",
+  "first_country": "SE",
+  "countries": [
+   "SE"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Sustainable Building Design and Assessment",
+   "Environmental and Social Impact Assessments"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4319841094",
+  "doi": "10.1111/raq.12783",
+  "title": "Planning and licensing for marine aquaculture",
+  "year": 2023,
+  "date": "2023-01-11",
+  "type": "article",
+  "venue": "Reviews in Aquaculture",
+  "cited": 51,
+  "authors": [
+   "Lynne Falconer",
+   "Karl Cutajar",
+   "Amalia Krupandan",
+   "Elisa Capuzzo",
+   "Richard A. Corner",
+   "Tim Ellis",
+   "Keith Jeffery",
+   "Eirik Mikkelsen",
+   "Heather Moore",
+   "Francis O’Beirn",
+   "P. O’Donohoe",
+   "Neil M. Ruane"
+  ],
+  "n_authors": 15,
+  "first_author": "Lynne Falconer",
+  "first_country": "GB",
+  "countries": [
+   "GB",
+   "IE",
+   "NO"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Coastal and Marine Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3120583614",
+  "doi": "10.3390/w13020125",
+  "title": "Multi-Criteria Decision-Making Methods to Address Water Allocation Problems: A Systematic Review",
+  "year": 2021,
+  "date": "2021-01-07",
+  "type": "review",
+  "venue": "Water",
+  "cited": 113,
+  "authors": [
+   "Sintayehu Legesse Gebre",
+   "Dirk Cattrysse",
+   "Jos Van Orshoven"
+  ],
+  "n_authors": 3,
+  "first_author": "Sintayehu Legesse Gebre",
+  "first_country": "ET",
+  "countries": [
+   "BE",
+   "ET"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Water resources management and optimization",
+   "Water-Energy-Food Nexus Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4292262769",
+  "doi": "10.1051/alr/2022011",
+  "title": "Lactic acid bacteria as probiotics in sustainable development of aquaculture",
+  "year": 2022,
+  "date": "2022-01-01",
+  "type": "article",
+  "venue": "Aquatic Living Resources",
+  "cited": 66,
+  "authors": [
+   "Anna Chizhayeva",
+   "Alma Amangeldi",
+   "Yelena Oleinikova",
+   "А.Ж. АЛЫБАЕВА",
+   "А.К. САДАНОВ"
+  ],
+  "n_authors": 5,
+  "first_author": "Anna Chizhayeva",
+  "first_country": "",
+  "countries": [],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Aquaculture disease management and microbiota",
+   "Food Industry and Aquatic Biology"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3134442428",
+  "doi": "10.1007/s41742-021-00326-0",
+  "title": "GIS-Based Multi-Criteria and Multi-Objective Evaluation for Sustainable Land-Use Planning (Case Study: Qaleh Ganj County, Iran) “Landuse Planning Using MCE and Mola”",
+  "year": 2021,
+  "date": "2021-03-03",
+  "type": "article",
+  "venue": "International Journal of Environmental Research",
+  "cited": 49,
+  "authors": [
+   "Malihe Masoudi",
+   "Csaba Centeri",
+   "Gergely Jakab",
+   "L. P. Nel",
+   "Mehdi Mojtahedi"
+  ],
+  "n_authors": 5,
+  "first_author": "Malihe Masoudi",
+  "first_country": "HU",
+  "countries": [
+   "HU",
+   "IR"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Soil and Land Suitability Analysis",
+   "Multi-Criteria Decision Making"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4281617057",
+  "doi": "10.1016/j.ocecoaman.2022.106242",
+  "title": "A feasibility assessment for co-locating and powering offshore aquaculture with wave energy in the United States",
+  "year": 2022,
+  "date": "2022-05-30",
+  "type": "article",
+  "venue": "Ocean & Coastal Management",
+  "cited": 51,
+  "authors": [
+   "Lysel Garavelli",
+   "Mikaela Freeman",
+   "Levy G. Tugade",
+   "David Greene",
+   "Jim McNally"
+  ],
+  "n_authors": 5,
+  "first_author": "Lysel Garavelli",
+  "first_country": "US",
+  "countries": [
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coastal and Marine Management",
+   "Ocean Acidification Effects and Responses"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4281661241",
+  "doi": "10.1111/raq.12695",
+  "title": "Farm‐scale models in fish aquaculture – An overview of methods and applications",
+  "year": 2022,
+  "date": "2022-06-01",
+  "type": "article",
+  "venue": "Reviews in Aquaculture",
+  "cited": 59,
+  "authors": [
+   "Killian Chary",
+   "Daniele Brigolin",
+   "Myriam D. Callier"
+  ],
+  "n_authors": 3,
+  "first_author": "Killian Chary",
+  "first_country": "NL",
+  "countries": [
+   "FR",
+   "IT",
+   "NL"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Aquaculture Nutrition and Growth",
+   "Marine Bivalve and Aquaculture Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4223557218",
+  "doi": "10.1016/j.envsci.2022.03.016",
+  "title": "A review of support tools to assess multi-sector interactions in the emerging offshore Blue Economy",
+  "year": 2022,
+  "date": "2022-04-11",
+  "type": "article",
+  "venue": "Environmental Science & Policy",
+  "cited": 23,
+  "authors": [
+   "MP Turschwell",
+   "Hayes Ma",
+   "Myriam Lacharité",
+   "Michael Lochinvar S. Abundo",
+   "John C. Adams",
+   "Julia L. Blanchard",
+   "E. Brain",
+   "CA Buelow",
+   "Cathy Bulman",
+   "SA Condie",
+   "Rod M. Connolly",
+   "Ian Dutton"
+  ],
+  "n_authors": 22,
+  "first_author": "MP Turschwell",
+  "first_country": "AU",
+  "countries": [
+   "AU",
+   "BE",
+   "SG"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coastal and Marine Management",
+   "Marine and fisheries research"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4293067163",
+  "doi": "10.1007/s42995-022-00141-2",
+  "title": "Mapping the potential for offshore aquaculture of salmonids in the Yellow Sea",
+  "year": 2022,
+  "date": "2022-08-18",
+  "type": "article",
+  "venue": "Marine Life Science & Technology",
+  "cited": 42,
+  "authors": [
+   "Shuangen Yu",
+   "Shuanglin Dong",
+   "Zhixin Zhang",
+   "Yu-Yang Zhang",
+   "Gianluca Sarà",
+   "Jie Wang",
+   "Yun‐Wei Dong"
+  ],
+  "n_authors": 7,
+  "first_author": "Shuangen Yu",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "IT"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Marine and fisheries research"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4389891833",
+  "doi": "10.3390/su152416952",
+  "title": "Towards the Sustainable Intensification of Aquaculture: Exploring Possible Ways Forward",
+  "year": 2023,
+  "date": "2023-12-18",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 63,
+  "authors": [
+   "Krista Laktuka",
+   "Antra Kalnbaļķīte",
+   "Līga Sniega",
+   "Kalvis Logins",
+   "Dace Lauka"
+  ],
+  "n_authors": 5,
+  "first_author": "Krista Laktuka",
+  "first_country": "LV",
+  "countries": [
+   "LV"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Aquaculture Nutrition and Growth"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4220859194",
+  "doi": "10.1016/j.rser.2022.112307",
+  "title": "Beyond LCOE: A multi-criteria evaluation framework for offshore renewable energy projects",
+  "year": 2022,
+  "date": "2022-03-16",
+  "type": "article",
+  "venue": "Renewable and Sustainable Energy Reviews",
+  "cited": 59,
+  "authors": [
+   "María M. Vanegas-Cantarero",
+   "Shona Pennock",
+   "Tianna Bloise-Thomaz",
+   "Henry Jeffrey",
+   "Matthew J. Dickson"
+  ],
+  "n_authors": 5,
+  "first_author": "María M. Vanegas-Cantarero",
+  "first_country": "GB",
+  "countries": [
+   "GB",
+   "SE"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine and Offshore Engineering Studies",
+   "Social Acceptance of Renewable Energy"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4406139322",
+  "doi": "10.1371/journal.pstr.0000155",
+  "title": "Checklist and reporting framework to support documentation and communication of GIS-based Multi-Criteria Evaluation (MCE) models for aquaculture site selection",
+  "year": 2025,
+  "date": "2025-01-07",
+  "type": "article",
+  "venue": "PLOS Sustainability and Transformation",
+  "cited": 4,
+  "authors": [
+   "Megan Silverthorn",
+   "Suleiman O. Yakubu",
+   "Lynne Falconer"
+  ],
+  "n_authors": 3,
+  "first_author": "Megan Silverthorn",
+  "first_country": "GB",
+  "countries": [
+   "GB"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Water Quality Monitoring Technologies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3132302566",
+  "doi": "10.1016/j.aquaculture.2021.736528",
+  "title": "Multi-criteria based geospatial assessment to utilize brackishwater resources to enhance fish production",
+  "year": 2021,
+  "date": "2021-02-18",
+  "type": "article",
+  "venue": "Aquaculture",
+  "cited": 9,
+  "authors": [
+   "M. Jayanthi",
+   "S. Thirumurthy",
+   "Muthusamy Samynathan",
+   "P. Kumararaja",
+   "M. Muralidhar",
+   "K.K. Vijayan"
+  ],
+  "n_authors": 6,
+  "first_author": "M. Jayanthi",
+  "first_country": "IN",
+  "countries": [
+   "IN"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Aquaculture Nutrition and Growth",
+   "Marine and fisheries research"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3134125118",
+  "doi": "10.3390/su13052672",
+  "title": "Developing a GIS-Based Decision Rule for Sustainable Marine Aquaculture Site Selection: An Application of the Ordered Weighted Average Procedure",
+  "year": 2021,
+  "date": "2021-03-02",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 25,
+  "authors": [
+   "Elham Haghshenas",
+   "Mehdi Gholamalifard",
+   "Nemat Mahmoudi",
+   "Tiit Kutser"
+  ],
+  "n_authors": 4,
+  "first_author": "Elham Haghshenas",
+  "first_country": "IR",
+  "countries": [
+   "EE",
+   "IR"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Aquaculture Nutrition and Growth"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4402864753",
+  "doi": "10.3390/en17194816",
+  "title": "A Comprehensive Review of Multi-Use Platforms for Renewable Energy and Aquaculture Integration",
+  "year": 2024,
+  "date": "2024-09-26",
+  "type": "article",
+  "venue": "Energies",
+  "cited": 23,
+  "authors": [
+   "Alexandra Ionelia Manolache",
+   "Gabriel Andrei"
+  ],
+  "n_authors": 2,
+  "first_author": "Alexandra Ionelia Manolache",
+  "first_country": "RO",
+  "countries": [
+   "RO"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Water Quality Monitoring Technologies",
+   "Hybrid Renewable Energy Systems"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3154961896",
+  "doi": "10.3390/en14082121",
+  "title": "Criteria for Optimal Site Selection for Ocean Thermal Energy Conversion (OTEC) Plants in Mexico",
+  "year": 2021,
+  "date": "2021-04-10",
+  "type": "article",
+  "venue": "Energies",
+  "cited": 48,
+  "authors": [
+   "Erika Paola Garduño-Ruiz",
+   "Rodolfo Silva",
+   "Yandy Rodríguez Cueto",
+   "Alejandro García-Huante",
+   "Jorge Olmedo‐González",
+   "M. Luisa Martínez",
+   "Astrid Wojtarowski Leal",
+   "Raúl Martell‐Dubois",
+   "Sergio Cerdeira‐Estrada"
+  ],
+  "n_authors": 9,
+  "first_author": "Erika Paola Garduño-Ruiz",
+  "first_country": "",
+  "countries": [
+   "MX"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coastal and Marine Management",
+   "Wind Energy Research and Development"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4408581280",
+  "doi": "10.1111/raq.70010",
+  "title": "An In‐Depth Analysis of the Finfish Aquaculture in Türkiye: Current Status, Challenges, and Future Prospects",
+  "year": 2025,
+  "date": "2025-03-01",
+  "type": "article",
+  "venue": "Reviews in Aquaculture",
+  "cited": 32,
+  "authors": [
+   "İlhan Aydın",
+   "Rafet Çağrı Öztürk",
+   "Orhan Tufan Eroldoğan",
+   "Murat Arslan",
+   "Yahya Terzi̇",
+   "Sevdan Yılmaz",
+   "Gürkan Diken",
+   "Önder Yıldırım",
+   "Türker Bodur",
+   "Nejdet Gültepe",
+   "Ömer Alper Erdem",
+   "Ece Evliyaoğlu"
+  ],
+  "n_authors": 17,
+  "first_author": "İlhan Aydın",
+  "first_country": "",
+  "countries": [
+   "ES",
+   "IN",
+   "IT",
+   "TR"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Fish Biology and Ecology Studies",
+   "Aquaculture Nutrition and Growth"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3217677516",
+  "doi": "10.3390/atmos12121597",
+  "title": "Multi-Criteria Performance Evaluation of Gridded Precipitation and Temperature Products in Data-Sparse Regions",
+  "year": 2021,
+  "date": "2021-11-29",
+  "type": "article",
+  "venue": "Atmosphere",
+  "cited": 51,
+  "authors": [
+   "Ibrahim Mohammed Lawal",
+   "Douglas Bertram",
+   "Christopher J. White",
+   "Ahmad Hussaini Jagaba",
+   "Ibrahim Hassan",
+   "Abdulrahman Shuaibu"
+  ],
+  "n_authors": 6,
+  "first_author": "Ibrahim Mohammed Lawal",
+  "first_country": "NG",
+  "countries": [
+   "GB",
+   "MY",
+   "NG"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Precipitation Measurement and Analysis",
+   "Meteorological Phenomena and Simulations"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4309460225",
+  "doi": "10.3389/fenvs.2022.842253",
+  "title": "Quantitative suitability evaluation and spatial zoning for seawater desalination water intake site selection",
+  "year": 2022,
+  "date": "2022-11-18",
+  "type": "article",
+  "venue": "Frontiers in Environmental Science",
+  "cited": 11,
+  "authors": [
+   "Huang Pei",
+   "Yonggen Sun",
+   "Donggi Gu",
+   "Wenwen Yan",
+   "Yong Chen",
+   "Enkang Wang"
+  ],
+  "n_authors": 6,
+  "first_author": "Huang Pei",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Water Quality Monitoring Technologies",
+   "Coastal and Marine Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3211062555",
+  "doi": "10.1177/11786302211053174",
+  "title": "Landfill Site Selection Using GIS Based Multicriteria Evaluation Technique in Harar City, Eastern Ethiopia",
+  "year": 2021,
+  "date": "2021-01-01",
+  "type": "article",
+  "venue": "Environmental Health Insights",
+  "cited": 57,
+  "authors": [
+   "Elsai Mati Asefa",
+   "Yohannes Tefera Damtew",
+   "Kefelegn Bayu"
+  ],
+  "n_authors": 3,
+  "first_author": "Elsai Mati Asefa",
+  "first_country": "ET",
+  "countries": [
+   "ET"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Municipal Solid Waste Management",
+   "Recycling and Waste Management Techniques"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4414409826",
+  "doi": "10.3390/su17188449",
+  "title": "Spatial Assessment of Ecotourism Development Suitability Incorporating Carrying Capacity in the Yellow River Estuary National Park",
+  "year": 2025,
+  "date": "2025-09-20",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 7,
+  "authors": [
+   "Haoyu Wang",
+   "Yanming Zhang",
+   "Quanbin Wang",
+   "Jing Yu",
+   "C.–P. Yuan"
+  ],
+  "n_authors": 5,
+  "first_author": "Haoyu Wang",
+  "first_country": "RW",
+  "countries": [
+   "CN",
+   "RW"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Soil and Land Suitability Analysis"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4411429720",
+  "doi": "10.3390/su17125593",
+  "title": "Balancing Growth and Sustainability in China’s Carp Aquaculture: Practices, Policies, and Sustainability Pathways",
+  "year": 2025,
+  "date": "2025-06-18",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 15,
+  "authors": [
+   "Yang Song",
+   "Wenbo Zhang"
+  ],
+  "n_authors": 2,
+  "first_author": "Yang Song",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Aquaculture Nutrition and Growth",
+   "Marine Bivalve and Aquaculture Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4404698438",
+  "doi": "10.3390/w16233373",
+  "title": "Hydrochemical Dynamics and Water Quality Assessment of the Ramsar-Listed Ghodaghodi Lake Complex: Unveiling the Water-Environment Nexus",
+  "year": 2024,
+  "date": "2024-11-23",
+  "type": "article",
+  "venue": "Water",
+  "cited": 46,
+  "authors": [
+   "Ganga Paudel",
+   "Ramesh Raj Pant",
+   "Tark Raj Joshi",
+   "Ahmed M. Saqr",
+   "Bojan Đurin",
+   "Vlado Cetl",
+   "Pramod N. Kamble",
+   "Kiran Bishwakarma"
+  ],
+  "n_authors": 8,
+  "first_author": "Ganga Paudel",
+  "first_country": "NP",
+  "countries": [
+   "CN",
+   "EG",
+   "HR",
+   "IN",
+   "NP"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Water Quality and Pollution Assessment",
+   "Groundwater and Isotope Geochemistry"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4403484457",
+  "doi": "10.3390/su16209003",
+  "title": "Quantitative Research of Traditional Village Morphology Based on Spatial Genes: A Case Study of Shaanxi Province, China",
+  "year": 2024,
+  "date": "2024-10-17",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 19,
+  "authors": [
+   "Weidi Zhang",
+   "Hanyu Yang"
+  ],
+  "n_authors": 2,
+  "first_author": "Weidi Zhang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Remote Sensing and Land Use"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4411878364",
+  "doi": "10.3390/app15137307",
+  "title": "Seedling Selection of the Large Yellow Croaker (Larimichthys crocea) for Sustainable Aquaculture: A Review",
+  "year": 2025,
+  "date": "2025-06-28",
+  "type": "article",
+  "venue": "Applied Sciences",
+  "cited": 6,
+  "authors": [
+   "Xinran Han",
+   "Shengmao Zhang",
+   "Yabing Wang",
+   "Hui Fang",
+   "Shiming Peng",
+   "Shenglong Yang",
+   "Zuli Wu"
+  ],
+  "n_authors": 7,
+  "first_author": "Xinran Han",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Aquaculture Nutrition and Growth",
+   "Aquatic life and conservation"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4404956279",
+  "doi": "10.1017/plc.2024.34",
+  "title": "Addressing the environmental sustainability of plastics used in agriculture: a multi-actor perspective",
+  "year": 2024,
+  "date": "2024-12-03",
+  "type": "article",
+  "venue": "Cambridge Prisms Plastics",
+  "cited": 11,
+  "authors": [
+   "Valentina Elena Târţiu",
+   "Rachel Hurley",
+   "Cecilie Baann",
+   "Demetres Briassoulis",
+   "Evelia Schettini",
+   "Fabiana Convertino",
+   "Bernard Lemoine",
+   "Adalgisa Martinelli",
+   "Luc Vernet",
+   "Sissel Brit Ranneklev",
+   "Violette Geissen",
+   "Esperanza Huerta Lwanga"
+  ],
+  "n_authors": 17,
+  "first_author": "Valentina Elena Târţiu",
+  "first_country": "NO",
+  "countries": [
+   "BE",
+   "CN",
+   "CZ",
+   "GR",
+   "IT",
+   "NL",
+   "NO",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Microplastics and Plastic Pollution"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4407107843",
+  "doi": "10.3390/su17031204",
+  "title": "From Shoreline to Sea: Evaluating Development Suitability Through Coastal Zoning and a Case Study from Shenzhen, China",
+  "year": 2025,
+  "date": "2025-02-02",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 7,
+  "authors": [
+   "Yu Han",
+   "Fenghao Zhang",
+   "Hongbing Yu",
+   "Yu Li"
+  ],
+  "n_authors": 4,
+  "first_author": "Yu Han",
+  "first_country": "SE",
+  "countries": [
+   "CN",
+   "SE"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Coastal and Marine Management",
+   "Coastal and Marine Dynamics"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4393098225",
+  "doi": "10.1063/5.0191823",
+  "title": "A decision framework of offshore photovoltaic power station site selection based on Pythagorean fuzzy ELECTRE-III method",
+  "year": 2024,
+  "date": "2024-03-01",
+  "type": "article",
+  "venue": "Journal of Renewable and Sustainable Energy",
+  "cited": 10,
+  "authors": [
+   "Qinghua Mao",
+   "Jiacheng Fan",
+   "Jian Lv",
+   "Yaqing Gao",
+   "Jinjin Chen",
+   "Mengxin Guo"
+  ],
+  "n_authors": 6,
+  "first_author": "Qinghua Mao",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Multi-Criteria Decision Making",
+   "Solar Radiation and Photovoltaics"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4407849539",
+  "doi": "10.1038/s40494-025-01627-9",
+  "title": "Evaluation of ecosystem carrying capacity and diagnosis of obstacle factors in the World Heritage Karst sites",
+  "year": 2025,
+  "date": "2025-02-22",
+  "type": "article",
+  "venue": "npj Heritage Science",
+  "cited": 8,
+  "authors": [
+   "Meirong Xu",
+   "Kangning Xiong",
+   "Yue Chen",
+   "Mingjun Feng"
+  ],
+  "n_authors": 4,
+  "first_author": "Meirong Xu",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Water Resources and Sustainability",
+   "Karst Systems and Hydrogeology"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4410600908",
+  "doi": "10.3390/su17114759",
+  "title": "GIS-Based Suitability Assessment for the Ecological Restoration of Oyster Reefs: A Case Study of the Tianjin Coast in Bohai Bay",
+  "year": 2025,
+  "date": "2025-05-22",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 3,
+  "authors": [
+   "Yuxuan Zhao",
+   "Zifei Wang",
+   "Zifei Wang",
+   "Yunan Lin",
+   "Ruijia Jing",
+   "Zhiyun Wang",
+   "Zhiyun Wang",
+   "Xianhua Liu"
+  ],
+  "n_authors": 8,
+  "first_author": "Yuxuan Zhao",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Coastal and Marine Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4403399288",
+  "doi": "10.3390/w16202914",
+  "title": "Wetland Landscape Dynamics and Multi-Functional Assessment of Wuhan City, China",
+  "year": 2024,
+  "date": "2024-10-13",
+  "type": "article",
+  "venue": "Water",
+  "cited": 8,
+  "authors": [
+   "Yuelin Yan",
+   "Xintao Gan",
+   "Yajin Zhao",
+   "Qipeng Liao",
+   "Chunbo Huang"
+  ],
+  "n_authors": 5,
+  "first_author": "Yuelin Yan",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Coastal wetland ecosystem dynamics"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4406905497",
+  "doi": "10.3390/su17030998",
+  "title": "Integration of Machine Learning and Remote Sensing for Water Quality Monitoring and Prediction: A Review",
+  "year": 2025,
+  "date": "2025-01-26",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 60,
+  "authors": [
+   "Shashank Mohan",
+   "Brajesh Kumar",
+   "A. Pouyan Nejadhashemi"
+  ],
+  "n_authors": 3,
+  "first_author": "Shashank Mohan",
+  "first_country": "US",
+  "countries": [
+   "IN",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Water Quality Monitoring Technologies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4377042754",
+  "doi": "10.3390/app13106122",
+  "title": "Aquasafe: A Remote Sensing, Web-Based Platform for the Support of Precision Fish Farming",
+  "year": 2023,
+  "date": "2023-05-17",
+  "type": "article",
+  "venue": "Applied Sciences",
+  "cited": 23,
+  "authors": [
+   "Andromachi Chatziantoniou",
+   "Nikos Papandroulakis",
+   "Orestis Stavrakidis‐Zachou",
+   "Spyros Spondylidis",
+   "Simeon Taskaris",
+   "Konstantinos Topouzelis"
+  ],
+  "n_authors": 6,
+  "first_author": "Andromachi Chatziantoniou",
+  "first_country": "GR",
+  "countries": [
+   "GR"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Oil Spill Detection and Mitigation",
+   "Marine Bivalve and Aquaculture Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4391827615",
+  "doi": "10.21077/ijf.2023.70.4.132866-01",
+  "title": "Mapping of potential sea-cage farming sites throughspatial modelling: Preliminary operative suggestionsto aid sustainable mariculture expansion in India",
+  "year": 2023,
+  "date": "2023-12-31",
+  "type": "article",
+  "venue": "Indian Journal of Fisheries",
+  "cited": 9,
+  "authors": [
+   "D Divu",
+   "Suresh Kumar Mojjada",
+   "M. Muktha",
+   "P. Abdul Azeez",
+   "Mayur Shivdas Tade",
+   "Aarsha Subramanian",
+   "J. Shilpa Shree",
+   "C. Anulekshmi",
+   "P. P. Suresh Babu",
+   "A. Anuraj",
+   "Prathibha Rohit",
+   "Shubhadeep Ghosh"
+  ],
+  "n_authors": 28,
+  "first_author": "D Divu",
+  "first_country": "IN",
+  "countries": [
+   "IN"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Fisheries and Aquaculture Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4389117717",
+  "doi": "10.1016/j.ecoinf.2023.102393",
+  "title": "Habitat suitability assessment for Saunders's Gull (Saundersilarus saundersi) in the Yellow River Delta, China",
+  "year": 2023,
+  "date": "2023-11-29",
+  "type": "article",
+  "venue": "Ecological Informatics",
+  "cited": 32,
+  "authors": [
+   "Dong Li",
+   "Bin Li",
+   "Xiyong Hou",
+   "Xiaoli Wang",
+   "Xiaowei Li",
+   "Yuxin Zhang"
+  ],
+  "n_authors": 6,
+  "first_author": "Dong Li",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Species Distribution and Climate Change",
+   "Wildlife Ecology and Conservation"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4207082637",
+  "doi": "10.3389/fmars.2021.817975",
+  "title": "Evaluation of Site Suitability for Artificial Reefs Deployment in Southeast Coast of India Using Geographical Information System as a Management Tool",
+  "year": 2022,
+  "date": "2022-01-25",
+  "type": "article",
+  "venue": "Frontiers in Marine Science",
+  "cited": 14,
+  "authors": [
+   "Dilip Kumar Jha",
+   "Vikas Pandey",
+   "J. Santhanakumar",
+   "P. Sathish Kumar",
+   "S. Venkatnarayanan",
+   "J. Prince Prakash Jebakumar",
+   "G. Dharani",
+   "R. Vijaya"
+  ],
+  "n_authors": 8,
+  "first_author": "Dilip Kumar Jha",
+  "first_country": "IN",
+  "countries": [
+   "IN"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coral and Marine Ecosystems Studies",
+   "Coastal and Marine Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4283362603",
+  "doi": "10.3390/jmse10020286",
+  "title": "Mapping of Greek Marine Finfish Farms and Their Potential Impact on the Marine Environment",
+  "year": 2022,
+  "date": "2022-02-18",
+  "type": "article",
+  "venue": "Journal of Marine Science and Engineering",
+  "cited": 12,
+  "authors": [
+   "George Katselis",
+   "Konstantinos Tsolakos",
+   "John Α. Theodorou"
+  ],
+  "n_authors": 3,
+  "first_author": "George Katselis",
+  "first_country": "GR",
+  "countries": [
+   "GR"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coral and Marine Ecosystems Studies",
+   "Marine Bivalve and Aquaculture Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W7124764155",
+  "doi": "10.3390/fishes11010062",
+  "title": "Spatial and Economic Concentration of Offshore Mariculture in China: Insights from a Nation-Scale GIS Dataset",
+  "year": 2026,
+  "date": "2026-01-18",
+  "type": "article",
+  "venue": "Fishes",
+  "cited": 1,
+  "authors": [
+   "Wei Yang",
+   "Yinping Hu",
+   "Kunlin Tang"
+  ],
+  "n_authors": 3,
+  "first_author": "Wei Yang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Coastal and Marine Management",
+   "Marine Bivalve and Aquaculture Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4213438383",
+  "doi": "10.3390/ijgi11030157",
+  "title": "Aquaculture Site Selection of Oncorhynchus Mykiss (Rainbow Trout) in Markazi Province Using GIS-Based MCDM",
+  "year": 2022,
+  "date": "2022-02-22",
+  "type": "article",
+  "venue": "ISPRS International Journal of Geo-Information",
+  "cited": 9,
+  "authors": [
+   "Amir Hedayati Aghmashhadi",
+   "Ali Azizi",
+   "Maryam Hoseinkhani",
+   "Samaneh Zahedi",
+   "Giuseppe T. Cirella"
+  ],
+  "n_authors": 5,
+  "first_author": "Amir Hedayati Aghmashhadi",
+  "first_country": "DE",
+  "countries": [
+   "DE",
+   "IR",
+   "PL"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Soil and Land Suitability Analysis",
+   "Fish Biology and Ecology Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4405738125",
+  "doi": "10.3390/rs17010009",
+  "title": "Study on the Aquaculture of Large Yellow Croaker in the Coastal Zone of Zhejiang Province Based on High-Resolution Remote Sensing",
+  "year": 2024,
+  "date": "2024-12-24",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 5,
+  "authors": [
+   "Jie Yin",
+   "Lina Cai",
+   "Jiahua Li",
+   "Xiaojun Yan",
+   "Beibei Zhang"
+  ],
+  "n_authors": 5,
+  "first_author": "Jie Yin",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Food Industry and Aquatic Biology"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4391827601",
+  "doi": "10.21077/ijf.2023.70.4.134234-07",
+  "title": "Assessing land suitability for sustainable aquaculture development in Muzaffarpur, Bihar using integrated approach of multi-criteria decision analysis and GIS",
+  "year": 2023,
+  "date": "2023-12-31",
+  "type": "article",
+  "venue": "Indian Journal of Fisheries",
+  "cited": 1,
+  "authors": [
+   "Tarun Kumar",
+   "Jatoth Veeranna",
+   "Santosh Kumar Gupta",
+   "Madhu Sudan Kundu",
+   "Nidhi Kumari",
+   "Amar Kant Gautam",
+   "Shobha Rawat",
+   "Anupama Kumari",
+   "Jithendra Prasad"
+  ],
+  "n_authors": 9,
+  "first_author": "Tarun Kumar",
+  "first_country": "",
+  "countries": [
+   "IN"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Fisheries and Aquaculture Studies",
+   "Fish Biology and Ecology Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4385972368",
+  "doi": "10.22146/ijg.78701",
+  "title": "Decadal Remote Sensing Analysis of Seagrass Changes in Palu Bay, Central Sulawesi",
+  "year": 2023,
+  "date": "2023-08-18",
+  "type": "article",
+  "venue": "Indonesian Journal of Geography",
+  "cited": 2,
+  "authors": [
+   "Musayyadah Tis’in",
+   "Rohani Ambo‐Rappe",
+   "Supriadi Supriadi",
+   "Ahmad Faizal"
+  ],
+  "n_authors": 4,
+  "first_author": "Musayyadah Tis’in",
+  "first_country": "ID",
+  "countries": [
+   "ID"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine and Coastal Ecosystems",
+   "Marine and coastal plant biology"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4408038706",
+  "doi": "10.1007/s10653-025-02405-z",
+  "title": "Environmental Risk Assessment of Trace Metal Pollution: A Statistical Perspective",
+  "year": 2025,
+  "date": "2025-02-28",
+  "type": "article",
+  "venue": "Environmental Geochemistry and Health",
+  "cited": 68,
+  "authors": [
+   "Matthew Chidozie Ogwu",
+   "Sylvester Chibueze Izah",
+   "Wisdom Ebiye Sawyer",
+   "Timinipre Amabie"
+  ],
+  "n_authors": 4,
+  "first_author": "Matthew Chidozie Ogwu",
+  "first_country": "US",
+  "countries": [
+   "NG",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Heavy metals in environment",
+   "Environmental and Social Impact Assessments"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4200279072",
+  "doi": "10.1016/j.ecolind.2021.108511",
+  "title": "Ecosystem services assessment and sensitivity analysis based on ANN model and spatial data: A case study in Miaodao Archipelago",
+  "year": 2021,
+  "date": "2021-12-29",
+  "type": "article",
+  "venue": "Ecological Indicators",
+  "cited": 37,
+  "authors": [
+   "Liting Yin",
+   "Wei Zheng",
+   "Honghua Shi",
+   "Dewen Ding"
+  ],
+  "n_authors": 4,
+  "first_author": "Liting Yin",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Remote Sensing and Land Use"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4379468793",
+  "doi": "10.3389/fevo.2023.690382",
+  "title": "A three-step approach for co-locating nature-based solutions within offshore wind farms",
+  "year": 2023,
+  "date": "2023-06-05",
+  "type": "article",
+  "venue": "Frontiers in Ecology and Evolution",
+  "cited": 11,
+  "authors": [
+   "Emma Jane Rendle",
+   "Emily Hunt",
+   "Anthony W. J. Bicknell"
+  ],
+  "n_authors": 3,
+  "first_author": "Emma Jane Rendle",
+  "first_country": "",
+  "countries": [
+   "GB"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Marine and fisheries research"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4386861565",
+  "doi": "10.3389/fmars.2023.1162487",
+  "title": "Oyster reef restoration - aquaculture interactions: maximizing positive synergies",
+  "year": 2023,
+  "date": "2023-09-19",
+  "type": "article",
+  "venue": "Frontiers in Marine Science",
+  "cited": 14,
+  "authors": [
+   "Melanie J. Bishop",
+   "Brendan S. Lanham",
+   "Juan R. Esquivel‐Muelbert",
+   "Victoria J. Cole",
+   "Kristine M. Faelnar",
+   "Charlotte Jenkins",
+   "Jillian Keating",
+   "Francisco Martínez‐Baena",
+   "Wayne A. O’Connor"
+  ],
+  "n_authors": 9,
+  "first_author": "Melanie J. Bishop",
+  "first_country": "AU",
+  "countries": [
+   "AU"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Marine and fisheries research"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W7124130862",
+  "doi": "10.3389/fmars.2025.1748630",
+  "title": "Integrated assessment of ecological environment quality in the eastern coastal zone of Hainan Island (China) using GIS and the analytic hierarchy process",
+  "year": 2026,
+  "date": "2026-01-14",
+  "type": "article",
+  "venue": "Frontiers in Marine Science",
+  "cited": 1,
+  "authors": [
+   "Kaizhe Fu",
+   "Jiyong Ma",
+   "Lin Zhou",
+   "Fei Lü",
+   "Yue Gou",
+   "Mingguang He",
+   "Shiyou Zhang",
+   "Dayu Bian",
+   "Jianhua Guo"
+  ],
+  "n_authors": 9,
+  "first_author": "Kaizhe Fu",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "QA"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Coastal and Marine Management",
+   "Water Resources and Sustainability"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4386245641",
+  "doi": "10.47352/jmans.2774-3047.188",
+  "title": "Utilizing Satellite Imagery for Seasonal Trophic Analysis in the Freshwater Reservoir",
+  "year": 2023,
+  "date": "2023-08-29",
+  "type": "article",
+  "venue": "Journal of Multidisciplinary Applied Natural Science",
+  "cited": 8,
+  "authors": [
+   "Rifa Rachmadita",
+   "Ana Widiana",
+   "Ade Rahmat",
+   "Sunardi Sunardi",
+   "Moh. Dede"
+  ],
+  "n_authors": 5,
+  "first_author": "Rifa Rachmadita",
+  "first_country": "ID",
+  "countries": [
+   "ID"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Water Quality Monitoring Technologies",
+   "Marine and coastal ecosystems"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4290755363",
+  "doi": "10.3390/rs14153822",
+  "title": "Quantitative Evaluation of Reclamation Intensity Based on Regional Planning Theory and Human–Marine Coordination Since 1974: A Case Study of Shandong, China",
+  "year": 2022,
+  "date": "2022-08-08",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 3,
+  "authors": [
+   "Baijing Liu",
+   "Meng Gong",
+   "Xiaoqing Wu",
+   "Ziyang Wang"
+  ],
+  "n_authors": 4,
+  "first_author": "Baijing Liu",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Coastal and Marine Management",
+   "Coastal and Marine Dynamics"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4413919364",
+  "doi": "10.1073/pnas.2504004122",
+  "title": "Oyster farming acts as a marine carbon dioxide removal (mCDR) hotspot for climate change mitigation",
+  "year": 2025,
+  "date": "2025-09-02",
+  "type": "article",
+  "venue": "Proceedings of the National Academy of Sciences",
+  "cited": 17,
+  "authors": [
+   "Xintong Chen",
+   "Zhou Zhang",
+   "Miao-Jun Pan",
+   "Yang Liu",
+   "Changlin Li",
+   "Yangen Zhou",
+   "Li Li",
+   "Xuan Dong",
+   "Yun‐Wei Dong",
+   "Jingyu Li",
+   "Sumei Liu",
+   "Xiaonan Wang"
+  ],
+  "n_authors": 21,
+  "first_author": "Xintong Chen",
+  "first_country": "CN",
+  "countries": [
+   "CA",
+   "CN",
+   "KR",
+   "MY",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Ocean Acidification Effects and Responses",
+   "Marine Bivalve and Aquaculture Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4306963819",
+  "doi": "10.3390/su142013544",
+  "title": "Ecological Effects of Surface Water Evolution in the Yellow River Delta",
+  "year": 2022,
+  "date": "2022-10-20",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 8,
+  "authors": [
+   "Yunlong Li",
+   "Shuping Huang",
+   "Xianglun Kong",
+   "Mei Han",
+   "Min Wang",
+   "Hongkuan Hui"
+  ],
+  "n_authors": 6,
+  "first_author": "Yunlong Li",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Environmental Changes in China"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W7160618253",
+  "doi": "10.1038/s41598-026-51878-0",
+  "title": "Study on GIS-based suitability evaluation of the landscape environment of celebrity former residences in Huanggang",
+  "year": 2026,
+  "date": "2026-05-08",
+  "type": "article",
+  "venue": "Scientific Reports",
+  "cited": 0,
+  "authors": [
+   "Haonan Sun",
+   "Yong Hua"
+  ],
+  "n_authors": 2,
+  "first_author": "Haonan Sun",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Cultural Heritage Management and Preservation",
+   "Soil and Land Suitability Analysis"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W7128002108",
+  "doi": "10.3390/su18031621",
+  "title": "Sufficient and Necessary Conditions Driving Mariculture Development: A Comparative Study of China, Vietnam and India",
+  "year": 2026,
+  "date": "2026-02-05",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 0,
+  "authors": [
+   "Guo Yu",
+   "Y. Liu",
+   "Xiaomei Yang",
+   "Zhihua Wang",
+   "Vincent Lyne",
+   "Dan Meng"
+  ],
+  "n_authors": 6,
+  "first_author": "Guo Yu",
+  "first_country": "CN",
+  "countries": [
+   "AU",
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Agricultural Systems and Practices"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4407388615",
+  "doi": "10.3389/fmars.2025.1540760",
+  "title": "Muti-indicator integrated assessment of coastal erosion vulnerablity in the Abandoned Yellow River Delta using geospatial approaches",
+  "year": 2025,
+  "date": "2025-02-12",
+  "type": "article",
+  "venue": "Frontiers in Marine Science",
+  "cited": 2,
+  "authors": [
+   "Zhi Zhang",
+   "Kai Zhou",
+   "Peng Chen"
+  ],
+  "n_authors": 3,
+  "first_author": "Zhi Zhang",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Coastal and Marine Dynamics",
+   "Coastal wetland ecosystem dynamics"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4416934349",
+  "doi": "10.3389/fmars.2025.1659088",
+  "title": "Pathways in marine spatial planning: a systematic review of drivers and enabling conditions in the Asia-Pacific",
+  "year": 2025,
+  "date": "2025-12-03",
+  "type": "review",
+  "venue": "Frontiers in Marine Science",
+  "cited": 1,
+  "authors": [
+   "Suvaluck Satumanatpan",
+   "Kutkanut Chuenwongarun",
+   "Thiyada Piyawongnarat",
+   "Sakanan Plathong",
+   "Zhiwei Zhang"
+  ],
+  "n_authors": 5,
+  "first_author": "Suvaluck Satumanatpan",
+  "first_country": "TH",
+  "countries": [
+   "CN",
+   "TH"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Coastal and Marine Management",
+   "Coral and Marine Ecosystems Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W7143284664",
+  "doi": "10.1038/s41598-026-41758-y",
+  "title": "Geospatial assessment of habitat degradation and climate impacts on migratory crane habitat in Pakistan’s Wetland ecosystems",
+  "year": 2026,
+  "date": "2026-03-30",
+  "type": "article",
+  "venue": "Scientific Reports",
+  "cited": 0,
+  "authors": [
+   "Muhammad Suliman",
+   "Lv Hongxue",
+   "Faisal Khalid",
+   "Wu Qingming",
+   "SUN Xueying",
+   "Majid Hussain",
+   "Zou Hongfei",
+   "Tariq Ahmad",
+   "I. ULLAH",
+   "Sami Ullah"
+  ],
+  "n_authors": 10,
+  "first_author": "Muhammad Suliman",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "PK"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Avian ecology and behavior",
+   "Species Distribution and Climate Change"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4365138412",
+  "doi": "10.1016/j.jag.2023.103288",
+  "title": "A robust large-scale surface water mapping framework with high spatiotemporal resolution based on the fusion of multi-source remote sensing data",
+  "year": 2023,
+  "date": "2023-04-01",
+  "type": "article",
+  "venue": "International Journal of Applied Earth Observation and Geoinformation",
+  "cited": 50,
+  "authors": [
+   "Junjie Li",
+   "Linyi Li",
+   "Yanjiao Song",
+   "Jiaming Chen",
+   "Zhe Wang",
+   "Yi Bao",
+   "Wen Zhang",
+   "Lingkui Meng"
+  ],
+  "n_authors": 8,
+  "first_author": "Junjie Li",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Flood Risk Assessment and Management",
+   "Hydrology and Watershed Management Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4394007483",
+  "doi": "10.1109/tgrs.2024.3417253",
+  "title": "ChangeMamba: Remote Sensing Change Detection With Spatiotemporal State Space Model",
+  "year": 2024,
+  "date": "2024-01-01",
+  "type": "article",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "cited": 376,
+  "authors": [
+   "Hongruixuan Chen",
+   "Jian Song",
+   "Chengxi Han",
+   "Junshi Xia",
+   "Naoto Yokoya"
+  ],
+  "n_authors": 5,
+  "first_author": "Hongruixuan Chen",
+  "first_country": "JP",
+  "countries": [
+   "CN",
+   "JP"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Remote-Sensing Image Classification"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4224220357",
+  "doi": "10.3390/rs14081770",
+  "title": "A Review of Remote Sensing for Water Quality Retrieval: Progress and Challenges",
+  "year": 2022,
+  "date": "2022-04-07",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 394,
+  "authors": [
+   "Haibo Yang",
+   "Jialin Kong",
+   "Huihui Hu",
+   "Yao Du",
+   "Meiyan Gao",
+   "Fei Chen"
+  ],
+  "n_authors": 6,
+  "first_author": "Haibo Yang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Water Quality Monitoring Technologies",
+   "Marine and coastal ecosystems"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4312203760",
+  "doi": "10.1029/2022rg000777",
+  "title": "Satellite Remote Sensing of Global Land Surface Temperature: Definition, Methods, Products, and Applications",
+  "year": 2022,
+  "date": "2022-12-24",
+  "type": "article",
+  "venue": "Reviews of Geophysics",
+  "cited": 658,
+  "authors": [
+   "Zhao‐Liang Li",
+   "Hua Wu",
+   "Si‐Bo Duan",
+   "Wei Zhao",
+   "Huazhong Ren",
+   "Xiangyang Liu",
+   "Pei Leng",
+   "Ronglin Tang",
+   "Xin Ye",
+   "Jinshun Zhu",
+   "Yingwei Sun",
+   "Menglin Si"
+  ],
+  "n_authors": 19,
+  "first_author": "Zhao‐Liang Li",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Urban Heat Island Mitigation",
+   "Climate change and permafrost"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3126641878",
+  "doi": "10.1016/j.rse.2021.112313",
+  "title": "Multi-sensor remote sensing for drought characterization: current status, opportunities and a roadmap for the future",
+  "year": 2021,
+  "date": "2021-02-06",
+  "type": "article",
+  "venue": "Remote Sensing of Environment",
+  "cited": 280,
+  "authors": [
+   "Wenzhe Jiao",
+   "Lixin Wang",
+   "Matthew F. McCabe"
+  ],
+  "n_authors": 3,
+  "first_author": "Wenzhe Jiao",
+  "first_country": "US",
+  "countries": [
+   "SA",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Hydrology and Drought Analysis",
+   "Climate variability and models"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3135991645",
+  "doi": "10.3390/s21062140",
+  "title": "Sensor and Sensor Fusion Technology in Autonomous Vehicles: A Review",
+  "year": 2021,
+  "date": "2021-03-18",
+  "type": "article",
+  "venue": "Sensors",
+  "cited": 866,
+  "authors": [
+   "De Jong Yeong",
+   "Gustavo Velasco-Hernandez",
+   "John M. Barry",
+   "J. L. Walsh"
+  ],
+  "n_authors": 4,
+  "first_author": "De Jong Yeong",
+  "first_country": "IE",
+  "countries": [
+   "IE"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Advanced Neural Network Applications",
+   "Autonomous Vehicle Technology and Safety"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4207067038",
+  "doi": "10.1029/2021ef002289",
+  "title": "Remote Sensing Big Data for Water Environment Monitoring: Current Status, Challenges, and Future Prospects",
+  "year": 2022,
+  "date": "2022-01-21",
+  "type": "article",
+  "venue": "Earth s Future",
+  "cited": 314,
+  "authors": [
+   "Jinyue Chen",
+   "Shuisen Chen",
+   "Rao Fu",
+   "Dan Li",
+   "Hao Jiang",
+   "Chongyang Wang",
+   "Yongshi Peng",
+   "Kai Jia",
+   "Brendan J. Hicks"
+  ],
+  "n_authors": 9,
+  "first_author": "Jinyue Chen",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "NZ"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Flood Risk Assessment and Management",
+   "Hydrological Forecasting Using AI"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3128829940",
+  "doi": "10.1016/j.srs.2021.100019",
+  "title": "UAV & satellite synergies for optical remote sensing applications: A literature review",
+  "year": 2021,
+  "date": "2021-02-06",
+  "type": "article",
+  "venue": "Science of Remote Sensing",
+  "cited": 290,
+  "authors": [
+   "Emilien Alvarez-Vanhard",
+   "Thomas Corpetti",
+   "Thomas Houet"
+  ],
+  "n_authors": 3,
+  "first_author": "Emilien Alvarez-Vanhard",
+  "first_country": "FR",
+  "countries": [
+   "FR"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing and LiDAR Applications",
+   "UAV Applications and Optimization"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4324342656",
+  "doi": "10.1016/j.iswcr.2023.03.002",
+  "title": "Remote sensing of soil degradation: Progress and perspective",
+  "year": 2023,
+  "date": "2023-03-15",
+  "type": "article",
+  "venue": "International Soil and Water Conservation Research",
+  "cited": 301,
+  "authors": [
+   "Jingzhe Wang",
+   "Jianing Zhen",
+   "Weifang Hu",
+   "Songchao Chen",
+   "Iván Lizaga",
+   "Mojtaba Zeraatpisheh",
+   "Xiaodong Yang"
+  ],
+  "n_authors": 7,
+  "first_author": "Jingzhe Wang",
+  "first_country": "CN",
+  "countries": [
+   "BE",
+   "CN",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Soil erosion and sediment transport",
+   "Soil Geostatistics and Mapping"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4384341180",
+  "doi": "10.3390/rs15143534",
+  "title": "Measurement of Total Dissolved Solids and Total Suspended Solids in Water Systems: A Review of the Issues, Conventional, and Remote Sensing Techniques",
+  "year": 2023,
+  "date": "2023-07-13",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 291,
+  "authors": [
+   "Godson Ebenezer Adjovu",
+   "Haroon Stephen",
+   "David E. James",
+   "Sajjad Ahmad"
+  ],
+  "n_authors": 4,
+  "first_author": "Godson Ebenezer Adjovu",
+  "first_country": "US",
+  "countries": [
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine and coastal ecosystems",
+   "Flood Risk Assessment and Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4407625821",
+  "doi": "10.3390/rs17040667",
+  "title": "The Application of Remote Sensing Technology in Inland Water Quality Monitoring and Water Environment Science: Recent Progress and Perspectives",
+  "year": 2025,
+  "date": "2025-02-16",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 64,
+  "authors": [
+   "Lei Chen",
+   "Leizhen Liu",
+   "Shasha Liu",
+   "Zhenyu Shi",
+   "Chunhong Shi"
+  ],
+  "n_authors": 5,
+  "first_author": "Lei Chen",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Marine and coastal ecosystems",
+   "Water Quality Monitoring Technologies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4316015559",
+  "doi": "10.1016/j.ecolind.2023.109892",
+  "title": "Spatiotemporal fusion of multi-source remote sensing data for estimating aboveground biomass of grassland",
+  "year": 2023,
+  "date": "2023-01-13",
+  "type": "article",
+  "venue": "Ecological Indicators",
+  "cited": 48,
+  "authors": [
+   "Zhou Yajun",
+   "Tingxi Liu",
+   "Okke Batelaan",
+   "Limin Duan",
+   "Yixuan Wang",
+   "Xia Li",
+   "Mingyang Li"
+  ],
+  "n_authors": 7,
+  "first_author": "Zhou Yajun",
+  "first_country": "CN",
+  "countries": [
+   "AU",
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote Sensing in Agriculture",
+   "Land Use and Ecosystem Services"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4283024644",
+  "doi": "10.3390/rs14122903",
+  "title": "Review of Remote Sensing Applications in Grassland Monitoring",
+  "year": 2022,
+  "date": "2022-06-17",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 188,
+  "authors": [
+   "Zhaobin Wang",
+   "Yikun Ma",
+   "Yaonan Zhang",
+   "Jiali Shang"
+  ],
+  "n_authors": 4,
+  "first_author": "Zhaobin Wang",
+  "first_country": "CN",
+  "countries": [
+   "CA",
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote Sensing in Agriculture",
+   "Remote Sensing and Land Use"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4390826350",
+  "doi": "10.3390/rs16020327",
+  "title": "Remote Sensing Object Detection in the Deep Learning Era—A Review",
+  "year": 2024,
+  "date": "2024-01-12",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 292,
+  "authors": [
+   "Shengxi Gui",
+   "Shuang Song",
+   "Rongjun Qin",
+   "Yang Tang"
+  ],
+  "n_authors": 4,
+  "first_author": "Shengxi Gui",
+  "first_country": "US",
+  "countries": [
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Remote-Sensing Image Classification",
+   "Advanced Neural Network Applications"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4384895629",
+  "doi": "10.1016/j.rse.2023.113723",
+  "title": "A deep learning-based framework for multi-source precipitation fusion",
+  "year": 2023,
+  "date": "2023-07-18",
+  "type": "article",
+  "venue": "Remote Sensing of Environment",
+  "cited": 103,
+  "authors": [
+   "Keyhan Gavahi",
+   "Ehsan Foroumandi",
+   "Hamid Moradkhani"
+  ],
+  "n_authors": 3,
+  "first_author": "Keyhan Gavahi",
+  "first_country": "US",
+  "countries": [
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Precipitation Measurement and Analysis",
+   "Meteorological Phenomena and Simulations"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4313827776",
+  "doi": "10.3390/rs15020354",
+  "title": "Remote Sensing in Field Crop Monitoring: A Comprehensive Review of Sensor Systems, Data Analyses and Recent Advances",
+  "year": 2023,
+  "date": "2023-01-06",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 295,
+  "authors": [
+   "Emmanuel Omia",
+   "Hyungjin Bae",
+   "Eunsung Park",
+   "Moon S. Kim",
+   "Insuck Baek",
+   "Isa Kabenge",
+   "Byoung–Kwan Cho"
+  ],
+  "n_authors": 7,
+  "first_author": "Emmanuel Omia",
+  "first_country": "KR",
+  "countries": [
+   "KR",
+   "UG",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing in Agriculture",
+   "Smart Agriculture and AI"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3168367808",
+  "doi": "10.1016/j.isprsjprs.2021.05.011",
+  "title": "Multimodal remote sensing benchmark datasets for land cover classification with a shared and specific feature learning model",
+  "year": 2021,
+  "date": "2021-06-11",
+  "type": "article",
+  "venue": "ISPRS Journal of Photogrammetry and Remote Sensing",
+  "cited": 318,
+  "authors": [
+   "Danfeng Hong",
+   "Jingliang Hu",
+   "Jing Yao",
+   "Jocelyn Chanussot",
+   "Xiao Xiang Zhu"
+  ],
+  "n_authors": 5,
+  "first_author": "Danfeng Hong",
+  "first_country": "DE",
+  "countries": [
+   "CN",
+   "DE",
+   "FR"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Remote-Sensing Image Classification",
+   "Remote Sensing and Land Use"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3183309240",
+  "doi": "10.1007/s40747-021-00457-z",
+  "title": "Remote sensing techniques: mapping and monitoring of mangrove ecosystem—a review",
+  "year": 2021,
+  "date": "2021-07-16",
+  "type": "article",
+  "venue": "Complex & Intelligent Systems",
+  "cited": 239,
+  "authors": [
+   "Khushbu Maurya",
+   "Seema Mahajan",
+   "Nilima Rani Chaube"
+  ],
+  "n_authors": 3,
+  "first_author": "Khushbu Maurya",
+  "first_country": "IN",
+  "countries": [
+   "IN"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coastal wetland ecosystem dynamics",
+   "Remote-Sensing Image Classification"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4310214322",
+  "doi": "10.1017/cft.2022.4",
+  "title": "The future of coastal monitoring through satellite remote sensing",
+  "year": 2022,
+  "date": "2022-11-28",
+  "type": "article",
+  "venue": "Cambridge Prisms Coastal Futures",
+  "cited": 175,
+  "authors": [
+   "Sean Vitousek",
+   "Daniel Buscombe",
+   "Kilian Vos",
+   "Patrick L. Barnard",
+   "Andrew C. Ritchie",
+   "Jonathan A. Warrick"
+  ],
+  "n_authors": 6,
+  "first_author": "Sean Vitousek",
+  "first_country": "US",
+  "countries": [
+   "AU",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coastal and Marine Dynamics",
+   "Ocean Waves and Remote Sensing"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4386050676",
+  "doi": "10.3390/rs15164112",
+  "title": "A Review of Practical AI for Remote Sensing in Earth Sciences",
+  "year": 2023,
+  "date": "2023-08-21",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 193,
+  "authors": [
+   "Bhargavi Janga",
+   "Gokul Prathin Asamani",
+   "Ziheng Sun",
+   "Nicoleta Cristea"
+  ],
+  "n_authors": 4,
+  "first_author": "Bhargavi Janga",
+  "first_country": "US",
+  "countries": [
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Remote-Sensing Image Classification",
+   "Advanced Image Fusion Techniques"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4382927953",
+  "doi": "10.11834/jrs.20210259",
+  "title": "Development status and future prospects of multi-source remote sensing image fusion",
+  "year": 2021,
+  "date": "2021-01-01",
+  "type": "article",
+  "venue": "National Remote Sensing Bulletin",
+  "cited": 54,
+  "authors": [
+   "Shutao Li",
+   "Congyu Li",
+   "Xudong Kang"
+  ],
+  "n_authors": 3,
+  "first_author": "Shutao Li",
+  "first_country": "",
+  "countries": [],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing and Land Use",
+   "Advanced Image Fusion Techniques"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4224277271",
+  "doi": "10.3390/land11050595",
+  "title": "Spatiotemporal Variation in Land Use Land Cover in the Response to Local Climate Change Using Multispectral Remote Sensing Data",
+  "year": 2022,
+  "date": "2022-04-19",
+  "type": "article",
+  "venue": "Land",
+  "cited": 150,
+  "authors": [
+   "Sajjad Hussain",
+   "Linlin Lu",
+   "Muhammad Mubeen",
+   "Wajid Nasim",
+   "Shankar Karuppannan",
+   "Shah Fahad",
+   "Aqil Tariq",
+   "B. G. Mousa",
+   "Faisal Mumtaz",
+   "Muhammad Aslam"
+  ],
+  "n_authors": 10,
+  "first_author": "Sajjad Hussain",
+  "first_country": "PK",
+  "countries": [
+   "CN",
+   "EG",
+   "ET",
+   "GB",
+   "PK"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Urban Heat Island Mitigation"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3205333858",
+  "doi": "10.3390/environments8100105",
+  "title": "Study of the Urban Heat Island (UHI) Using Remote Sensing Data/Techniques: A Systematic Review",
+  "year": 2021,
+  "date": "2021-10-09",
+  "type": "review",
+  "venue": "Environments",
+  "cited": 308,
+  "authors": [
+   "Cátia Rodrigues de Almeida",
+   "Ana Cláudia Teodoro",
+   "Artur Gonçalves"
+  ],
+  "n_authors": 3,
+  "first_author": "Cátia Rodrigues de Almeida",
+  "first_country": "PT",
+  "countries": [
+   "PT"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Urban Heat Island Mitigation",
+   "Impact of Light on Environment and Health"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4404229704",
+  "doi": "10.3390/rs16224196",
+  "title": "Review of Recent Advances in Remote Sensing and Machine Learning Methods for Lake Water Quality Management",
+  "year": 2024,
+  "date": "2024-11-11",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 125,
+  "authors": [
+   "Ying Deng",
+   "Yue Zhang",
+   "Daiwei Pan",
+   "Simon X. Yang",
+   "Bahram Gharabaghi"
+  ],
+  "n_authors": 5,
+  "first_author": "Ying Deng",
+  "first_country": "CA",
+  "countries": [
+   "CA"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Water Quality Monitoring Technologies",
+   "Marine and coastal ecosystems"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4413381097",
+  "doi": "10.3390/plants14162544",
+  "title": "Advances in UAV Remote Sensing for Monitoring Crop Water and Nutrient Status: Modeling Methods, Influencing Factors, and Challenges",
+  "year": 2025,
+  "date": "2025-08-15",
+  "type": "article",
+  "venue": "Plants",
+  "cited": 47,
+  "authors": [
+   "Xiaofei Yang",
+   "Junying Chen",
+   "Xiaohan Lu",
+   "Hao Liu",
+   "Yanfu Liu",
+   "Xuqian Bai",
+   "Long Qian",
+   "Zhitao Zhang"
+  ],
+  "n_authors": 8,
+  "first_author": "Xiaofei Yang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote Sensing and LiDAR Applications",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4400081502",
+  "doi": "10.3390/rs16132355",
+  "title": "Change Detection Methods for Remote Sensing in the Last Decade: A Comprehensive Review",
+  "year": 2024,
+  "date": "2024-06-27",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 249,
+  "authors": [
+   "Guangliang Cheng",
+   "Yunmeng Huang",
+   "Xiangtai Li",
+   "Shuchang Lyu",
+   "Zhaoyang Xu",
+   "Hongbo Zhao",
+   "Qi Zhao",
+   "Shiming Xiang"
+  ],
+  "n_authors": 8,
+  "first_author": "Guangliang Cheng",
+  "first_country": "GB",
+  "countries": [
+   "CN",
+   "GB"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Remote-Sensing Image Classification",
+   "Remote Sensing and Land Use"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4399138403",
+  "doi": "10.3390/s24113495",
+  "title": "Transformers for Remote Sensing: A Systematic Review and Analysis",
+  "year": 2024,
+  "date": "2024-05-29",
+  "type": "review",
+  "venue": "Sensors",
+  "cited": 89,
+  "authors": [
+   "R Z Wang",
+   "Lei Ma",
+   "Guangjun He",
+   "Brian Alan Johnson",
+   "Ziyun Yan",
+   "Ming Chang",
+   "Ying Liang"
+  ],
+  "n_authors": 7,
+  "first_author": "R Z Wang",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "JP"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote-Sensing Image Classification",
+   "Remote Sensing and LiDAR Applications"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4402430759",
+  "doi": "10.1080/17538947.2024.2398051",
+  "title": "Change detection of multisource remote sensing images: a review",
+  "year": 2024,
+  "date": "2024-09-09",
+  "type": "article",
+  "venue": "International Journal of Digital Earth",
+  "cited": 75,
+  "authors": [
+   "Wandong Jiang",
+   "Yuli Sun",
+   "Lin Lei",
+   "Gangyao Kuang",
+   "Kefeng Ji"
+  ],
+  "n_authors": 5,
+  "first_author": "Wandong Jiang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote-Sensing Image Classification",
+   "Remote Sensing and Land Use"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4391557657",
+  "doi": "10.1186/s13677-023-00583-8",
+  "title": "Challenges in remote sensing based climate and crop monitoring: navigating the complexities using AI",
+  "year": 2024,
+  "date": "2024-02-06",
+  "type": "article",
+  "venue": "Journal of Cloud Computing Advances Systems and Applications",
+  "cited": 90,
+  "authors": [
+   "Huimin Han",
+   "Zehua Liu",
+   "Jiuhao Li",
+   "Zhixiong Zeng"
+  ],
+  "n_authors": 4,
+  "first_author": "Huimin Han",
+  "first_country": "",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4402380434",
+  "doi": "10.1080/01431161.2024.2388878",
+  "title": "Hyper-Parameter Optimization-based multi-source fusion for remote sensing inversion of non-photosensitive water quality parameters",
+  "year": 2024,
+  "date": "2024-09-08",
+  "type": "article",
+  "venue": "International Journal of Remote Sensing",
+  "cited": 6,
+  "authors": [
+   "Yuhao Yuan",
+   "Zhiping Lin",
+   "Xinhao Jiang",
+   "Zhongmou Fan"
+  ],
+  "n_authors": 4,
+  "first_author": "Yuhao Yuan",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote-Sensing Image Classification",
+   "Water Quality Monitoring Technologies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4413134566",
+  "doi": "10.1007/s44295-025-00075-2",
+  "title": "A review of remote sensing-based water quality monitoring in turbid coastal waters",
+  "year": 2025,
+  "date": "2025-08-07",
+  "type": "article",
+  "venue": "Intelligent Marine Technology and Systems",
+  "cited": 34,
+  "authors": [
+   "Ziying Wu",
+   "Jingjing Pang",
+   "Jinyu Li",
+   "Yuwen Wang",
+   "Jingyi Ruan",
+   "Xueling Zhang",
+   "Linshu Yang",
+   "Yuxuan Pang",
+   "Ying Gao"
+  ],
+  "n_authors": 9,
+  "first_author": "Ziying Wu",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Marine and coastal ecosystems",
+   "Remote-Sensing Image Classification"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4404632491",
+  "doi": "10.1016/j.agwat.2024.109173",
+  "title": "A novel framework for multi-layer soil moisture estimation with high spatio-temporal resolution based on data fusion and automated machine learning",
+  "year": 2024,
+  "date": "2024-11-22",
+  "type": "article",
+  "venue": "Agricultural Water Management",
+  "cited": 26,
+  "authors": [
+   "Shenglin Li",
+   "Yang Han",
+   "Caixia Li",
+   "Jinglei Wang"
+  ],
+  "n_authors": 4,
+  "first_author": "Shenglin Li",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Soil Moisture and Remote Sensing",
+   "Landslides and related hazards"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4393935112",
+  "doi": "10.3390/rs16071269",
+  "title": "MFINet: Multi-Scale Feature Interaction Network for Change Detection of High-Resolution Remote Sensing Images",
+  "year": 2024,
+  "date": "2024-04-04",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 41,
+  "authors": [
+   "Wuxu Ren",
+   "Wang Zhong-chen",
+   "Min Xia",
+   "Haifeng Lin"
+  ],
+  "n_authors": 4,
+  "first_author": "Wuxu Ren",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote-Sensing Image Classification",
+   "Remote Sensing and Land Use"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4405782284",
+  "doi": "10.3390/agriculture15010018",
+  "title": "Research on Soil Erosion Based on Remote Sensing Technology: A Review",
+  "year": 2024,
+  "date": "2024-12-25",
+  "type": "article",
+  "venue": "Agriculture",
+  "cited": 47,
+  "authors": [
+   "Jiaqi Wang",
+   "Jiuchun Yang",
+   "Zhi Li",
+   "Liwei Ke",
+   "Q. B. Li",
+   "Jianwei Fan",
+   "Xue Wang"
+  ],
+  "n_authors": 7,
+  "first_author": "Jiaqi Wang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Soil erosion and sediment transport",
+   "Aeolian processes and effects"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3201073812",
+  "doi": "10.1016/j.cpc.2021.108171",
+  "title": "LAMMPS - a flexible simulation tool for particle-based materials modeling at the atomic, meso, and continuum scales",
+  "year": 2021,
+  "date": "2021-09-22",
+  "type": "article",
+  "venue": "Computer Physics Communications",
+  "cited": 12532,
+  "authors": [
+   "Aidan P. Thompson",
+   "Hasan Metin Aktulga",
+   "Richard A. Berger",
+   "Dan Bolintineanu",
+   "William M. Brown",
+   "Paul Crozier",
+   "Pieter J. in ’t Veld",
+   "Axel Kohlmeyer",
+   "Stan Moore",
+   "Trung Dac Nguyen",
+   "Ray Shan",
+   "Mark J. Stevens"
+  ],
+  "n_authors": 15,
+  "first_author": "Aidan P. Thompson",
+  "first_country": "US",
+  "countries": [
+   "DE",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Machine Learning in Materials Science",
+   "Electron and X-Ray Spectroscopy Techniques"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4376139050",
+  "doi": "10.1093/forestry/cpad024",
+  "title": "Remote sensing in forestry: current challenges, considerations and directions",
+  "year": 2023,
+  "date": "2023-05-10",
+  "type": "article",
+  "venue": "Forestry An International Journal of Forest Research",
+  "cited": 350,
+  "authors": [
+   "Fabian Ewald Fassnacht",
+   "Joanne C. White",
+   "Michael A. Wulder",
+   "Erik Næsset"
+  ],
+  "n_authors": 4,
+  "first_author": "Fabian Ewald Fassnacht",
+  "first_country": "DE",
+  "countries": [
+   "CA",
+   "DE",
+   "NO"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing and LiDAR Applications",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4312039421",
+  "doi": "10.1093/nsr/nwac290",
+  "title": "Challenges and opportunities in remote sensing-based crop monitoring: a review",
+  "year": 2022,
+  "date": "2022-12-16",
+  "type": "article",
+  "venue": "National Science Review",
+  "cited": 332,
+  "authors": [
+   "Bingfang Wu",
+   "Miao Zhang",
+   "Hongwei Zeng",
+   "Fuyou Tian",
+   "Andries Potgieter",
+   "Xingli Qin",
+   "Nana Yan",
+   "Sheng Chang",
+   "Yan Zhao",
+   "Qinghan Dong",
+   "Vijendra K. Boken",
+   "Д.Е. Плотников"
+  ],
+  "n_authors": 18,
+  "first_author": "Bingfang Wu",
+  "first_country": "CH",
+  "countries": [
+   "AU",
+   "BE",
+   "CH",
+   "CN",
+   "RU",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing in Agriculture",
+   "Smart Agriculture and AI"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4380853827",
+  "doi": "10.1016/j.isprsjprs.2023.05.028",
+  "title": "Nighttime light remote sensing for urban applications: Progress, challenges, and prospects",
+  "year": 2023,
+  "date": "2023-06-15",
+  "type": "article",
+  "venue": "ISPRS Journal of Photogrammetry and Remote Sensing",
+  "cited": 281,
+  "authors": [
+   "Qiming Zheng",
+   "Karen C. Seto",
+   "Yuyu Zhou",
+   "Shixue You",
+   "Qihao Weng"
+  ],
+  "n_authors": 5,
+  "first_author": "Qiming Zheng",
+  "first_country": "HK",
+  "countries": [
+   "CN",
+   "HK",
+   "SG",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Impact of Light on Environment and Health",
+   "Human Mobility and Location-Based Analysis"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3215367274",
+  "doi": "10.1016/j.geoderma.2021.115567",
+  "title": "Digital mapping of GlobalSoilMap soil properties at a broad scale: A review",
+  "year": 2021,
+  "date": "2021-11-30",
+  "type": "article",
+  "venue": "Geoderma",
+  "cited": 511,
+  "authors": [
+   "Songchao Chen",
+   "Dominique Arrouays",
+   "Vera Leatitia Mulder",
+   "Laura Poggio",
+   "Budiman Minasny",
+   "Pierre Roudier",
+   "Zamir Libohova",
+   "Philippe Lagacherie",
+   "Zhou Shi",
+   "Jacqueline Hannam",
+   "Jeroen Meersmans",
+   "Anne C Richer-De-Forges"
+  ],
+  "n_authors": 13,
+  "first_author": "Songchao Chen",
+  "first_country": "FR",
+  "countries": [
+   "AU",
+   "BE",
+   "CN",
+   "FR",
+   "GB",
+   "NL",
+   "NZ",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Soil Geostatistics and Mapping",
+   "Soil Carbon and Nitrogen Dynamics"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4362558954",
+  "doi": "10.1007/s12210-023-01155-3",
+  "title": "An overview of land degradation, desertification and sustainable land management using GIS and remote sensing applications",
+  "year": 2023,
+  "date": "2023-04-04",
+  "type": "article",
+  "venue": "RENDICONTI LINCEI",
+  "cited": 365,
+  "authors": [
+   "Mohamed A. E. AbdelRahman"
+  ],
+  "n_authors": 1,
+  "first_author": "Mohamed A. E. AbdelRahman",
+  "first_country": "EG",
+  "countries": [
+   "EG"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Soil erosion and sediment transport",
+   "Rangeland Management and Livestock Ecology"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4206736393",
+  "doi": "10.3390/s22030757",
+  "title": "Current State of Hyperspectral Remote Sensing for Early Plant Disease Detection: A Review",
+  "year": 2022,
+  "date": "2022-01-19",
+  "type": "article",
+  "venue": "Sensors",
+  "cited": 261,
+  "authors": [
+   "Anton Terentev",
+   "В. И. Долженко",
+   "Alexander Fedotov",
+   "Danila Eremenko"
+  ],
+  "n_authors": 4,
+  "first_author": "Anton Terentev",
+  "first_country": "RU",
+  "countries": [
+   "RU"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing in Agriculture",
+   "Spectroscopy and Chemometric Analyses"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4311261688",
+  "doi": "10.1016/j.rse.2022.113366",
+  "title": "Cross-scale sensing of field-level crop residue cover: Integrating field photos, airborne hyperspectral imaging, and satellite data",
+  "year": 2022,
+  "date": "2022-12-01",
+  "type": "article",
+  "venue": "Remote Sensing of Environment",
+  "cited": 84,
+  "authors": [
+   "Sheng Wang",
+   "Sheng Wang",
+   "Kaiyu Guan",
+   "Chenhui Zhang",
+   "Qu Zhou",
+   "Sibo Wang",
+   "Sibo Wang",
+   "Xiaocui Wu",
+   "Chongya Jiang",
+   "Bin Peng",
+   "Weiye Mei",
+   "Kaiyuan Li"
+  ],
+  "n_authors": 17,
+  "first_author": "Sheng Wang",
+  "first_country": "US",
+  "countries": [
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing in Agriculture",
+   "Remote Sensing and LiDAR Applications"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4378229303",
+  "doi": "10.3390/f14061086",
+  "title": "Review of Remote Sensing-Based Methods for Forest Aboveground Biomass Estimation: Progress, Challenges, and Prospects",
+  "year": 2023,
+  "date": "2023-05-24",
+  "type": "article",
+  "venue": "Forests",
+  "cited": 222,
+  "authors": [
+   "Lei Tian",
+   "Xiaocan Wu",
+   "Tao Yu",
+   "Mingyang Li",
+   "Chunhua Qian",
+   "Longtao Liao",
+   "Wenxue Fu"
+  ],
+  "n_authors": 7,
+  "first_author": "Lei Tian",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote Sensing and LiDAR Applications",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4213329165",
+  "doi": "10.3390/rs14041031",
+  "title": "Mapping of Urban Vegetation with High-Resolution Remote Sensing: A Review",
+  "year": 2022,
+  "date": "2022-02-21",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 178,
+  "authors": [
+   "Robbe Neyns",
+   "Frank Canters"
+  ],
+  "n_authors": 2,
+  "first_author": "Robbe Neyns",
+  "first_country": "BE",
+  "countries": [
+   "BE"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3187911027",
+  "doi": "10.1007/s00779-021-01582-9",
+  "title": "The Chatbot Usability Scale: the Design and Pilot of a Usability Scale for Interaction with AI-Based Conversational Agents",
+  "year": 2021,
+  "date": "2021-07-21",
+  "type": "article",
+  "venue": "Personal and Ubiquitous Computing",
+  "cited": 242,
+  "authors": [
+   "Simone Borsci",
+   "Alessio Malizia",
+   "Martin Schmettow",
+   "Frank van der Velde",
+   "Gunay Tariverdiyeva",
+   "Divyaa Balaji",
+   "Alan Chamberlain"
+  ],
+  "n_authors": 7,
+  "first_author": "Simone Borsci",
+  "first_country": "GB",
+  "countries": [
+   "GB",
+   "IT",
+   "NL",
+   "NO"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "AI in Service Interactions",
+   "Digital Mental Health Interventions"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4389104786",
+  "doi": "10.1109/jstars.2023.3335891",
+  "title": "Deep-Learning-Based Semantic Segmentation of Remote Sensing Images: A Survey",
+  "year": 2023,
+  "date": "2023-11-28",
+  "type": "article",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "cited": 154,
+  "authors": [
+   "Liwei Huang",
+   "Bitao Jiang",
+   "Shouye Lv",
+   "Yanbo Liu",
+   "Ying Fu"
+  ],
+  "n_authors": 5,
+  "first_author": "Liwei Huang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote-Sensing Image Classification",
+   "Advanced Image and Video Retrieval Techniques"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4362465355",
+  "doi": "10.1007/s11432-022-3588-0",
+  "title": "From single- to multi-modal remote sensing imagery interpretation: a survey and taxonomy",
+  "year": 2023,
+  "date": "2023-03-27",
+  "type": "article",
+  "venue": "Science China Information Sciences",
+  "cited": 105,
+  "authors": [
+   "Xian Sun",
+   "Yu Tian",
+   "Wanxuan Lu",
+   "Peijin Wang",
+   "Ruigang Niu",
+   "Hongfeng Yu",
+   "Kun Fu"
+  ],
+  "n_authors": 7,
+  "first_author": "Xian Sun",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote-Sensing Image Classification",
+   "Advanced Image and Video Retrieval Techniques"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4200142374",
+  "doi": "10.1016/j.isprsjprs.2021.12.007",
+  "title": "CMGFNet: A deep cross-modal gated fusion network for building extraction from very high-resolution remote sensing images",
+  "year": 2021,
+  "date": "2021-12-29",
+  "type": "article",
+  "venue": "ISPRS Journal of Photogrammetry and Remote Sensing",
+  "cited": 225,
+  "authors": [
+   "Hamidreza Hosseinpour",
+   "Farhad Samadzadegan",
+   "Farzaneh Dadrass Javan"
+  ],
+  "n_authors": 3,
+  "first_author": "Hamidreza Hosseinpour",
+  "first_country": "IR",
+  "countries": [
+   "IR",
+   "NL"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing and LiDAR Applications",
+   "Automated Road and Building Extraction"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4407192196",
+  "doi": "10.3390/rs17030550",
+  "title": "Remote Sensing and Geospatial Analysis in the Big Data Era: A Survey",
+  "year": 2025,
+  "date": "2025-02-06",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 136,
+  "authors": [
+   "Ηλίας Δρίτσας",
+   "Μαρία Τρίγκα"
+  ],
+  "n_authors": 2,
+  "first_author": "Ηλίας Δρίτσας",
+  "first_country": "GR",
+  "countries": [
+   "GR"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Internet of Things and AI",
+   "Smart Systems and Machine Learning"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4392380324",
+  "doi": "10.3390/rs16050907",
+  "title": "Object Detection in Remote Sensing Images Based on Adaptive Multi-Scale Feature Fusion Method",
+  "year": 2024,
+  "date": "2024-03-04",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 46,
+  "authors": [
+   "Chun Liu",
+   "Sixuan Zhang",
+   "Mengjie Hu",
+   "Qing Song"
+  ],
+  "n_authors": 4,
+  "first_author": "Chun Liu",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Advanced Image and Video Retrieval Techniques",
+   "Remote-Sensing Image Classification"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4313646859",
+  "doi": "10.1002/widm.1485",
+  "title": "Remote patient monitoring using artificial intelligence: Current state, applications, and challenges",
+  "year": 2023,
+  "date": "2023-01-05",
+  "type": "article",
+  "venue": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+  "cited": 507,
+  "authors": [
+   "Thanveer Shaik",
+   "Xiaohui Tao",
+   "Niall Higgins",
+   "Lin Li",
+   "Raj Gururajan",
+   "Xujuan Zhou",
+   "U. Rajendra Acharya"
+  ],
+  "n_authors": 7,
+  "first_author": "Thanveer Shaik",
+  "first_country": "AU",
+  "countries": [
+   "AU",
+   "CN",
+   "SG"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Non-Invasive Vital Sign Monitoring",
+   "IoT and Edge/Fog Computing"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4224979440",
+  "doi": "10.1111/gcb.16192",
+  "title": "Coral‐bleaching responses to climate change across biological scales",
+  "year": 2022,
+  "date": "2022-04-27",
+  "type": "article",
+  "venue": "Global Change Biology",
+  "cited": 211,
+  "authors": [
+   "Robert van Woesik",
+   "Tom Shlesinger",
+   "Andréa G. Grottoli",
+   "Robert J. Toonen",
+   "Rebecca Vega Thurber",
+   "Mark E. Warner",
+   "Ann Marie Hulver",
+   "Leïla Chapron",
+   "Rowan H. McLachlan",
+   "Rebecca Albright",
+   "Eric D. Crandall",
+   "Thomas M. DeCarlo"
+  ],
+  "n_authors": 28,
+  "first_author": "Robert van Woesik",
+  "first_country": "US",
+  "countries": [
+   "AU",
+   "DE",
+   "GB",
+   "PR",
+   "SG",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coral and Marine Ecosystems Studies",
+   "Marine and coastal plant biology"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4200384333",
+  "doi": "10.3390/rs13245128",
+  "title": "Multimodal Remote Sensing Image Registration Methods and Advancements: A Survey",
+  "year": 2021,
+  "date": "2021-12-17",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 102,
+  "authors": [
+   "Xinyue Zhang",
+   "Chengcai Leng",
+   "Yameng Hong",
+   "Zhao Pei",
+   "Irene Cheng",
+   "Anup Basu"
+  ],
+  "n_authors": 6,
+  "first_author": "Xinyue Zhang",
+  "first_country": "CN",
+  "countries": [
+   "CA",
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Advanced Image and Video Retrieval Techniques",
+   "Medical Image Segmentation Techniques"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3137311865",
+  "doi": "10.1016/j.coesh.2021.100251",
+  "title": "Remote sensing techniques to assess post-fire vegetation recovery",
+  "year": 2021,
+  "date": "2021-03-20",
+  "type": "review",
+  "venue": "Current Opinion in Environmental Science & Health",
+  "cited": 124,
+  "authors": [
+   "Fernando Pérez",
+   "Raquel Montorio Llovería",
+   "Daniel Borini Alves"
+  ],
+  "n_authors": 3,
+  "first_author": "Fernando Pérez",
+  "first_country": "ES",
+  "countries": [
+   "BR",
+   "ES"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Fire effects on ecosystems",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4289792395",
+  "doi": "10.1016/j.rse.2022.113198",
+  "title": "Multi-sensor spectral synergies for crop stress detection and monitoring in the optical domain: A review",
+  "year": 2022,
+  "date": "2022-08-04",
+  "type": "article",
+  "venue": "Remote Sensing of Environment",
+  "cited": 281,
+  "authors": [
+   "Katja Berger",
+   "Miriam Machwitz",
+   "Marlena Kycko",
+   "Shawn C. Kefauver",
+   "Shari Van Wittenberghe",
+   "Max Gerhards",
+   "Jochem Verrelst",
+   "Clement Atzberger",
+   "Christiaan van der Tol",
+   "Alexander Damm",
+   "Uwe Rascher",
+   "Ittai Herrmann"
+  ],
+  "n_authors": 38,
+  "first_author": "Katja Berger",
+  "first_country": "ES",
+  "countries": [
+   "AT",
+   "BG",
+   "CH",
+   "DE",
+   "DK",
+   "ES",
+   "GB",
+   "IL",
+   "IT",
+   "LU",
+   "NL",
+   "PL",
+   "RO",
+   "SK",
+   "TR"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing in Agriculture",
+   "Leaf Properties and Growth Measurement"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4406487831",
+  "doi": "10.1038/s41598-025-86446-5",
+  "title": "Remote sensing image Super-resolution reconstruction by fusing multi-scale receptive fields and hybrid transformer",
+  "year": 2025,
+  "date": "2025-01-16",
+  "type": "article",
+  "venue": "Scientific Reports",
+  "cited": 24,
+  "authors": [
+   "Denghui Liu",
+   "Lin Zhong",
+   "Haiyang Wu",
+   "Songyang Li",
+   "Yida Li"
+  ],
+  "n_authors": 5,
+  "first_author": "Denghui Liu",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Advanced Image Processing Techniques",
+   "Advanced Image Fusion Techniques"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4405192052",
+  "doi": "10.1029/2023wr034757",
+  "title": "Long‐Term Capturability of Atmospheric Water on a Global Scale",
+  "year": 2024,
+  "date": "2024-12-01",
+  "type": "article",
+  "venue": "Water Resources Research",
+  "cited": 73,
+  "authors": [
+   "Fangfang Li",
+   "H. F. Lü",
+   "Guang‐Qian Wang",
+   "Jun Qiu"
+  ],
+  "n_authors": 4,
+  "first_author": "Fangfang Li",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Climate variability and models",
+   "Geophysics and Gravity Measurements"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4403734684",
+  "doi": "10.1038/s41467-024-52241-5",
+  "title": "Large disagreements in estimates of urban land across scales and their implications",
+  "year": 2024,
+  "date": "2024-10-24",
+  "type": "article",
+  "venue": "Nature Communications",
+  "cited": 70,
+  "authors": [
+   "TC Chakraborty",
+   "Zander S. Venter",
+   "Matthias Demuzere",
+   "Wenfeng Zhan",
+   "Jing Gao",
+   "Lei Zhao",
+   "Yun Qian"
+  ],
+  "n_authors": 7,
+  "first_author": "TC Chakraborty",
+  "first_country": "US",
+  "countries": [
+   "CN",
+   "NO",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Urban Heat Island Mitigation"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4406948955",
+  "doi": "10.1109/tgrs.2025.3536015",
+  "title": "Efficient Grounding DINO: Efficient Cross-Modality Fusion and Efficient Label Assignment for Visual Grounding in Remote Sensing",
+  "year": 2025,
+  "date": "2025-01-01",
+  "type": "article",
+  "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+  "cited": 15,
+  "authors": [
+   "Zibo Hu",
+   "Kun Gao",
+   "Xiaodian Zhang",
+   "Zhijia Yang",
+   "M. Cai",
+   "Zhenyu Zhu",
+   "Wei Li"
+  ],
+  "n_authors": 7,
+  "first_author": "Zibo Hu",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Advanced Image and Video Retrieval Techniques",
+   "Image Retrieval and Classification Techniques"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4406628637",
+  "doi": "10.1038/s41598-025-86601-y",
+  "title": "A multi-scale rotated ship targets detection network for remote sensing images in complex scenarios",
+  "year": 2025,
+  "date": "2025-01-20",
+  "type": "article",
+  "venue": "Scientific Reports",
+  "cited": 16,
+  "authors": [
+   "Siyu Li",
+   "F. Yan",
+   "Yunqing Liu",
+   "Yi Shen",
+   "Lan Liu",
+   "Ke Wang"
+  ],
+  "n_authors": 6,
+  "first_author": "Siyu Li",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Advanced Neural Network Applications",
+   "Infrared Target Detection Methodologies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4391768380",
+  "doi": "10.1109/access.2024.3365777",
+  "title": "MSFA-YOLO: A Multi-Scale SAR Ship Detection Algorithm Based on Fused Attention",
+  "year": 2024,
+  "date": "2024-01-01",
+  "type": "article",
+  "venue": "IEEE Access",
+  "cited": 46,
+  "authors": [
+   "Zhao Liang-jun",
+   "Ning Feng",
+   "Yubin Xi",
+   "Gang Liang",
+   "Zhongliang He",
+   "Yuanyang Zhang"
+  ],
+  "n_authors": 6,
+  "first_author": "Zhao Liang-jun",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Underwater Vehicles and Communication Systems",
+   "Advanced Neural Network Applications"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4416373871",
+  "doi": "10.1016/j.patcog.2025.112740",
+  "title": "MSDP-Net: Multi-scale distribution perception network for rotating object detection in remote sensing",
+  "year": 2025,
+  "date": "2025-11-19",
+  "type": "article",
+  "venue": "Pattern Recognition",
+  "cited": 8,
+  "authors": [
+   "Ke Liu",
+   "Jian Zou",
+   "Wei Zhang",
+   "Qiang Li",
+   "Qi Wang"
+  ],
+  "n_authors": 5,
+  "first_author": "Ke Liu",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Advanced Neural Network Applications",
+   "Infrared Target Detection Methodologies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4401911403",
+  "doi": "10.3390/agronomy14091920",
+  "title": "Remote Sensing Data Assimilation in Crop Growth Modeling from an Agricultural Perspective: New Insights on Challenges and Prospects",
+  "year": 2024,
+  "date": "2024-08-27",
+  "type": "article",
+  "venue": "Agronomy",
+  "cited": 46,
+  "authors": [
+   "Jun Wang",
+   "Yanlong Wang",
+   "Zhengyuan Qi"
+  ],
+  "n_authors": 3,
+  "first_author": "Jun Wang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote Sensing in Agriculture",
+   "Remote Sensing and Land Use"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4392360686",
+  "doi": "10.3390/rs16050880",
+  "title": "An Efficient Hybrid CNN-Transformer Approach for Remote Sensing Super-Resolution",
+  "year": 2024,
+  "date": "2024-03-01",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 44,
+  "authors": [
+   "Wenjian Zhang",
+   "Zheng Tan",
+   "Qunbo Lv",
+   "Jiaao Li",
+   "Baoyu Zhu",
+   "Yangyang Liu"
+  ],
+  "n_authors": 6,
+  "first_author": "Wenjian Zhang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Advanced Image Processing Techniques",
+   "Advanced Image Fusion Techniques"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4393353232",
+  "doi": "10.3390/rs16071212",
+  "title": "The Retrieval of Ground NDVI (Normalized Difference Vegetation Index) Data Consistent with Remote-Sensing Observations",
+  "year": 2024,
+  "date": "2024-03-29",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 70,
+  "authors": [
+   "Qi Zhao",
+   "Yonghua Qu"
+  ],
+  "n_authors": 2,
+  "first_author": "Qi Zhao",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote Sensing and Land Use",
+   "Environmental Changes in China"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4414229936",
+  "doi": "10.1109/jstars.2025.3610156",
+  "title": "SAM2-CD: Remote Sensing Image Change Detection With SAM2",
+  "year": 2025,
+  "date": "2025-01-01",
+  "type": "article",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "cited": 10,
+  "authors": [
+   "Yuan Qin",
+   "Chuxuan Wang",
+   "Yuanyuan Fan",
+   "Chanling Pan"
+  ],
+  "n_authors": 4,
+  "first_author": "Yuan Qin",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Remote-Sensing Image Classification"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4405571084",
+  "doi": "10.1038/s41467-024-55240-8",
+  "title": "Challenges in data-driven geospatial modeling for environmental research and practice",
+  "year": 2024,
+  "date": "2024-12-19",
+  "type": "article",
+  "venue": "Nature Communications",
+  "cited": 177,
+  "authors": [
+   "Diana Koldasbayeva",
+   "Polina Tregubova",
+   "Mikhail Gasanov",
+   "Alexey Zaytsev",
+   "Anna Petrovskaia",
+   "Evgeny Burnaev"
+  ],
+  "n_authors": 6,
+  "first_author": "Diana Koldasbayeva",
+  "first_country": "RU",
+  "countries": [
+   "RU"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Data Management and Algorithms",
+   "Atmospheric and Environmental Gas Dynamics"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3159310484",
+  "doi": "10.1109/access.2021.3075159",
+  "title": "A Comprehensive Review of Crop Yield Prediction Using Machine Learning Approaches With Special Emphasis on Palm Oil Yield Prediction",
+  "year": 2021,
+  "date": "2021-01-01",
+  "type": "article",
+  "venue": "IEEE Access",
+  "cited": 368,
+  "authors": [
+   "Mamunur Rashid",
+   "Bifta Sama Bari",
+   "Yusri Yusup",
+   "Mohamad Anuar Kamaruddin",
+   "Nuzhat Khan"
+  ],
+  "n_authors": 5,
+  "first_author": "Mamunur Rashid",
+  "first_country": "MY",
+  "countries": [
+   "MY"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Oil Palm Production and Sustainability",
+   "Coconut Research and Applications"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3125185760",
+  "doi": "10.3390/land10020125",
+  "title": "Evaluation of Land Suitability Methods with Reference to Neglected and Underutilised Crop Species: A Scoping Review",
+  "year": 2021,
+  "date": "2021-01-28",
+  "type": "article",
+  "venue": "Land",
+  "cited": 119,
+  "authors": [
+   "Hillary Mugiyo",
+   "Vimbayi Grace Petrova Chimonyo",
+   "Mbulisi Sibanda",
+   "Richard Kunz",
+   "Cecilia Masemola",
+   "Albert Thembinkosi Modi",
+   "Tafadzwanashe Mabhaudhi"
+  ],
+  "n_authors": 7,
+  "first_author": "Hillary Mugiyo",
+  "first_country": "ZA",
+  "countries": [
+   "ZA"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Soil and Land Suitability Analysis",
+   "Banana Cultivation and Research"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4395069357",
+  "doi": "10.1186/s12302-024-00901-0",
+  "title": "Characterizing land use/land cover change dynamics by an enhanced random forest machine learning model: a Google Earth Engine implementation",
+  "year": 2024,
+  "date": "2024-04-24",
+  "type": "article",
+  "venue": "Environmental Sciences Europe",
+  "cited": 101,
+  "authors": [
+   "Chaitanya B. Pande",
+   "Aman Srivastava",
+   "Kanak N. Moharir",
+   "Neyara Radwan",
+   "Lariyah Mohd Sidek",
+   "Fahad Alshehri",
+   "Subodh Chandra Pal",
+   "Abebe Debele Tolche",
+   "Mohamed Zhran"
+  ],
+  "n_authors": 9,
+  "first_author": "Chaitanya B. Pande",
+  "first_country": "IQ",
+  "countries": [
+   "EG",
+   "ET",
+   "IN",
+   "IQ",
+   "MY",
+   "SA"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4220926817",
+  "doi": "10.3390/w14060949",
+  "title": "Groundwater Level Modeling with Machine Learning: A Systematic Review and Meta-Analysis",
+  "year": 2022,
+  "date": "2022-03-17",
+  "type": "review",
+  "venue": "Water",
+  "cited": 147,
+  "authors": [
+   "Arman Ahmadi",
+   "Mohammad Ali Olyaei",
+   "Zahra Heydari",
+   "Mohammad Emami",
+   "Amin Zeynolabedin",
+   "Arash Ghomlaghi",
+   "André Daccache",
+   "Graham E. Fogg",
+   "Mojtaba Sadegh"
+  ],
+  "n_authors": 9,
+  "first_author": "Arman Ahmadi",
+  "first_country": "US",
+  "countries": [
+   "IR",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Hydrological Forecasting Using AI",
+   "Groundwater and Watershed Analysis"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4210763428",
+  "doi": "10.1016/j.rse.2022.112914",
+  "title": "Using soil library hyperspectral reflectance and machine learning to predict soil organic carbon: Assessing potential of airborne and spaceborne optical soil sensing",
+  "year": 2022,
+  "date": "2022-02-02",
+  "type": "article",
+  "venue": "Remote Sensing of Environment",
+  "cited": 239,
+  "authors": [
+   "Sheng Wang",
+   "Kaiyu Guan",
+   "Chenhui Zhang",
+   "DoKyoung Lee",
+   "Andrew J. Margenot",
+   "Yufeng Ge",
+   "Jian Peng",
+   "Wang Zhou",
+   "Qu Zhou",
+   "Yizhi Huang"
+  ],
+  "n_authors": 10,
+  "first_author": "Sheng Wang",
+  "first_country": "US",
+  "countries": [
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Soil Geostatistics and Mapping",
+   "Geochemistry and Geologic Mapping"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4406362609",
+  "doi": "10.3390/atmos16010082",
+  "title": "Machine Learning Methods for Weather Forecasting: A Survey",
+  "year": 2025,
+  "date": "2025-01-14",
+  "type": "article",
+  "venue": "Atmosphere",
+  "cited": 111,
+  "authors": [
+   "Huijun Zhang",
+   "Yaxin Liu",
+   "Chongyu Zhang",
+   "Ningyun Li"
+  ],
+  "n_authors": 4,
+  "first_author": "Huijun Zhang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Traffic Prediction and Management Techniques"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4308206410",
+  "doi": "10.3390/rs14215546",
+  "title": "Forest Fire Occurrence Prediction in China Based on Machine Learning Methods",
+  "year": 2022,
+  "date": "2022-11-03",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 138,
+  "authors": [
+   "Yongqi Pang",
+   "Yudong Li",
+   "Zhongke Feng",
+   "Zemin Feng",
+   "Ziyu Zhao",
+   "Shilin Chen",
+   "Hanyue Zhang"
+  ],
+  "n_authors": 7,
+  "first_author": "Yongqi Pang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Fire effects on ecosystems",
+   "Fire Detection and Safety Systems"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3189663779",
+  "doi": "10.1109/access.2021.3102227",
+  "title": "Big Data and AI Revolution in Precision Agriculture: Survey and Challenges",
+  "year": 2021,
+  "date": "2021-01-01",
+  "type": "article",
+  "venue": "IEEE Access",
+  "cited": 433,
+  "authors": [
+   "Showkat Ahmad Bhat",
+   "Nen-Fu Huang"
+  ],
+  "n_authors": 2,
+  "first_author": "Showkat Ahmad Bhat",
+  "first_country": "TW",
+  "countries": [
+   "TW"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Smart Agriculture and AI",
+   "Food Supply Chain Traceability"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4281740950",
+  "doi": "10.1016/j.scs.2022.103978",
+  "title": "Examining spatial disparities in electric vehicle charging station placements using machine learning",
+  "year": 2022,
+  "date": "2022-06-01",
+  "type": "article",
+  "venue": "Sustainable Cities and Society",
+  "cited": 138,
+  "authors": [
+   "Avipsa Roy",
+   "Mankin Law"
+  ],
+  "n_authors": 2,
+  "first_author": "Avipsa Roy",
+  "first_country": "US",
+  "countries": [
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Electric Vehicles and Infrastructure",
+   "Urban Transport and Accessibility"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4406643700",
+  "doi": "10.1016/j.jag.2025.104368",
+  "title": "Towards the next generation of Geospatial Artificial Intelligence",
+  "year": 2025,
+  "date": "2025-01-20",
+  "type": "article",
+  "venue": "International Journal of Applied Earth Observation and Geoinformation",
+  "cited": 85,
+  "authors": [
+   "Gengchen Mai",
+   "Yiqun Xie",
+   "Xiaowei Jia",
+   "Ni Lao",
+   "Jinmeng Rao",
+   "Qing Zhu",
+   "Zeping Liu",
+   "Yao‐Yi Chiang",
+   "Junfeng Jiao"
+  ],
+  "n_authors": 9,
+  "first_author": "Gengchen Mai",
+  "first_country": "US",
+  "countries": [
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Geographic Information Systems Studies",
+   "Automated Road and Building Extraction"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4407353911",
+  "doi": "10.3390/agriculture15040377",
+  "title": "Machine Learning in Sustainable Agriculture: Systematic Review and Research Perspectives",
+  "year": 2025,
+  "date": "2025-02-11",
+  "type": "review",
+  "venue": "Agriculture",
+  "cited": 86,
+  "authors": [
+   "Juan Botero-Valencia",
+   "Vanessa García Pineda",
+   "Alejandro Valencia-Arías",
+   "Jackeline Valencia",
+   "Erick Reyes-Vera",
+   "M. Mejía-Herrera",
+   "Ruber Hernández-García"
+  ],
+  "n_authors": 7,
+  "first_author": "Juan Botero-Valencia",
+  "first_country": "CO",
+  "countries": [
+   "CL",
+   "CO",
+   "PE"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Smart Agriculture and AI"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4390751318",
+  "doi": "10.3390/su16020640",
+  "title": "Achieving Sustainable Smart Cities through Geospatial Data-Driven Approaches",
+  "year": 2024,
+  "date": "2024-01-11",
+  "type": "article",
+  "venue": "Sustainability",
+  "cited": 84,
+  "authors": [
+   "Daniel G. Costa",
+   "João Carlos N. Bittencourt",
+   "Franklin Oliveira",
+   "João Paulo Just Peixoto",
+   "Thiago C. Jesus"
+  ],
+  "n_authors": 5,
+  "first_author": "Daniel G. Costa",
+  "first_country": "PT",
+  "countries": [
+   "BR",
+   "PT"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Human Mobility and Location-Based Analysis",
+   "Smart Cities and Technologies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3135506515",
+  "doi": "10.1109/jstars.2021.3063849",
+  "title": "Global Land-Cover Mapping With Weak Supervision: Outcome of the 2020 IEEE GRSS Data Fusion Contest",
+  "year": 2021,
+  "date": "2021-01-01",
+  "type": "article",
+  "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+  "cited": 77,
+  "authors": [
+   "Caleb Robinson",
+   "Kolya Malkin",
+   "Nebojša Jojić",
+   "Huijun Chen",
+   "Rongjun Qin",
+   "Changlin Xiao",
+   "Michael Schmitt",
+   "Pedram Ghamisi",
+   "Ronny Hänsch",
+   "Naoto Yokoya"
+  ],
+  "n_authors": 10,
+  "first_author": "Caleb Robinson",
+  "first_country": "US",
+  "countries": [
+   "AT",
+   "DE",
+   "JP",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Advanced Image Fusion Techniques",
+   "Remote-Sensing Image Classification"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4224308360",
+  "doi": "10.3390/rs14091990",
+  "title": "A Systematic Literature Review on Crop Yield Prediction with Deep Learning and Remote Sensing",
+  "year": 2022,
+  "date": "2022-04-21",
+  "type": "review",
+  "venue": "Remote Sensing",
+  "cited": 336,
+  "authors": [
+   "Priyanga Muruganantham",
+   "Santoso Wibowo",
+   "Srimannarayana Grandhi",
+   "Nahidul Hoque Samrat",
+   "Nahina Islam"
+  ],
+  "n_authors": 5,
+  "first_author": "Priyanga Muruganantham",
+  "first_country": "AU",
+  "countries": [
+   "AU"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing in Agriculture",
+   "Smart Agriculture and AI"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4398245099",
+  "doi": "10.3389/frsen.2024.1374862",
+  "title": "Machine learning versus deep learning in land system science: a decision-making framework for effective land classification",
+  "year": 2024,
+  "date": "2024-05-23",
+  "type": "article",
+  "venue": "Frontiers in Remote Sensing",
+  "cited": 38,
+  "authors": [
+   "Jane Southworth",
+   "Audrey Culver Smith",
+   "Mohammad Reza Safaei",
+   "Mashoukur Rahaman",
+   "Ali Alruzuq",
+   "Bewuket B. Tefera",
+   "Carly Muir",
+   "Hannah V. Herrero"
+  ],
+  "n_authors": 8,
+  "first_author": "Jane Southworth",
+  "first_country": "US",
+  "countries": [
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing in Agriculture",
+   "Land Use and Ecosystem Services"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4385655182",
+  "doi": "10.3390/rs15163926",
+  "title": "A Systematic Review on Advancements in Remote Sensing for Assessing and Monitoring Land Use and Land Cover Changes Impacts on Surface Water Resources in Semi-Arid Tropical Environments",
+  "year": 2023,
+  "date": "2023-08-08",
+  "type": "review",
+  "venue": "Remote Sensing",
+  "cited": 220,
+  "authors": [
+   "Makgabo Johanna Mashala",
+   "Timothy Dube",
+   "Bester Tawona Mudereri",
+   "Kingsley Kwabena Ayisi",
+   "Marubini Reuben Ramudzuli"
+  ],
+  "n_authors": 5,
+  "first_author": "Makgabo Johanna Mashala",
+  "first_country": "ZA",
+  "countries": [
+   "KE",
+   "ZA"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Flood Risk Assessment and Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4394692163",
+  "doi": "10.3390/f15040681",
+  "title": "Remote Sensing Estimation of Forest Carbon Stock Based on Machine Learning Algorithms",
+  "year": 2024,
+  "date": "2024-04-10",
+  "type": "article",
+  "venue": "Forests",
+  "cited": 68,
+  "authors": [
+   "Fengyun Cheng",
+   "Guanglong Ou",
+   "Meng Wang",
+   "Chang Liu"
+  ],
+  "n_authors": 4,
+  "first_author": "Fengyun Cheng",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4392715240",
+  "doi": "10.3390/rs16060988",
+  "title": "Integrating Machine Learning Ensembles for Landslide Susceptibility Mapping in Northern Pakistan",
+  "year": 2024,
+  "date": "2024-03-12",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 55,
+  "authors": [
+   "Nafees Ali",
+   "Jian Chen",
+   "Xiaodong Fu",
+   "Rashid Ali",
+   "Muhammad Afaq Hussain",
+   "Hamza Daud",
+   "Javid Hussain",
+   "Ali Altalbe"
+  ],
+  "n_authors": 8,
+  "first_author": "Nafees Ali",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "SA"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Landslides and related hazards",
+   "Fire effects on ecosystems"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4405762281",
+  "doi": "10.3390/rs16244812",
+  "title": "Advancements and Perspective in the Quantitative Assessment of Soil Salinity Utilizing Remote Sensing and Machine Learning Algorithms: A Review",
+  "year": 2024,
+  "date": "2024-12-23",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 55,
+  "authors": [
+   "Fei Wang",
+   "Lili Han",
+   "Lulu Liu",
+   "Chengjie Bai",
+   "Jinxi Ao",
+   "Hsiao-Wei Hu",
+   "Rongrong Li",
+   "Xiaojing Li",
+   "Xian Guo",
+   "Yang Wei"
+  ],
+  "n_authors": 10,
+  "first_author": "Fei Wang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Soil Geostatistics and Mapping",
+   "Soil Moisture and Remote Sensing"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4392240897",
+  "doi": "10.3390/ijgi13030076",
+  "title": "Identifying Spatial Determinants of Rice Yields in Main Producing Areas of China Using Geospatial Machine Learning",
+  "year": 2024,
+  "date": "2024-02-28",
+  "type": "article",
+  "venue": "ISPRS International Journal of Geo-Information",
+  "cited": 11,
+  "authors": [
+   "Qingyan Wang",
+   "Longzhi Sun",
+   "Xuan Yang"
+  ],
+  "n_authors": 3,
+  "first_author": "Qingyan Wang",
+  "first_country": "AU",
+  "countries": [
+   "AU",
+   "CN",
+   "GB"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Remote Sensing in Agriculture",
+   "Land Use and Ecosystem Services"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4405883721",
+  "doi": "10.1111/jiec.13606",
+  "title": "Applications of geospatial technologies for construction and demolition waste management: A systematic literature review",
+  "year": 2024,
+  "date": "2024-12-29",
+  "type": "review",
+  "venue": "Journal of Industrial Ecology",
+  "cited": 27,
+  "authors": [
+   "Zhikang Bao",
+   "Shengping Li",
+   "Ying Chen",
+   "Huili Xie",
+   "Wuyan Long",
+   "Wei‐Qiang Chen"
+  ],
+  "n_authors": 6,
+  "first_author": "Zhikang Bao",
+  "first_country": "GB",
+  "countries": [
+   "AU",
+   "CN",
+   "GB",
+   "HK"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Recycled Aggregate Concrete Performance",
+   "Municipal Solid Waste Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4392851659",
+  "doi": "10.3390/rs16061033",
+  "title": "Deep Learning-Based Spatiotemporal Fusion Architecture of Landsat 8 and Sentinel-2 Data for 10 m Series Imagery",
+  "year": 2024,
+  "date": "2024-03-14",
+  "type": "article",
+  "venue": "Remote Sensing",
+  "cited": 15,
+  "authors": [
+   "Qing Cheng",
+   "Ruixiang Xie",
+   "Jingan Wu",
+   "Fan Ye"
+  ],
+  "n_authors": 4,
+  "first_author": "Qing Cheng",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Advanced Image Fusion Techniques",
+   "Remote Sensing in Agriculture"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4391968719",
+  "doi": "10.3389/fenvs.2024.1336088",
+  "title": "Artificial intelligence and IoT driven technologies for environmental pollution monitoring and management",
+  "year": 2024,
+  "date": "2024-02-20",
+  "type": "article",
+  "venue": "Frontiers in Environmental Science",
+  "cited": 323,
+  "authors": [
+   "Simona Mariana Popescu",
+   "Sheikh Mansoor",
+   "Owais Ali Wani",
+   "Shamal Shasang Kumar",
+   "Vikas Sharma",
+   "Arpita Sharma",
+   "Vivak M. Arya",
+   "M.B. Kirkham",
+   "Deyi Hou",
+   "Nanthi Bolan",
+   "Yong Suk Chung"
+  ],
+  "n_authors": 11,
+  "first_author": "Simona Mariana Popescu",
+  "first_country": "RO",
+  "countries": [
+   "AU",
+   "CN",
+   "IN",
+   "KR",
+   "RO",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Air Quality Monitoring and Forecasting",
+   "Water Quality Monitoring Technologies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4409667562",
+  "doi": "10.3390/app15094601",
+  "title": "Deep Learning-Driven Geospatial Modeling of Elderly Care Accessibility: Disparities Across the Urban-Rural Continuum in Central China",
+  "year": 2025,
+  "date": "2025-04-22",
+  "type": "article",
+  "venue": "Applied Sciences",
+  "cited": 11,
+  "authors": [
+   "Yi Yu",
+   "Tian Dong"
+  ],
+  "n_authors": 2,
+  "first_author": "Yi Yu",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Migration, Aging, and Tourism Studies",
+   "Urban Transport and Accessibility"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3139026324",
+  "doi": "10.1038/s41586-021-03308-6",
+  "title": "A 20-year retrospective review of global aquaculture",
+  "year": 2021,
+  "date": "2021-03-24",
+  "type": "article",
+  "venue": "Nature",
+  "cited": 2234,
+  "authors": [
+   "Rosamond L. Naylor",
+   "Ronald W. Hardy",
+   "Alejandro H. Buschmann",
+   "Simon R. Bush",
+   "Ling Cao",
+   "Dane H. Klinger",
+   "David C. Little",
+   "Jane Lubchenco",
+   "Sandra E. Shumway",
+   "Max Troell"
+  ],
+  "n_authors": 10,
+  "first_author": "Rosamond L. Naylor",
+  "first_country": "US",
+  "countries": [
+   "CL",
+   "CN",
+   "GB",
+   "NL",
+   "SE",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Aquaculture Nutrition and Growth",
+   "Marine Bivalve and Aquaculture Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4367183724",
+  "doi": "10.1111/jwas.12964",
+  "title": "Value chains and market access for aquaculture products",
+  "year": 2023,
+  "date": "2023-04-01",
+  "type": "article",
+  "venue": "Journal of the World Aquaculture Society",
+  "cited": 72,
+  "authors": [
+   "Lahsen Ababouch",
+   "Kim-Anh Nguyen",
+   "Marcio Castro de Souza",
+   "José Fernández-Polanco"
+  ],
+  "n_authors": 4,
+  "first_author": "Lahsen Ababouch",
+  "first_country": "IT",
+  "countries": [
+   "ES",
+   "IT",
+   "VN"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Aquaculture Nutrition and Growth"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3194940217",
+  "doi": "10.1016/j.aquaculture.2021.737331",
+  "title": "Coastal aquaculture in Zanzibar, Tanzania",
+  "year": 2021,
+  "date": "2021-08-13",
+  "type": "article",
+  "venue": "Aquaculture",
+  "cited": 31,
+  "authors": [
+   "Stefania Charisiadou",
+   "C. Halling",
+   "Narriman Jiddawi",
+   "Kristina von Schreeb",
+   "Martin Gullström",
+   "Terése Larsson",
+   "Lina Mtwana Nordlund"
+  ],
+  "n_authors": 7,
+  "first_author": "Stefania Charisiadou",
+  "first_country": "SE",
+  "countries": [
+   "GR",
+   "SE"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coral and Marine Ecosystems Studies",
+   "Coastal and Marine Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4308875265",
+  "doi": "10.3389/fmars.2022.969234",
+  "title": "Co-design of a marine protected area zoning and the lessons learned from it",
+  "year": 2022,
+  "date": "2022-11-10",
+  "type": "article",
+  "venue": "Frontiers in Marine Science",
+  "cited": 46,
+  "authors": [
+   "Bárbara Horta e Costa",
+   "Maria Helena Guimarães",
+   "Mafalda Rangel",
+   "Adriana Ressurreição",
+   "Pedro Monteiro",
+   "Frederico Oliveira",
+   "Luís Bentes",
+   "Nuno Sales Henriques",
+   "Inês Sousa",
+   "Sofia Alexandre",
+   "João Pontes",
+   "Carlos M. Afonso"
+  ],
+  "n_authors": 20,
+  "first_author": "Bárbara Horta e Costa",
+  "first_country": "PT",
+  "countries": [
+   "PT"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coral and Marine Ecosystems Studies",
+   "Coastal and Marine Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4200408925",
+  "doi": "10.3390/land10121336",
+  "title": "Where to Revitalize, and How? A Rural Typology Zoning for China",
+  "year": 2021,
+  "date": "2021-12-04",
+  "type": "article",
+  "venue": "Land",
+  "cited": 32,
+  "authors": [
+   "Zhou Yaojin",
+   "Yao Shen",
+   "Xuexi Yang",
+   "Zhifang Wang",
+   "Liyan Xu"
+  ],
+  "n_authors": 5,
+  "first_author": "Zhou Yaojin",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Rural development and sustainability",
+   "China's Socioeconomic Reforms and Governance"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3214627820",
+  "doi": "10.1111/raq.12631",
+  "title": "Diverse state‐level marine aquaculture policy in the United States: Opportunities and barriers for industry development",
+  "year": 2021,
+  "date": "2021-11-13",
+  "type": "article",
+  "venue": "Reviews in Aquaculture",
+  "cited": 44,
+  "authors": [
+   "Sarah E. Lester",
+   "Rebecca R. Gentry",
+   "Hayley R. Lemoine",
+   "Halley E. Froehlich",
+   "Luke D. Gardner",
+   "Mae Rennick",
+   "Elizabeth O. Ruff",
+   "Kimberly D. Thompson"
+  ],
+  "n_authors": 8,
+  "first_author": "Sarah E. Lester",
+  "first_country": "US",
+  "countries": [
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coastal and Marine Management",
+   "Marine Bivalve and Aquaculture Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4360615486",
+  "doi": "10.1111/raq.12811",
+  "title": "A global review of protected species interactions with marine aquaculture",
+  "year": 2023,
+  "date": "2023-03-23",
+  "type": "article",
+  "venue": "Reviews in Aquaculture",
+  "cited": 41,
+  "authors": [
+   "Gretchen E. Bath",
+   "Carol Price",
+   "Kenneth L. Riley",
+   "James A. Morris"
+  ],
+  "n_authors": 4,
+  "first_author": "Gretchen E. Bath",
+  "first_country": "US",
+  "countries": [
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine animal studies overview",
+   "Ichthyology and Marine Biology"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4376868758",
+  "doi": "10.1016/j.watres.2023.120092",
+  "title": "Applying water environment capacity to assess the non-point source pollution risks in watersheds",
+  "year": 2023,
+  "date": "2023-05-17",
+  "type": "article",
+  "venue": "Water Research",
+  "cited": 74,
+  "authors": [
+   "Yuanyuan Li",
+   "Hua Wang",
+   "Yanqing Deng",
+   "Dongfang Liang",
+   "Yiping Li",
+   "Qihui Gu"
+  ],
+  "n_authors": 6,
+  "first_author": "Yuanyuan Li",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "GB"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Hydrology and Watershed Management Studies",
+   "Soil and Water Nutrient Dynamics"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3129441941",
+  "doi": "10.1093/icesjms/fsab012",
+  "title": "Scenario analysis can guide aquaculture planning to meet sustainable future production goals",
+  "year": 2021,
+  "date": "2021-01-26",
+  "type": "article",
+  "venue": "ICES Journal of Marine Science",
+  "cited": 19,
+  "authors": [
+   "Jessica Couture",
+   "Halley E. Froehlich",
+   "Bela H. Buck",
+   "Keith Jeffery",
+   "Gesche Krause",
+   "James A. Morris",
+   "Montse Pérez",
+   "Grant D. Stentiford",
+   "Harri Vehviläinen",
+   "Benjamin S. Halpern"
+  ],
+  "n_authors": 10,
+  "first_author": "Jessica Couture",
+  "first_country": "US",
+  "countries": [
+   "DE",
+   "ES",
+   "FI",
+   "GB",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Agriculture Sustainability and Environmental Impact"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4283210523",
+  "doi": "10.1016/j.ocecoaman.2022.106261",
+  "title": "Geospatial analysis for fish farming across Tyrrhenian coast (Tuscany, central Italy)",
+  "year": 2022,
+  "date": "2022-06-20",
+  "type": "article",
+  "venue": "Ocean & Coastal Management",
+  "cited": 7,
+  "authors": [
+   "M. Manca Zeichen",
+   "Giancarlo Ciotoli",
+   "M. Archina"
+  ],
+  "n_authors": 3,
+  "first_author": "M. Manca Zeichen",
+  "first_country": "IT",
+  "countries": [
+   "IT"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coral and Marine Ecosystems Studies",
+   "Coastal and Marine Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W3197828931",
+  "doi": "10.1111/gcb.15827",
+  "title": "Bright spots as climate‐smart marine spatial planning tools for conservation and blue growth",
+  "year": 2021,
+  "date": "2021-09-06",
+  "type": "article",
+  "venue": "Global Change Biology",
+  "cited": 90,
+  "authors": [
+   "Ana M. Queirós",
+   "Elizabeth Talbot",
+   "Nicola Beaumont",
+   "Paul J. Somerfield",
+   "Susan Kay",
+   "Christine Pascoe",
+   "Simon Dedman",
+   "José A. Fernandes",
+   "Alexander Jueterbock",
+   "Peter I. Miller",
+   "Sévrine Sailley",
+   "Gianluca Sarà"
+  ],
+  "n_authors": 20,
+  "first_author": "Ana M. Queirós",
+  "first_country": "GB",
+  "countries": [
+   "ES",
+   "GB",
+   "IE",
+   "IL",
+   "IT",
+   "NO",
+   "US"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Coral and Marine Ecosystems Studies",
+   "Marine and coastal plant biology"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4308714770",
+  "doi": "10.1016/j.marpol.2022.105351",
+  "title": "Toward an environmentally responsible offshore aquaculture industry in the United States: Ecological risks, remedies, and knowledge gaps",
+  "year": 2022,
+  "date": "2022-11-10",
+  "type": "article",
+  "venue": "Marine Policy",
+  "cited": 49,
+  "authors": [
+   "Rod Fujita",
+   "Poppy Brittingham",
+   "Ling Cao",
+   "Halley E. Froehlich",
+   "Matt Thompson",
+   "Taylor Voorhees"
+  ],
+  "n_authors": 6,
+  "first_author": "Rod Fujita",
+  "first_country": "US",
+  "countries": [
+   "CN",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Marine and fisheries research"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4366418455",
+  "doi": "10.3390/app13085062",
+  "title": "A Multi-Criteria Decision Analysis (MCDA) Approach for Landslide Susceptibility Mapping of a Part of Darjeeling District in North-East Himalaya, India",
+  "year": 2023,
+  "date": "2023-04-18",
+  "type": "article",
+  "venue": "Applied Sciences",
+  "cited": 65,
+  "authors": [
+   "Abhik Saha",
+   "Vasanta Govind Kumar Villuri",
+   "Ashutosh Bhardwaj",
+   "Satish Kumar"
+  ],
+  "n_authors": 4,
+  "first_author": "Abhik Saha",
+  "first_country": "IN",
+  "countries": [
+   "IN"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Landslides and related hazards",
+   "Flood Risk Assessment and Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4385275584",
+  "doi": "10.1007/s11069-023-06089-5",
+  "title": "Flash flood-risk areas zoning using integration of decision-making trial and evaluation laboratory, GIS-based analytic network process and satellite-derived information",
+  "year": 2023,
+  "date": "2023-07-26",
+  "type": "article",
+  "venue": "Natural Hazards",
+  "cited": 50,
+  "authors": [
+   "Mehrnoosh Taherizadeh",
+   "Arman Niknam",
+   "Thong Nguyen‐Huy",
+   "Gábor Mezősi",
+   "Reza Sarli"
+  ],
+  "n_authors": 5,
+  "first_author": "Mehrnoosh Taherizadeh",
+  "first_country": "HU",
+  "countries": [
+   "AU",
+   "HU",
+   "PL"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Flood Risk Assessment and Management",
+   "Hydrology and Watershed Management Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4392783506",
+  "doi": "10.1111/raq.12893",
+  "title": "Microbial education for marine invertebrate disease prevention in aquaculture",
+  "year": 2024,
+  "date": "2024-02-15",
+  "type": "article",
+  "venue": "Reviews in Aquaculture",
+  "cited": 27,
+  "authors": [
+   "Luc Dantan",
+   "Ève Toulza",
+   "Bruno Petton",
+   "Caroline Montagnani",
+   "Lionel Dégremont",
+   "Benjamín Morga",
+   "Yannick Fleury",
+   "Guillaume Mitta",
+   "Yannick Gueguen",
+   "Jérémie Vidal‐Dupiol",
+   "Céline Cosseau"
+  ],
+  "n_authors": 11,
+  "first_author": "Luc Dantan",
+  "first_country": "FR",
+  "countries": [
+   "FR",
+   "PF"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Parasite Biology and Host Interactions",
+   "Aquaculture disease management and microbiota"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4382238330",
+  "doi": "10.1111/jwas.12946",
+  "title": "Perspectives on aquaculture's contribution to the Sustainable Development Goals for improved human and planetary health",
+  "year": 2023,
+  "date": "2023-04-01",
+  "type": "article",
+  "venue": "Journal of the World Aquaculture Society",
+  "cited": 196,
+  "authors": [
+   "Max Troell",
+   "Barry A. Costa‐Pierce",
+   "Selina M. Stead",
+   "Richard S. Cottrell",
+   "Cécile Brugere",
+   "Anna K. Farmery",
+   "David C. Little",
+   "Åsa Strand",
+   "R.S.V. Pullin",
+   "Doris Soto",
+   "M.C.M. Beveridge",
+   "Khalid Salie"
+  ],
+  "n_authors": 20,
+  "first_author": "Max Troell",
+  "first_country": "SE",
+  "countries": [
+   "AU",
+   "BR",
+   "CL",
+   "GB",
+   "IM",
+   "IT",
+   "MY",
+   "NO",
+   "SE",
+   "US",
+   "ZA"
+  ],
+  "cn": false,
+  "cn_first": false,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Aquaculture Nutrition and Growth"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4402667875",
+  "doi": "10.1016/j.ocecoaman.2024.107381",
+  "title": "Integrating issue-oriented solution of marine spatial planning (MSP): A case study of Koh Sichang in Thailand",
+  "year": 2024,
+  "date": "2024-09-16",
+  "type": "article",
+  "venue": "Ocean & Coastal Management",
+  "cited": 7,
+  "authors": [
+   "Zhen Guo",
+   "Yue Qiao",
+   "Wanchanok Umprasoet",
+   "Yonggen Sun",
+   "Sakanan Plathong",
+   "Chanokphon Jantharakhantee",
+   "Qingli Zheng",
+   "Zhiwei Zhang"
+  ],
+  "n_authors": 8,
+  "first_author": "Zhen Guo",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "RW",
+   "TH"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Coastal and Marine Management",
+   "Coral and Marine Ecosystems Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4402966202",
+  "doi": "10.1186/s12302-024-01000-w",
+  "title": "Analysis of spatial and temporal evolution and driving factors of carbon emission in Shandong Province: based on the perspective of land use",
+  "year": 2024,
+  "date": "2024-09-30",
+  "type": "article",
+  "venue": "Environmental Sciences Europe",
+  "cited": 23,
+  "authors": [
+   "Jiahui Wu",
+   "Kongqing Li"
+  ],
+  "n_authors": 2,
+  "first_author": "Jiahui Wu",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Environmental Impact and Sustainability"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4399042141",
+  "doi": "10.3390/land13060747",
+  "title": "Analysis of the Spatiotemporal Evolution of Carbon Budget and Carbon Compensation Zoning in the Core Area of the Yangtze River Delta Urban Agglomeration",
+  "year": 2024,
+  "date": "2024-05-27",
+  "type": "article",
+  "venue": "Land",
+  "cited": 7,
+  "authors": [
+   "Yuxin Tang",
+   "Ran Wang",
+   "Hui Ci",
+   "Jinyuan Wei",
+   "Hui Yang",
+   "Jiakun Teng",
+   "Zhaojin Yan"
+  ],
+  "n_authors": 7,
+  "first_author": "Yuxin Tang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Impact of Light on Environment and Health",
+   "Urban Transport and Accessibility"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4404824403",
+  "doi": "10.3390/land13122035",
+  "title": "An Exploratory Study on Spatial Governance Toward Urban–Rural Integration: Theoretical Analysis with Case Demonstration",
+  "year": 2024,
+  "date": "2024-11-28",
+  "type": "article",
+  "venue": "Land",
+  "cited": 14,
+  "authors": [
+   "Lin Tan",
+   "Qinyu Cui",
+   "Lan Chen",
+   "Lan Wang"
+  ],
+  "n_authors": 4,
+  "first_author": "Lin Tan",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Urbanization and City Planning",
+   "Rural development and sustainability"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4399247990",
+  "doi": "10.1038/s41598-024-62931-1",
+  "title": "Analysis of spatial patterns and influencing factors of farmland transfer in China based on ESDA-GeoDetector",
+  "year": 2024,
+  "date": "2024-05-30",
+  "type": "article",
+  "venue": "Scientific Reports",
+  "cited": 13,
+  "authors": [
+   "Xiuli He",
+   "Wenxin Liu"
+  ],
+  "n_authors": 2,
+  "first_author": "Xiuli He",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Land Rights and Reforms",
+   "Agriculture, Land Use, Rural Development"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4405673037",
+  "doi": "10.1016/j.ecolind.2024.113019",
+  "title": "Impact of landscape patterns on river water quality: Spatial-scale effects across an agricultural-urban interface",
+  "year": 2024,
+  "date": "2024-12-21",
+  "type": "article",
+  "venue": "Ecological Indicators",
+  "cited": 28,
+  "authors": [
+   "Kun Mei",
+   "Haonan Shi",
+   "Yingying Wu",
+   "Randy A. Dahlgren",
+   "Xiaoliang Ji",
+   "Minmin Yang",
+   "Yueru Guan"
+  ],
+  "n_authors": 7,
+  "first_author": "Kun Mei",
+  "first_country": "CN",
+  "countries": [
+   "CN",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Water Quality and Pollution Assessment",
+   "Fish Ecology and Management Studies"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4407790334",
+  "doi": "10.3390/land14030439",
+  "title": "Identification of Ecological Security Pattern and Ecological Restoration Zoning Strategy in the Shandong Section of the Beijing-Hangzhou Grand Canal",
+  "year": 2025,
+  "date": "2025-02-20",
+  "type": "article",
+  "venue": "Land",
+  "cited": 7,
+  "authors": [
+   "Chong Hai Xu",
+   "Yande Jing",
+   "Yiwen Zhang",
+   "Yingchun Liu",
+   "Wenyang Yin",
+   "Shiping Zhao"
+  ],
+  "n_authors": 6,
+  "first_author": "Chong Hai Xu",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Environmental Quality and Pollution",
+   "Wildlife-Road Interactions and Conservation"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4405504977",
+  "doi": "10.3390/w16243627",
+  "title": "Spatial Distribution and Mechanisms of Groundwater Hardness in the Plain Area of Tangshan City, China",
+  "year": 2024,
+  "date": "2024-12-17",
+  "type": "article",
+  "venue": "Water",
+  "cited": 17,
+  "authors": [
+   "Shiyin Wen",
+   "Meng Wen",
+   "Shuang Liang",
+   "Guoxing Pang",
+   "Jianhui Fan",
+   "Mingqi Dong",
+   "Yang Wang",
+   "Jianan Zhang",
+   "Yingying Ye"
+  ],
+  "n_authors": 9,
+  "first_author": "Shiyin Wen",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Groundwater and Isotope Geochemistry",
+   "Groundwater and Watershed Analysis"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4409799413",
+  "doi": "10.3390/land14050940",
+  "title": "Spatiotemporal Dynamics and Simulation of Landscape Ecological Risk and Ecological Zoning Under the Construction of Free Trade Pilot Zones: A Case Study of Hainan Island, China",
+  "year": 2025,
+  "date": "2025-04-25",
+  "type": "article",
+  "venue": "Land",
+  "cited": 6,
+  "authors": [
+   "Yixi Ma",
+   "Mingjiang Mao",
+   "Zhuohong Xie",
+   "Shijie Mao",
+   "Yongshi Wang",
+   "Yuxin Chen",
+   "Jinming Xu",
+   "Tiedong Liu",
+   "Wenfeng Gong",
+   "Lingbing Wu"
+  ],
+  "n_authors": 10,
+  "first_author": "Yixi Ma",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Economic Zones and Regional Development",
+   "Regional Economic and Spatial Analysis"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W7126279320",
+  "doi": "10.1080/17538947.2026.2622141",
+  "title": "Quantitative assessment of coastal zone scene changes and drivers in the coastal zone of the Guangdong–Hong Kong–Macao Greater Bay Area",
+  "year": 2026,
+  "date": "2026-01-02",
+  "type": "article",
+  "venue": "International Journal of Digital Earth",
+  "cited": 32,
+  "authors": [
+   "Fengqin Yan",
+   "Tiezhu Shi",
+   "Yuzhi Tang",
+   "Fenzhen Su"
+  ],
+  "n_authors": 4,
+  "first_author": "Fengqin Yan",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Land Use and Ecosystem Services",
+   "Coastal and Marine Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4410216787",
+  "doi": "10.5194/essd-17-1873-2025",
+  "title": "Global Methane Budget 2000–2020",
+  "year": 2025,
+  "date": "2025-05-09",
+  "type": "article",
+  "venue": "Earth system science data",
+  "cited": 340,
+  "authors": [
+   "Marielle Saunois",
+   "Adrien Martinez",
+   "Benjamin Poulter",
+   "Zhen Zhang",
+   "Peter A. Raymond",
+   "Pierre Regnier",
+   "Josep G. Canadell",
+   "Robert B. Jackson",
+   "Prabir K. Patra",
+   "Philippe Bousquet",
+   "Philippe Ciais",
+   "Edward J. Dlugokencky"
+  ],
+  "n_authors": 69,
+  "first_author": "Marielle Saunois",
+  "first_country": "FR",
+  "countries": [
+   "AT",
+   "AU",
+   "BE",
+   "CA",
+   "CH",
+   "CN",
+   "DE",
+   "FI",
+   "FR",
+   "GB",
+   "IT",
+   "JP",
+   "MA",
+   "MX",
+   "NL",
+   "RO",
+   "SE",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Atmospheric and Environmental Gas Dynamics",
+   "Atmospheric chemistry and aerosols"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W7141675342",
+  "doi": "10.1038/s41598-026-45733-5",
+  "title": "Multi-objective scenarios analysis for optimizing mariculture spatial allocation: a case study of Lianyungang, China",
+  "year": 2026,
+  "date": "2026-03-27",
+  "type": "article",
+  "venue": "Scientific Reports",
+  "cited": 1,
+  "authors": [
+   "Qiulu Wang",
+   "Changjuan Li",
+   "Yaning Li"
+  ],
+  "n_authors": 3,
+  "first_author": "Qiulu Wang",
+  "first_country": "CN",
+  "countries": [
+   "CN"
+  ],
+  "cn": true,
+  "cn_first": true,
+  "topics": [
+   "Marine Bivalve and Aquaculture Studies",
+   "Coastal and Marine Management"
+  ]
+ },
+ {
+  "id": "https://openalex.org/W4410588337",
+  "doi": "10.1038/s44183-025-00129-2",
+  "title": "The opportunity for climate action through climate-smart Marine Spatial Planning",
+  "year": 2025,
+  "date": "2025-05-21",
+  "type": "article",
+  "venue": "npj Ocean Sustainability",
+  "cited": 11,
+  "authors": [
+   "Ana M. Queirós",
+   "Talya ten Brink",
+   "María Bas",
+   "Christopher J. Sweeting",
+   "Sean McGuinness",
+   "Hugh Edwards",
+   "Elizabeth Talbot",
+   "Patrick Berg Sørdahl",
+   "Christian Lønborg",
+   "Shayna R Deecker-Simon",
+   "Michael Elliott",
+   "Rafael Sardá"
+  ],
+  "n_authors": 25,
+  "first_author": "Ana M. Queirós",
+  "first_country": "GB",
+  "countries": [
+   "BE",
+   "CA",
+   "CN",
+   "DE",
+   "DK",
+   "ES",
+   "FI",
+   "GB",
+   "IE",
+   "IT",
+   "NO",
+   "PT",
+   "SE",
+   "US"
+  ],
+  "cn": true,
+  "cn_first": false,
+  "topics": [
+   "Coastal and Marine Management",
+   "International Maritime Law Issues"
+  ]
+ }
+]

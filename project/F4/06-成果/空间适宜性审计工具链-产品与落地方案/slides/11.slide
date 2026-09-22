@@ -1,0 +1,84 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'column' }}>
+
+    <Box style={{ width: 1280, height: 56, background: '#1E4FA8', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingLeft: 40, paddingRight: 40 }}>
+        <Text style={{ fontSize: 14, color: '#BFD5EF', letterSpacing: 2 }}>04 解决什么问题</Text>
+        <Text style={{ fontSize: 14, color: '#BFD5EF' }}>空间适宜性审计工具链</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 12, flexDirection: 'column', gap: 4 }}>
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>三个问题，和我们的答案</Text>
+    </Box>
+
+    <Box style={{ marginLeft: 40, marginRight: 40, marginTop: 8, height: 552, flexDirection: 'column', gap: 12 }}>
+
+        <Box style={{ height: 176, background: '#FFFFFF', border: '1px solid #D6DCE5', borderLeft: '6px solid #1E4FA8', padding: 16, flexDirection: 'row', alignItems: 'center', gap: 18 }}>
+            <Box style={{ width: 216, flexDirection: 'column', gap: 4 }}>
+                <Text style={{ fontSize: 14, color: '#8B97A8' }}>问题一</Text>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230', lineHeight: 1.3 }}>融合换来多少精度</Text>
+            </Box>
+            <Box style={{ width: 3, height: 110, background: '#D6DCE5' }} />
+            <Box style={{ flex: 1, flexDirection: 'column', gap: 6 }}>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.4 }}>
+                    答案：<span style={{ fontWeight: 'bold', color: '#1A2230' }}>取决于用哪个量衡量</span>，而不是"提高了吗"。
+                </Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.4 }}>
+                    单一精度数字会把结论的符号搞反。
+                </Text>
+            </Box>
+            <Box style={{ width: 320, background: '#F0F5FC', padding: 12, flexDirection: 'column', gap: 4 }}>
+                <Text style={{ fontSize: 22, color: '#1E4FA8', fontWeight: 'bold' }}>未标定误差 +0.0488</Text>
+                <Text style={{ fontSize: 22, color: '#1E4FA8', fontWeight: 'bold' }}>判别力 → 0.9961</Text>
+                <Text style={{ fontSize: 22, color: '#1E4FA8', fontWeight: 'bold' }}>标定后 −0.3271</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ height: 176, background: '#FFFFFF', border: '1px solid #D6DCE5', borderLeft: '6px solid #1E4FA8', padding: 16, flexDirection: 'row', alignItems: 'center', gap: 18 }}>
+            <Box style={{ width: 216, flexDirection: 'column', gap: 4 }}>
+                <Text style={{ fontSize: 14, color: '#8B97A8' }}>问题二</Text>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230', lineHeight: 1.3 }}>网格粗于池体时</Text>
+            </Box>
+            <Box style={{ width: 3, height: 110, background: '#D6DCE5' }} />
+            <Box style={{ flex: 1, flexDirection: 'column', gap: 6 }}>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.4 }}>
+                    答案：<span style={{ fontWeight: 'bold', color: '#1A2230' }}>决策的相对损失严格大于信息的相对损失</span>。
+                </Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.4 }}>
+                    "保留了多少方差"不能代理"决策还准不准"。
+                </Text>
+            </Box>
+            <Box style={{ width: 320, background: '#F0F5FC', padding: 12, flexDirection: 'column', gap: 4 }}>
+                <Text style={{ fontSize: 22, color: '#1E4FA8', fontWeight: 'bold' }}>比值 2.291（50 m）</Text>
+                <Text style={{ fontSize: 22, color: '#1E4FA8', fontWeight: 'bold' }}>12/12 个种子成立</Text>
+                <Text style={{ fontSize: 22, color: '#1E4FA8', fontWeight: 'bold' }}>适用 ≤4 倍决策单元</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ height: 176, background: '#FFFFFF', border: '1px solid #D6DCE5', borderLeft: '6px solid #1E4FA8', padding: 16, flexDirection: 'row', alignItems: 'center', gap: 18 }}>
+            <Box style={{ width: 216, flexDirection: 'column', gap: 4 }}>
+                <Text style={{ fontSize: 14, color: '#8B97A8' }}>问题三</Text>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230', lineHeight: 1.3 }}>少写一项的后果</Text>
+            </Box>
+            <Box style={{ width: 3, height: 110, background: '#D6DCE5' }} />
+            <Box style={{ flex: 1, flexDirection: 'column', gap: 6 }}>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.4 }}>
+                    答案：<span style={{ fontWeight: 'bold', color: '#1A2230' }}>后果与缺失计数不成比例</span>，审计要看杠杆率。
+                </Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.4 }}>
+                    缺得多的那一项，后果未必更大。
+                </Text>
+            </Box>
+            <Box style={{ width: 320, background: '#F0F5FC', padding: 12, flexDirection: 'column', gap: 4 }}>
+                <Text style={{ fontSize: 22, color: '#1E4FA8', fontWeight: 'bold' }}>重分类 489/1124</Text>
+                <Text style={{ fontSize: 22, color: '#1E4FA8', fontWeight: 'bold' }}>权重 131.5/1124</Text>
+                <Text style={{ fontSize: 22, color: '#1E4FA8', fontWeight: 'bold' }}>计数比 1.85 → 后果 3.7</Text>
+            </Box>
+        </Box>
+
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, height: 40, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>样本 11,236 池体像元（2,809 口池）；方法：尺度失配曲线 · 融合账本 · 缺失到后果映射；全部【合成】</Text>
+        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>11 / 14</Text>
+    </Box>
+
+</Slide>

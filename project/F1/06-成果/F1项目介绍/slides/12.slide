@@ -1,0 +1,72 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'column' }}>
+
+    <Box style={{ width: 1280, height: 56, background: '#1E4FA8', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingLeft: 40, paddingRight: 40 }}>
+        <Text style={{ fontSize: 14, color: '#BFD5EF', letterSpacing: 2 }}>小结</Text>
+        <Text style={{ fontSize: 14, color: '#BFD5EF' }}>F1 · 项目介绍</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 22, flexDirection: 'column', gap: 4 }}>
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>如果只记三句话</Text>
+        <Text style={{ fontSize: 16, color: '#4A5568' }}>这三句可以被单独追问，也可以被单独推翻 —— 这正是我们想留给你们的东西</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 18, flexDirection: 'column', gap: 14, height: 500 }}>
+
+        <Box style={{ height: 118, background: '#F7F9FC', border: '1px solid #D6DCE5', borderLeft: '4px solid #1E4FA8', padding: 16, flexDirection: 'row', alignItems: 'center', gap: 18 }}>
+            <Text style={{ fontSize: 44, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1, width: 60 }}>01</Text>
+            <Box style={{ flexDirection: 'column', gap: 6, flex: 1 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>
+                    我们做的是「识别有效性」，不是「养殖预测」
+                </Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.4 }}>
+                    不产出预测、不推荐投喂量。产出是<b>效应值 + 它的有效边界</b>，边界与数字同等重要。
+                </Text>
+            </Box>
+        </Box>
+
+        <Box style={{ height: 118, background: '#F7F9FC', border: '1px solid #D6DCE5', borderLeft: '4px solid #1E4FA8', padding: 16, flexDirection: 'row', alignItems: 'center', gap: 18 }}>
+            <Text style={{ fontSize: 44, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1, width: 60 }}>02</Text>
+            <Box style={{ flexDirection: 'column', gap: 6, flex: 1 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>
+                    方法已在真值已知的合成数据上验证，且不作外推
+                </Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.4 }}>
+                    七步流程、五个实验、判定项 21/21 —— 但所有效应量均来自<b>【合成】数据</b>，不得外推真实塘口。
+                </Text>
+            </Box>
+        </Box>
+
+        <Box style={{ height: 118, background: '#FBE9E8', border: '1px solid #D9534F', borderLeft: '4px solid #D9534F', padding: 16, flexDirection: 'row', alignItems: 'center', gap: 18 }}>
+            <Text style={{ fontSize: 44, fontWeight: 'bold', color: '#D9534F', lineHeight: 1, width: 60 }}>03</Text>
+            <Box style={{ flexDirection: 'column', gap: 6, flex: 1 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>
+                    最重要的一条结论，否定了我们自己的一个设计
+                </Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.4 }}>
+                    连续干预的机制性正性违背<b style={{ color: '#D9534F' }}>原理上不可诊断</b>——
+                    我们撤掉原判据，改成诚实四分类，并保留全部 18 条修正记录。
+                </Text>
+            </Box>
+        </Box>
+
+        <Box style={{ height: 78, background: '#0E3F8C', paddingLeft: 24, paddingRight: 24, flexDirection: 'row', alignItems: 'center', gap: 16 }}>
+            <Text style={{ fontSize: 30, fontWeight: 'bold', color: '#FFC107', lineHeight: 1 }}>?</Text>
+            <Text style={{ fontSize: 22, color: '#FFFFFF', lineHeight: 1.45, flex: 1 }}>
+                欢迎追问这三个判断里任何一处 —— <b>包括直接质疑它们</b>。
+            </Text>
+        </Box>
+
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, height: 68, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', borderTop: '1px solid #D6DCE5' }}>
+        <Box style={{ flexDirection: 'column', gap: 4 }}>
+            <Text style={{ fontSize: 18, fontWeight: 'bold', color: '#1A2230' }}>谢谢</Text>
+            <Text style={{ fontSize: 15, color: '#8B97A8' }}>广东海洋大学 · 数学与计算机学院 · 软件工程　｜　项目代号 F1　｜　2026-09</Text>
+        </Box>
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 10 }}>
+            <Box style={{ width: 4, height: 30, background: '#1E4FA8' }} />
+            <Text style={{ fontSize: 15, color: '#1E4FA8' }}>12 / 12</Text>
+        </Box>
+    </Box>
+
+</Slide>

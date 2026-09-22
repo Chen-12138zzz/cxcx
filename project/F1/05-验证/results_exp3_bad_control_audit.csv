@@ -1,0 +1,5 @@
+﻿config,n_vars,pass,violations
+base_correct,4,True,（无）
+plus_mediator,5,False,water_degrad
+plus_collider,5,False,fcr
+plus_both,6,False,water_degrad; fcr

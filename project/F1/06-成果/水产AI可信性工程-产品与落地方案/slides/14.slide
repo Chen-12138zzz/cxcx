@@ -1,0 +1,108 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'column', position: 'relative' }}>
+
+    <Box style={{ width: 1280, height: 56, background: '#1E4FA8', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingLeft: 40, paddingRight: 40 }}>
+        <Text style={{ fontSize: 14, color: '#BFD5EF', letterSpacing: 2 }}>05 为什么选这个命题</Text>
+        <Text style={{ fontSize: 14, color: '#BFD5EF' }}>水产 AI 可信性工程</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 18, flexDirection: 'column', gap: 4 }}>
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>立项逻辑，与坦诚的缺口</Text>
+        <Text style={{ fontSize: 16, color: '#4A5568' }}>空白型依据占比 0% —— 这不是修辞，是上一轮失败换来的纪律</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 14, height: 522, flexDirection: 'row', gap: 20 }}>
+
+        {/* 左：四步立项逻辑 */}
+        <Box style={{ width: 716, flexDirection: 'column', gap: 10 }}>
+
+            <Box style={{ height: 96, background: '#F7F9FC', border: '1px solid #D6DCE5', borderLeft: '4px solid #1E4FA8', paddingLeft: 16, paddingRight: 16, flexDirection: 'row', alignItems: 'center', gap: 16 }}>
+                <Text style={{ fontSize: 34, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1, width: 48 }}>01</Text>
+                <Box style={{ flexDirection: 'column', gap: 4, flex: 1 }}>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>先承认近邻存在</Text>
+                    <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.35 }}>
+                        做合规层的、做通用可信性工具的，他们确实在做这件事。
+                    </Text>
+                </Box>
+            </Box>
+
+            <Box style={{ height: 96, background: '#F7F9FC', border: '1px solid #D6DCE5', borderLeft: '4px solid #1E4FA8', paddingLeft: 16, paddingRight: 16, flexDirection: 'row', alignItems: 'center', gap: 16 }}>
+                <Text style={{ fontSize: 34, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1, width: 48 }}>02</Text>
+                <Box style={{ flexDirection: 'column', gap: 4, flex: 1 }}>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>指出对象差异</Text>
+                    <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.35 }}>
+                        事实与问责层，不等于安全合规层。服务的目的不同。
+                    </Text>
+                </Box>
+            </Box>
+
+            <Box style={{ height: 96, background: '#F7F9FC', border: '1px solid #D6DCE5', borderLeft: '4px solid #1E4FA8', paddingLeft: 16, paddingRight: 16, flexDirection: 'row', alignItems: 'center', gap: 16 }}>
+                <Text style={{ fontSize: 34, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1, width: 48 }}>03</Text>
+                <Box style={{ flexDirection: 'column', gap: 4, flex: 1 }}>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>指出粒度差异</Text>
+                    <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.35 }}>
+                        养殖预警文本的领域结构，不等于通用问答对。
+                    </Text>
+                </Box>
+            </Box>
+
+            <Box style={{ height: 96, background: '#E8EFF8', border: '1px solid #1E4FA8', borderLeft: '4px solid #1E4FA8', paddingLeft: 16, paddingRight: 16, flexDirection: 'row', alignItems: 'center', gap: 16 }}>
+                <Text style={{ fontSize: 34, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1, width: 48 }}>04</Text>
+                <Box style={{ flexDirection: 'column', gap: 4, flex: 1 }}>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#0E3F8C' }}>用可评测资产作能力证明</Text>
+                    <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.35 }}>
+                        上一轮遗留的三件资产，已经实现并跑通过。
+                    </Text>
+                </Box>
+            </Box>
+
+            <Box style={{ flex: 1, background: '#FFFFFF', border: '1px solid #D6DCE5', paddingLeft: 16, paddingRight: 16, flexDirection: 'row', alignItems: 'center', gap: 14 }}>
+                <Text style={{ fontSize: 19, color: '#4A5568', width: 150 }}>为什么必须这样写</Text>
+                <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.35, flex: 1 }}>
+                    16 个候选方向里 <b>11 个</b>产品重复性 ≤3 分 —— 靠「没人做」立项，站不住。
+                </Text>
+            </Box>
+
+        </Box>
+
+        {/* 右：缺口（深蓝实色卡，全篇 2 张之一） */}
+        <Box style={{ width: 464, flexDirection: 'column', gap: 12 }}>
+
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 10, height: 32 }}>
+                <Text style={{ fontSize: 22, fontWeight: 'bold', color: '#1A2230' }}>现在还缺什么</Text>
+                <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#FBE9E8', borderRadius: 13, justifyContent: 'center' }}>
+                    <Text style={{ fontSize: 14, color: '#D9534F' }}>不绕过</Text>
+                </Box>
+            </Box>
+
+            <Box style={{ height: 226, background: '#0E3F8C', padding: 18, flexDirection: 'column', gap: 10, justifyContent: 'center' }}>
+                <Box style={{ flexDirection: 'column', gap: 4 }}>
+                    <Text style={{ fontSize: 21, fontWeight: 'bold', color: '#FFC107' }}>B-1 · 数据通道</Text>
+                    <Text style={{ fontSize: 22, color: '#BFD5EF', lineHeight: 1.35 }}>
+                        可用的真实养殖观测数据，或公开可得的数据集。
+                    </Text>
+                </Box>
+                <Box style={{ width: '100%', height: 1, background: '#2A5AA0' }} />
+                <Box style={{ flexDirection: 'column', gap: 4 }}>
+                    <Text style={{ fontSize: 21, fontWeight: 'bold', color: '#FFC107' }}>B-3 · 评审方</Text>
+                    <Text style={{ fontSize: 22, color: '#BFD5EF', lineHeight: 1.35 }}>
+                        愿意对识别假设给反馈的指导老师或真实用户。
+                    </Text>
+                </Box>
+            </Box>
+
+            <Box style={{ height: 118, background: '#FBE9E8', border: '1px solid #D9534F', padding: 14, flexDirection: 'column', gap: 4, justifyContent: 'center' }}>
+                <Text style={{ fontSize: 19, fontWeight: 'bold', color: '#D9534F' }}>我们的选择：不绕过</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.35 }}>
+                    B-1 落实之前，不对外提供任何效应量数字。
+                </Text>
+            </Box>
+
+        </Box>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, height: 40, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>立项逻辑四步与阻断项内容见 project/F1/README.md；方向判定见 project/16-方向审查/</Text>
+        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>14 / 14</Text>
+    </Box>
+
+</Slide>

@@ -1,0 +1,270 @@
+{
+  "experiment": "exp3_audit",
+  "question": "把三条'报告缺失'计数各自变成什么样的可计算后果？",
+  "data_mode": "【合成】",
+  "quoted_statistics": {
+    "source": "Silverthorn et al. 2025, PLOS Sustain. Transform. 4(1):e0000155",
+    "n_papers": 71,
+    "missing_spatial_resolution": 49,
+    "missing_weights": 13,
+    "missing_reclass": 24,
+    "missing_data_source": 10,
+    "partial_data_source": 28,
+    "missing_software": 9,
+    "single_timepoint": 59,
+    "note": "以上为他文已完成的统计，本实验不重复统计，仅引用其计数"
+  },
+  "layer_degeneracy_check": [
+    {
+      "layer": 1,
+      "range": 6.135464468470911,
+      "degenerate": false
+    },
+    {
+      "layer": 2,
+      "range": 4.178271028922404,
+      "degenerate": false
+    },
+    {
+      "layer": 3,
+      "range": 2.926198326031192,
+      "degenerate": false
+    }
+  ],
+  "weight_perturbation_curve": [
+    {
+      "rel_sd": 0.0,
+      "k": 1124,
+      "n_units_ranked": 11236,
+      "spearman_mean": 1.0,
+      "spearman_p05": 1.0,
+      "topk_kept_mean": 1124.0,
+      "topk_changed_mean": 0.0,
+      "topk_kept_share_mean": 1.0,
+      "topk_kept_share_p05": 1.0
+    },
+    {
+      "rel_sd": 0.05,
+      "k": 1124,
+      "n_units_ranked": 11236,
+      "spearman_mean": 0.9993895926939882,
+      "spearman_p05": 0.9977845517255706,
+      "topk_kept_mean": 1100.89,
+      "topk_changed_mean": 23.11,
+      "topk_kept_share_mean": 0.9794395017793595,
+      "topk_kept_share_p05": 0.9536921708185053
+    },
+    {
+      "rel_sd": 0.1,
+      "k": 1124,
+      "n_units_ranked": 11236,
+      "spearman_mean": 0.9975588700948123,
+      "spearman_p05": 0.9905324993967701,
+      "topk_kept_mean": 1077.74,
+      "topk_changed_mean": 46.26,
+      "topk_kept_share_mean": 0.9588434163701066,
+      "topk_kept_share_p05": 0.9056049822064057
+    },
+    {
+      "rel_sd": 0.2,
+      "k": 1124,
+      "n_units_ranked": 11236,
+      "spearman_mean": 0.9903111739251468,
+      "spearman_p05": 0.9647126136142918,
+      "topk_kept_mean": 1034.345,
+      "topk_changed_mean": 89.655,
+      "topk_kept_share_mean": 0.9202357651245552,
+      "topk_kept_share_p05": 0.8237989323843417
+    },
+    {
+      "rel_sd": 0.3,
+      "k": 1124,
+      "n_units_ranked": 11236,
+      "spearman_mean": 0.978749413438561,
+      "spearman_p05": 0.9232288061258439,
+      "topk_kept_mean": 992.47,
+      "topk_changed_mean": 131.53,
+      "topk_kept_share_mean": 0.8829804270462634,
+      "topk_kept_share_p05": 0.7361654804270463
+    },
+    {
+      "rel_sd": 0.5,
+      "k": 1124,
+      "n_units_ranked": 11236,
+      "spearman_mean": 0.9465508044882287,
+      "spearman_p05": 0.8029982782210983,
+      "topk_kept_mean": 914.865,
+      "topk_changed_mean": 209.135,
+      "topk_kept_share_mean": 0.8139368327402136,
+      "topk_kept_share_p05": 0.5722419928825623
+    }
+  ],
+  "degeneracy_at_rel_sd_0": {
+    "kept_share_min": 1.0,
+    "kept_share_max": 1.0,
+    "spearman_min": 1.0,
+    "spearman_max": 1.0,
+    "changed_count_mean": 0.0,
+    "n_draws": 200,
+    "k": 1124
+  },
+  "reclass_sensitivity": {
+    "schemes": [
+      "minmax",
+      "fuzzy"
+    ],
+    "n_units_ranked": 11236,
+    "pairs": [
+      {
+        "pair": "minmax__vs__fuzzy",
+        "spearman": 0.9095211370379095,
+        "topk_overlap": 0.5649466192170819,
+        "k": 1124,
+        "topk_changed_mean": 489.0
+      }
+    ],
+    "lo": -0.39309632633375596,
+    "hi": 0.37764062810144583,
+    "note": "lo/hi 为示范性设定的解释边界，不是任何具体研究使用的阈值；见红线 G-5"
+  },
+  "timeliness_flags": [
+    {
+      "item": "数据层所属年份是否逐层给出",
+      "why": "同一模型混用不同年份图层会使结论无法对应任何一个真实时点",
+      "source_of_concern": "Silverthorn et al. 2025：Reporting Template 表5 要求逐数据层说明年份"
+    },
+    {
+      "item": "数据采集—建模—发表之间的时间差是否说明",
+      "why": "发表年份不能可靠指示数据时效",
+      "source_of_concern": "Silverthorn et al. 2025 原文关于 longevity 的论述"
+    },
+    {
+      "item": "是否使用『典型』条件而非年际变异",
+      "why": "仅 14/71 篇考虑自然灾害与年际气候变异（如季风、ENSO）",
+      "source_of_concern": "Silverthorn et al. 2025 统计"
+    },
+    {
+      "item": "是否考虑未来情景",
+      "why": "仅 1/71 篇考虑气候变化情景",
+      "source_of_concern": "Silverthorn et al. 2025 统计"
+    }
+  ],
+  "k_consistency": {
+    "n_ranked": 11236,
+    "k_frac": 0.1,
+    "k_expected": 1124,
+    "k_observed": [
+      1124,
+      1124,
+      1124,
+      1124,
+      1124,
+      1124
+    ]
+  },
+  "audit_summary": {
+    "degeneracy_check": {
+      "ok": true,
+      "note": "rel_sd=0 时前 k% 保留率 = 1.000000000000（应为 1.0）"
+    },
+    "k_frac": 0.1,
+    "n_weight_levels": 6
+  },
+  "scale_consequence_from_exp1": {
+    "note": "引用实验 1 的结果作为'空间分辨率缺失'的后果",
+    "max_ratio_decision_over_info": 2.280076407577676,
+    "mean_ratio_per_scale": [
+      2.280076407577676,
+      1.5377424841199987,
+      1.1948172578534442,
+      0.9633223966969235
+    ],
+    "scales_m": [
+      50.0,
+      100.0,
+      200.0,
+      400.0
+    ]
+  },
+  "missing_to_consequence_table": [
+    {
+      "missing_item": "空间分辨率",
+      "count": "49/71",
+      "consequence": "尺度失配代价：决策相对损失 / 信息相对损失 最高 2.28×",
+      "source": "实验 1"
+    },
+    {
+      "missing_item": "权重赋值",
+      "count": "13/71",
+      "consequence": "rel_sd=0.30 时前 10% 平均换掉 131.5 个（共 1124 个）",
+      "source": "本实验"
+    },
+    {
+      "missing_item": "重分类分值",
+      "count": "24/71",
+      "consequence": "min-max 与 fuzzy 互换时前 10% 换掉 489.0 个，秩相关 0.9095",
+      "source": "本实验"
+    },
+    {
+      "missing_item": "数据来源/年份",
+      "count": "10/71 未报 + 28/71 部分",
+      "consequence": "**不产数** —— 只输出应检查项清单（纪律 8）",
+      "source": "本实验 timeliness_flags()"
+    }
+  ],
+  "checks": [
+    {
+      "id": "A1",
+      "desc": "[恒等自检] rel_sd=0 时前k保留率逐次恰为 1.0",
+      "pass": true,
+      "observed": "min=1.000000000000, max=1.000000000000",
+      "expected": "min=max=1.0"
+    },
+    {
+      "id": "A2",
+      "desc": "保留率随 rel_sd 单调不增 且 kept+changed==k",
+      "pass": true,
+      "observed": "1.0000 → 0.9794 → 0.9588 → 0.9202 → 0.8830 → 0.8139 | 恒等式=成立",
+      "expected": "单调不增 且 恒等式成立"
+    },
+    {
+      "id": "A3",
+      "desc": "重分类方案互换产生可测后果（0<重叠<1）",
+      "pass": true,
+      "observed": "spearman=0.9095, topk_overlap=0.5649",
+      "expected": "0 < topk_overlap < 1"
+    },
+    {
+      "id": "A4",
+      "desc": "所有参与层极差>0（无退化层混入 WLC）",
+      "pass": true,
+      "observed": "3 层全部通过",
+      "expected": "全部通过"
+    },
+    {
+      "id": "A5",
+      "desc": "[纪律8] 时效性清单不含任何数字（无数据不产数）",
+      "pass": true,
+      "observed": "4 项均不含数字",
+      "expected": "不含数字"
+    },
+    {
+      "id": "A6",
+      "desc": "k 口径一致：k == round(n×k_frac) 且 k>=1",
+      "pass": true,
+      "observed": "n=11236, k=1124",
+      "expected": "1124"
+    },
+    {
+      "id": "A7",
+      "desc": "审计摘要的 degeneracy_check 通过",
+      "pass": true,
+      "observed": "rel_sd=0 时前 k% 保留率 = 1.000000000000（应为 1.0）",
+      "expected": "ok=True"
+    }
+  ],
+  "n_pass": 7,
+  "n_total": 7,
+  "verdict": "PASS",
+  "disclaimer": "红线 G-5：rel_sd 与 lo/hi 均为示范性设定，不代表实测的专家分歧度或领域阈值；不得用于评价任何具体已发表研究。"
+}

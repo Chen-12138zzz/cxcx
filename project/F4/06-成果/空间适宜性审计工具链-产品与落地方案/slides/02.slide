@@ -1,0 +1,78 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'row' }}>
+
+    {/* 左：目录标识 */}
+    <Box style={{ width: 420, height: 720, background: '#0E3F8C', padding: 40, flexDirection: 'column', justifyContent: 'space-between' }}>
+        <Box style={{ flexDirection: 'column', gap: 10 }}>
+            <Text style={{ fontSize: 13, color: '#8FB4E0', letterSpacing: 3 }}>CONTENTS</Text>
+            <Text style={{ fontSize: 48, fontWeight: 'bold', color: '#FFFFFF', lineHeight: 1.2 }}>
+                目录
+            </Text>
+            <Box style={{ width: 80, height: 4, background: '#FFC107', marginTop: 6 }} />
+        </Box>
+
+        <Box style={{ flexDirection: 'column', gap: 12 }}>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                五章分别回答：
+            </Text>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                做什么 · 给谁用 · 凭什么
+            </Text>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                解决什么 · 为什么是它
+            </Text>
+        </Box>
+
+        <Text style={{ fontSize: 14, color: '#8FB4E0' }}>空间适宜性审计工具链 · 产品与落地方案</Text>
+    </Box>
+
+    {/* 右：五章列表 */}
+    <Box style={{ width: 860, height: 720, paddingLeft: 40, paddingRight: 40, paddingTop: 36, paddingBottom: 36, flexDirection: 'column', justifyContent: 'center', gap: 14 }}>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 20, height: 104, border: '1px solid #D6DCE5', background: '#F7F9FC', padding: 16 }}>
+            <Text style={{ fontSize: 34, fontWeight: 'bold', color: '#1E4FA8', width: 62 }}>01</Text>
+            <Box style={{ width: 3, height: 56, background: '#1E4FA8' }} />
+            <Box style={{ flexDirection: 'column', gap: 4 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>这是什么产品</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568' }}>一套审计工具链：三个诊断器，只回答"这个结论站不站得住"</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 20, height: 104, border: '1px solid #D6DCE5', background: '#F7F9FC', padding: 16 }}>
+            <Text style={{ fontSize: 34, fontWeight: 'bold', color: '#1E4FA8', width: 62 }}>02</Text>
+            <Box style={{ width: 3, height: 56, background: '#1E4FA8' }} />
+            <Box style={{ flexDirection: 'column', gap: 4 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>服务谁</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568' }}>四类目标对象：研究者、评审、下游使用者、后续接手的人</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 20, height: 104, border: '1px solid #D6DCE5', background: '#F7F9FC', padding: 16 }}>
+            <Text style={{ fontSize: 34, fontWeight: 'bold', color: '#1E4FA8', width: 62 }}>03</Text>
+            <Box style={{ width: 3, height: 56, background: '#1E4FA8' }} />
+            <Box style={{ flexDirection: 'column', gap: 4 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>优势在哪</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568' }}>不在算法：我们把"可分解、可扰动、可复现"当成产品能力</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 20, height: 104, border: '1px solid #D6DCE5', background: '#F7F9FC', padding: 16 }}>
+            <Text style={{ fontSize: 34, fontWeight: 'bold', color: '#1E4FA8', width: 62 }}>04</Text>
+            <Box style={{ width: 3, height: 56, background: '#1E4FA8' }} />
+            <Box style={{ flexDirection: 'column', gap: 4 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>解决什么问题</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568' }}>三个可计算的答案，每个都带样本量与方法名</Text>
+            </Box>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 20, height: 104, border: '1px solid #D6DCE5', background: '#F7F9FC', padding: 16 }}>
+            <Text style={{ fontSize: 34, fontWeight: 'bold', color: '#1E4FA8', width: 62 }}>05</Text>
+            <Box style={{ width: 3, height: 56, background: '#1E4FA8' }} />
+            <Box style={{ flexDirection: 'column', gap: 4 }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>为什么选这个命题</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568' }}>粒度不匹配与动机不匹配 —— 以及它现在缺什么</Text>
+            </Box>
+        </Box>
+
+    </Box>
+
+</Slide>

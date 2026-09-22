@@ -1,0 +1,80 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'column' }}>
+
+    <Box style={{ width: 1280, height: 56, background: '#1E4FA8', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingLeft: 40, paddingRight: 40 }}>
+        <Text style={{ fontSize: 14, color: '#BFD5EF', letterSpacing: 2 }}>01 问题与边界</Text>
+        <Text style={{ fontSize: 14, color: '#BFD5EF' }}>F1 · 项目介绍</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 20, flexDirection: 'column', gap: 4 }}>
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>和同类工作比，差在哪</Text>
+        <Text style={{ fontSize: 16, color: '#4A5568' }}>差异化的落点是「识别有效性的可审计化」，不是「做因果推断」</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 16, height: 520, flexDirection: 'column', gap: 14 }}>
+
+        <Table
+            style={{ width: '100%', height: 362 }}
+            defaultTextStyle={{ fontSize: 18, textAlign: 'left', color: '#1A2230' }}
+            defaultCellStyle={{
+                border: {
+                    left: { width: 1, color: '#D6DCE5' },
+                    right: { width: 1, color: '#D6DCE5' },
+                    top: { width: 1, color: '#D6DCE5' },
+                    bottom: { width: 1, color: '#D6DCE5' },
+                },
+            }}
+            cells={[
+                [
+                    { text: '对比对象', textStyle: { bold: true, color: '#FFFFFF' }, cellStyle: { background: { color: '#1E4FA8' } } },
+                    { text: '它做的是', textStyle: { bold: true, color: '#FFFFFF' }, cellStyle: { background: { color: '#1E4FA8' } } },
+                    { text: '本项目做的是', textStyle: { bold: true, color: '#FFFFFF' }, cellStyle: { background: { color: '#1E4FA8' } } },
+                ],
+                [
+                    { text: '同城学生团队（虾塘投喂类）', textStyle: { bold: true } },
+                    '残饵识别 → 投喂决策 → 投饵机执行（预测 + 控制）',
+                    { text: '不问「该投多少」，问「投喂量的效应是什么、这个判断何时失效」', textStyle: { color: '#0E3F8C' } },
+                ],
+                [
+                    { text: '受控析因实验', cellStyle: { background: { color: '#F7F9FC' } }, textStyle: { bold: true, color: '#1A2230' } },
+                    { text: '随机化，因果结论干净', cellStyle: { background: { color: '#F7F9FC' } } },
+                    { text: '在真实塘口的观测数据上估计，并显式写出识别假设与推翻条件', cellStyle: { background: { color: '#F7F9FC' } }, textStyle: { color: '#0E3F8C' } },
+                ],
+                [
+                    { text: '生产函数回归 / PSM-DID', textStyle: { bold: true } },
+                    '有因果意图，但方法停在常规水平，未处理内生性',
+                    { text: '正交化估计（DML / DR / TMLE）+ 敏感性分析', textStyle: { color: '#0E3F8C' } },
+                ],
+                [
+                    { text: '文献元分析', cellStyle: { background: { color: '#F7F9FC' } }, textStyle: { bold: true, color: '#1A2230' } },
+                    { text: '文献层聚合出的平均效应', cellStyle: { background: { color: '#F7F9FC' } } },
+                    { text: '个体层条件效应：给定这一塘的数据，效应多大、在什么条件下变大', cellStyle: { background: { color: '#F7F9FC' } }, textStyle: { color: '#0E3F8C' } },
+                ],
+                [
+                    { text: '相邻方法型方向（可复现性审计等）', textStyle: { bold: true } },
+                    '管「结论能不能重跑出来」',
+                    { text: '管「跑出来的到底是不是因果量」', textStyle: { color: '#0E3F8C' } },
+                ],
+            ]}
+        />
+
+        <Box style={{ flexDirection: 'row', gap: 14, height: 128 }}>
+            <Box style={{ flex: 1, background: '#E8EFF8', borderLeft: '4px solid #1E4FA8', padding: 16, flexDirection: 'column', gap: 6, justifyContent: 'center' }}>
+                <Text style={{ fontSize: 19, fontWeight: 'bold', color: '#0E3F8C' }}>立项依据：能力差异型</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    「我能做，因为具备识别有效性的自检纪律」—— 不是「因为没人做过」。
+                </Text>
+            </Box>
+            <Box style={{ width: 300, background: '#FFFFFF', border: '1px solid #D6DCE5', padding: 16, flexDirection: 'column', gap: 6, justifyContent: 'center' }}>
+                <Text style={{ fontSize: 19, fontWeight: 'bold', color: '#1A2230' }}>空白型依据占比</Text>
+                <Text style={{ fontSize: 42, fontWeight: 'bold', color: '#1E4FA8', lineHeight: 1 }}>0%</Text>
+            </Box>
+        </Box>
+
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, height: 40, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>对比结论基于在【2026-09 前】所及检索范围内的公开资料，不代表他人未在做同类工作</Text>
+        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>05 / 12</Text>
+    </Box>
+
+</Slide>

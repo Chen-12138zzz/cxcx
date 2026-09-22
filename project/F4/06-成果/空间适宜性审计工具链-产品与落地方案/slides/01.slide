@@ -1,0 +1,84 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'row', position: 'relative' }}>
+
+    {/* 左侧深蓝色块 500px */}
+    <Box style={{ width: 500, height: 720, background: '#0E3F8C', padding: 40, flexDirection: 'column', justifyContent: 'space-between' }}>
+        <Box style={{ flexDirection: 'column', gap: 8 }}>
+            <Text style={{ fontSize: 14, color: '#8FB4E0', letterSpacing: 2 }}>大学生创新创业训练计划</Text>
+            <Text style={{ fontSize: 14, color: '#8FB4E0', letterSpacing: 2 }}>产品定义与落地方案</Text>
+        </Box>
+
+        <Box style={{ flexDirection: 'column', gap: 14 }}>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                不产选址图
+            </Text>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                不产选址结论
+            </Text>
+            <Box style={{ width: 64, height: 3, background: '#FFC107', marginTop: 4 }} />
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6, marginTop: 8 }}>
+                只审计产图这件事
+            </Text>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                与它的适用范围
+            </Text>
+        </Box>
+
+        <Box style={{ flexDirection: 'column', gap: 6 }}>
+            <Text style={{ fontSize: 14, color: '#8FB4E0' }}>广东海洋大学 · 数学与计算机学院</Text>
+            <Text style={{ fontSize: 14, color: '#8FB4E0' }}>软件工程 · 2026-09</Text>
+        </Box>
+    </Box>
+
+    {/* 右侧白色承载标题 */}
+    <Box style={{ width: 780, height: 720, padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 20 }}>
+        <Text style={{ fontSize: 13, color: '#3D7BD9', letterSpacing: 3 }}>AUDITABILITY OF SPATIAL SUITABILITY MODELS</Text>
+
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1.25 }}>
+            空间适宜性
+        </Text>
+        <Text style={{ fontSize: 60, fontWeight: 'bold', color: '#0E3F8C', lineHeight: 1.25 }}>
+            审计工具链
+        </Text>
+
+        <Box style={{ width: 120, height: 4, background: '#1E4FA8', marginTop: 4 }} />
+
+        <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.6 }}>
+            让一个空间适宜性结论，能被追溯到它用了什么尺度、什么权重、
+            什么样的重分类，并被追问它的适用范围有多大。
+        </Text>
+
+        {/* 视觉锚点：三个诊断模块 → 一个可核对的审计结论 */}
+        <Box style={{ marginTop: 6 }}>
+            <svg width={700} height={124} viewBox='0 0 700 124'>
+                <rect x='0' y='0' width='218' height='58' rx='4' fill='#F0F5FC' stroke='#D6DCE5' strokeWidth='1' />
+                <text x='109' y='25' fontSize='15' fill='#1E4FA8' textAnchor='middle' fontWeight='bold'>尺度失配诊断</text>
+                <text x='109' y='45' fontSize='12' fill='#8B97A8' textAnchor='middle'>网格粗于池体，代价多大</text>
+
+                <rect x='241' y='0' width='218' height='58' rx='4' fill='#F0F5FC' stroke='#D6DCE5' strokeWidth='1' />
+                <text x='350' y='25' fontSize='15' fill='#1E4FA8' textAnchor='middle' fontWeight='bold'>融合账本与误差分解</text>
+                <text x='350' y='45' fontSize='12' fill='#8B97A8' textAnchor='middle'>增益与代价，分开报</text>
+
+                <rect x='482' y='0' width='218' height='58' rx='4' fill='#F0F5FC' stroke='#D6DCE5' strokeWidth='1' />
+                <text x='591' y='25' fontSize='15' fill='#1E4FA8' textAnchor='middle' fontWeight='bold'>缺失到后果</text>
+                <text x='591' y='45' fontSize='12' fill='#8B97A8' textAnchor='middle'>少报一项，代价几个位</text>
+
+                <line x1='109' y1='60' x2='109' y2='80' stroke='#3D7BD9' strokeWidth='2' />
+                <line x1='350' y1='60' x2='350' y2='80' stroke='#3D7BD9' strokeWidth='2' />
+                <line x1='591' y1='60' x2='591' y2='80' stroke='#3D7BD9' strokeWidth='2' />
+                <line x1='109' y1='80' x2='591' y2='80' stroke='#3D7BD9' strokeWidth='2' />
+
+                <rect x='150' y='92' width='400' height='32' rx='4' fill='#E8EFF8' stroke='#1E4FA8' strokeWidth='2' />
+                <line x1='350' y1='80' x2='350' y2='92' stroke='#3D7BD9' strokeWidth='2' />
+                <polygon points='350,92 345,82 355,82' fill='#3D7BD9' />
+                <text x='350' y='113' fontSize='15' fill='#0E3F8C' textAnchor='middle' fontWeight='bold'>每条结论都带口径与适用范围</text>
+            </svg>
+        </Box>
+    </Box>
+
+    {/* 校名角标 */}
+    <Box style={{ position: 'absolute', right: 40, top: 40, flexDirection: 'row', alignItems: 'center', gap: 8 }}>
+        <Box style={{ width: 4, height: 28, background: '#1E4FA8' }} />
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>广东海洋大学</Text>
+    </Box>
+
+</Slide>

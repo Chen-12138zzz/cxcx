@@ -1,0 +1,81 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'row', position: 'relative' }}>
+
+    {/* 左侧深蓝结语块 */}
+    <Box style={{ width: 460, height: 720, background: '#0E3F8C', padding: 40, flexDirection: 'column', justifyContent: 'space-between' }}>
+        <Box style={{ flexDirection: 'column', gap: 10 }}>
+            <Text style={{ fontSize: 13, color: '#8FB4E0', letterSpacing: 3 }}>SUMMARY</Text>
+            <Text style={{ fontSize: 48, fontWeight: 'bold', color: '#FFFFFF', lineHeight: 1.2 }}>
+                三句话
+            </Text>
+            <Box style={{ width: 80, height: 4, background: '#FFC107', marginTop: 6 }} />
+        </Box>
+
+        <Box style={{ flexDirection: 'column', gap: 16 }}>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                01　我们不发明方法，我们把方法的代价与缺失变成数字
+            </Text>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                02　最重要的发现是：一个孤立的精度数字会把结论的符号搞反
+            </Text>
+            <Text style={{ fontSize: 20, color: '#BFD5EF', lineHeight: 1.6 }}>
+                03　结论只在合成场成立，不产出任何选址建议
+            </Text>
+        </Box>
+
+        <Text style={{ fontSize: 14, color: '#8FB4E0' }}>广东海洋大学 · 数学与计算机学院 · 软件工程</Text>
+    </Box>
+
+    {/* 右侧边界声明 */}
+    <Box style={{ width: 820, height: 720, padding: 40, flexDirection: 'column', justifyContent: 'center', gap: 18 }}>
+
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>边界声明</Text>
+        <Box style={{ width: 120, height: 4, background: '#FFC107' }} />
+
+        <Box style={{ flexDirection: 'column', gap: 12, marginTop: 4 }}>
+            <Box style={{ flexDirection: 'row', alignItems: 'flex-start', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#D9534F', marginTop: 8 }} />
+                <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.5 }}>
+                    本工具<span style={{ fontWeight: 'bold' }}>不产出</span>任何地块的适宜性判断、不产出选址图、不作政策建议
+                </Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'flex-start', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#D9534F', marginTop: 8 }} />
+                <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.5 }}>
+                    全部实验为合成数据，<span style={{ fontWeight: 'bold' }}>不存在"实测准确率"这一档数字</span>
+                </Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'flex-start', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#D9534F', marginTop: 8 }} />
+                <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.5 }}>
+                    效应量只可报方向与相对量级，不得外推真实塘口
+                </Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'flex-start', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#D9534F', marginTop: 8 }} />
+                <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.5 }}>
+                    不声称在 WLC / AHP 等评价方法上有任何创新
+                </Text>
+            </Box>
+            <Box style={{ flexDirection: 'row', alignItems: 'flex-start', gap: 14 }}>
+                <Box style={{ width: 10, height: 10, background: '#D9534F', marginTop: 8 }} />
+                <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.5 }}>
+                    权重幅度与重分类阈值均为示范性设定，不代表实测值
+                </Text>
+            </Box>
+        </Box>
+
+        <Box style={{ marginTop: 10, background: '#F0F5FC', borderLeft: '6px solid #1E4FA8', padding: 16, flexDirection: 'column', gap: 6 }}>
+            <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#0E3F8C' }}>如果只记住一句</Text>
+            <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                判据失败时，先问"是不是我问错了量"，而不是先改判据 ——
+                本项目最强的一条结果，正来自一次失败的判据。
+            </Text>
+        </Box>
+
+        <Box style={{ flexDirection: 'row', justifyContent: 'flex-end', marginTop: 4 }}>
+            <Text style={{ fontSize: 14, color: '#1E4FA8' }}>14 / 14</Text>
+        </Box>
+
+    </Box>
+
+</Slide>

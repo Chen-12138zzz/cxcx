@@ -1,0 +1,117 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'column' }}>
+
+    <Box style={{ width: 1280, height: 56, background: '#1E4FA8', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingLeft: 40, paddingRight: 40 }}>
+        <Text style={{ fontSize: 14, color: '#BFD5EF', letterSpacing: 2 }}>04 现状与下一步</Text>
+        <Text style={{ fontSize: 14, color: '#BFD5EF' }}>F1 · 项目介绍</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 18, flexDirection: 'column', gap: 4 }}>
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>已经具备什么，还缺什么</Text>
+        <Text style={{ fontSize: 16, color: '#4A5568' }}>缺的那两项决定了申报材料能不能动笔 —— 我们不打算绕过</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 16, height: 516, flexDirection: 'row', gap: 20 }}>
+
+        {/* 左：已具备 */}
+        <Box style={{ width: 700, flexDirection: 'column', gap: 12 }}>
+
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 10, height: 36 }}>
+                <Text style={{ fontSize: 22, fontWeight: 'bold', color: '#1A2230' }}>已具备</Text>
+                <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#E8EFF8', borderRadius: 13, justifyContent: 'center' }}>
+                    <Text style={{ fontSize: 14, color: '#1E4FA8' }}>方法层面</Text>
+                </Box>
+            </Box>
+
+            <Box style={{ flex: 1, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 18, flexDirection: 'column', gap: 12, justifyContent: 'space-between' }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'flex-start', gap: 12 }}>
+                    <Box style={{ width: 26, height: 26, background: '#1E4FA8', borderRadius: 13, justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 15, fontWeight: 'bold', color: '#FFFFFF' }}>✓</Text>
+                    </Box>
+                    <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.4, flex: 1 }}>
+                        七步流程全部跑通：角色审计、正性诊断、效应估计、剂量反应、敏感性分析、假设台账、报告守卫
+                    </Text>
+                </Box>
+                <Box style={{ flexDirection: 'row', alignItems: 'flex-start', gap: 12 }}>
+                    <Box style={{ width: 26, height: 26, background: '#1E4FA8', borderRadius: 13, justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 15, fontWeight: 'bold', color: '#FFFFFF' }}>✓</Text>
+                    </Box>
+                    <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.4, flex: 1 }}>
+                        五个实验 + 两套测试 + 一套诊断包；判定项 21/21、不变量 19/19
+                    </Text>
+                </Box>
+                <Box style={{ flexDirection: 'row', alignItems: 'flex-start', gap: 12 }}>
+                    <Box style={{ width: 26, height: 26, background: '#1E4FA8', borderRadius: 13, justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 15, fontWeight: 'bold', color: '#FFFFFF' }}>✓</Text>
+                    </Box>
+                    <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.4, flex: 1 }}>
+                        真值自检通过（线性情形逐位精确）；18 条修正记录全部留痕
+                    </Text>
+                </Box>
+                <Box style={{ flexDirection: 'row', alignItems: 'flex-start', gap: 12 }}>
+                    <Box style={{ width: 26, height: 26, background: '#1E4FA8', borderRadius: 13, justifyContent: 'center', alignItems: 'center' }}>
+                        <Text style={{ fontSize: 15, fontWeight: 'bold', color: '#FFFFFF' }}>✓</Text>
+                    </Box>
+                    <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.4, flex: 1 }}>
+                        文档一致性校验通过：权威值缺位 0、废弃值残留 0
+                    </Text>
+                </Box>
+            </Box>
+
+            <Box style={{ height: 68, background: '#E8EFF8', borderLeft: '4px solid #1E4FA8', paddingLeft: 16, paddingRight: 16, flexDirection: 'column', justifyContent: 'center' }}>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.4 }}>
+                    这些都在<span style={{ fontWeight: 'bold', color: '#1E4FA8' }}>合成数据</span>上完成 —— 验证的是方法，不是真实塘口。
+                </Text>
+            </Box>
+
+        </Box>
+
+        {/* 右：阻断项（深蓝实色卡） */}
+        <Box style={{ width: 500, flexDirection: 'column', gap: 12 }}>
+
+            <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 10, height: 36 }}>
+                <Text style={{ fontSize: 22, fontWeight: 'bold', color: '#1A2230' }}>还缺什么</Text>
+                <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#FBE9E8', borderRadius: 13, justifyContent: 'center' }}>
+                    <Text style={{ fontSize: 14, color: '#D9534F' }}>两个阻断项</Text>
+                </Box>
+            </Box>
+
+            <Box style={{ height: 240, background: '#0E3F8C', padding: 18, flexDirection: 'column', gap: 10, justifyContent: 'center' }}>
+                <Box style={{ flexDirection: 'column', gap: 6 }}>
+                    <Text style={{ fontSize: 21, fontWeight: 'bold', color: '#FFC107' }}>B-1 · 数据通道</Text>
+                    <Text style={{ fontSize: 22, color: '#BFD5EF', lineHeight: 1.4 }}>
+                        可用的真实养殖观测数据，或公开可得的数据集。
+                    </Text>
+                </Box>
+                <Box style={{ width: '100%', height: 1, background: '#2A5AA0' }} />
+                <Box style={{ flexDirection: 'column', gap: 6 }}>
+                    <Text style={{ fontSize: 21, fontWeight: 'bold', color: '#FFC107' }}>B-3 · 评审方</Text>
+                    <Text style={{ fontSize: 22, color: '#BFD5EF', lineHeight: 1.4 }}>
+                        愿意对「识别假设」给出反馈的指导老师或真实用户。
+                    </Text>
+                </Box>
+            </Box>
+
+            <Box style={{ height: 126, background: '#FBE9E8', border: '1px solid #D9534F', padding: 12, flexDirection: 'column', gap: 4, justifyContent: 'center' }}>
+                <Text style={{ fontSize: 19, fontWeight: 'bold', color: '#D9534F' }}>我们的选择：不绕过</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.35 }}>
+                    没有数据通道，申报书每句都是空话。故至今
+                    <span style={{ fontWeight: 'bold', color: '#D9534F' }}>没有动笔</span>。
+                </Text>
+            </Box>
+
+            <Box style={{ height: 60, background: '#FFFFFF', border: '1px solid #D6DCE5', paddingLeft: 16, paddingRight: 16, flexDirection: 'row', alignItems: 'center', gap: 12 }}>
+                <Text style={{ fontSize: 18, color: '#8B97A8' }}>下一步</Text>
+                <Text style={{ fontSize: 22, color: '#1A2230', lineHeight: 1.35, flex: 1 }}>
+                    先解 B-1 / B-3，再进申报材料。
+                </Text>
+            </Box>
+
+        </Box>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, height: 40, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>广东海洋大学 · 数学与计算机学院 · 软件工程　｜　2026-09</Text>
+        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>11 / 12</Text>
+    </Box>
+
+</Slide>

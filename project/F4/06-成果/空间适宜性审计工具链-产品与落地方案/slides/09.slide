@@ -1,0 +1,101 @@
+<Slide style={{ width: 1280, height: 720, background: '#FFFFFF', flexDirection: 'column' }}>
+
+    <Box style={{ width: 1280, height: 56, background: '#1E4FA8', flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingLeft: 40, paddingRight: 40 }}>
+        <Text style={{ fontSize: 14, color: '#BFD5EF', letterSpacing: 2 }}>03 优势在哪</Text>
+        <Text style={{ fontSize: 14, color: '#BFD5EF' }}>空间适宜性审计工具链</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 20, flexDirection: 'column', gap: 4 }}>
+        <Text style={{ fontSize: 32, fontWeight: 'bold', color: '#1E4FA8' }}>优势不在算法，在两个「不匹配」</Text>
+        <Text style={{ fontSize: 16, color: '#4A5568' }}>这两个不匹配是结构性的，不是"别人没想到" —— 两篇关键文献都已公开承认这些缺口</Text>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, paddingTop: 16, height: 520, flexDirection: 'row', gap: 22 }}>
+
+        {/* 左：两个不匹配 */}
+        <Box style={{ width: 700, flexDirection: 'column', gap: 12 }}>
+
+            <Box style={{ height: 236, background: '#FFFFFF', border: '1px solid #D6DCE5', borderLeft: '6px solid #1E4FA8', padding: 16, flexDirection: 'column', gap: 8 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 12 }}>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>一 · 粒度不匹配</Text>
+                    <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#E8EFF8', borderRadius: 13, justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>结构性</Text>
+                    </Box>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    主流 GIS-MCE 面向海湾、河口级，栅格常为 30 m – 1 km；
+                    高位池的决策单元约 50 m。
+                </Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    做海湾选址的团队
+                    <span style={{ fontWeight: 'bold', color: '#1A2230' }}>动机上不需要</span>
+                    解决"输出网格粗于决策单元"这件事。
+                </Text>
+            </Box>
+
+            <Box style={{ height: 236, background: '#FFFFFF', border: '1px solid #D6DCE5', borderLeft: '6px solid #1E4FA8', padding: 16, flexDirection: 'column', gap: 8 }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', gap: 12 }}>
+                    <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>二 · 动机不匹配</Text>
+                    <Box style={{ paddingLeft: 12, paddingRight: 12, height: 26, background: '#E8EFF8', borderRadius: 13, justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>结构性</Text>
+                    </Box>
+                </Box>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    遥感团队要的是<span style={{ fontWeight: 'bold', color: '#1A2230' }}>反演精度</span>；
+                    我们要的是<span style={{ fontWeight: 'bold', color: '#1A2230' }}>决策可审计性</span>。
+                </Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    "高分辨率"与"高精度"是两件事，
+                    数据更细不会自动让决策更好。
+                </Text>
+            </Box>
+
+        </Box>
+
+        {/* 右：几何证据 + 可分解性 */}
+        <Box style={{ width: 478, flexDirection: 'column', gap: 16 }}>
+
+            <Box style={{ height: 262, background: '#F7F9FC', border: '1px solid #D6DCE5', padding: 14, flexDirection: 'column' }}>
+                <Box style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', marginBottom: 6 }}>
+                    <Text style={{ fontSize: 18, fontWeight: 'bold', color: '#1E4FA8' }}>粒度差距的几何换算</Text>
+                    <Box style={{ paddingLeft: 10, paddingRight: 10, height: 24, background: '#FFFFFF', borderRadius: 12, justifyContent: 'center' }}>
+                        <Text style={{ fontSize: 14, color: '#8B97A8' }}>纯几何</Text>
+                    </Box>
+                </Box>
+                <svg width={442} height={216} viewBox='0 0 442 216'>
+                    <text x='0' y='16' fontSize='14' fill='#8B97A8'>海湾级决策单元：一个栅格 ≫ 决策对象</text>
+                    <rect x='0' y='26' width='442' height='26' rx='3' fill='#D6DCE5' />
+                    <line x1='221' y1='26' x2='221' y2='52' stroke='#FFFFFF' strokeWidth='2' />
+                    <text x='228' y='44' fontSize='13' fill='#4A5568'>1 km 栅格</text>
+                    <rect x='0' y='26' width='22' height='26' rx='3' fill='#8B97A8' />
+
+                    <text x='0' y='86' fontSize='14' fill='#8B97A8'>高位池决策单元：栅格远大于决策对象</text>
+                    <rect x='0' y='96' width='22' height='26' rx='3' fill='#1E4FA8' />
+                    <text x='32' y='114' fontSize='13' fill='#1E4FA8' fontWeight='bold'>50 m 单池</text>
+                    <text x='126' y='114' fontSize='13' fill='#8B97A8'>← 决策真正作用的对象</text>
+
+                    <rect x='0' y='136' width='442' height='26' rx='3' fill='#F0F5FC' stroke='#D6DCE5' strokeWidth='1' />
+                    <text x='10' y='154' fontSize='13' fill='#4A5568'>同一张 1 km 栅格：对前者合适，对后者每格约覆盖 278 口池</text>
+
+                    <rect x='0' y='176' width='442' height='34' rx='3' fill='#E8EFF8' stroke='#1E4FA8' strokeWidth='1' />
+                    <text x='12' y='198' fontSize='14' fill='#1E4FA8' fontWeight='bold'>100 m 网格：每格约 2.78 口池　｜　200 m：约 11.11 口</text>
+                </svg>
+            </Box>
+
+            <Box style={{ flex: 1, background: '#FFFFFF', border: '1px solid #D6DCE5', borderTop: '4px solid #FFC107', padding: 16, flexDirection: 'column', gap: 8, justifyContent: 'center' }}>
+                <Text style={{ fontSize: 24, fontWeight: 'bold', color: '#1A2230' }}>第二重优势：可分解性</Text>
+                <Text style={{ fontSize: 22, color: '#4A5568', lineHeight: 1.45 }}>
+                    不调 GIS 库，是因为现成库把每一步封装成黑箱 ——
+                    我们要能在"权重变化 0.01 时排序变了几个"这一粒度上测量。
+                </Text>
+            </Box>
+
+        </Box>
+    </Box>
+
+    <Box style={{ paddingLeft: 40, paddingRight: 40, height: 40, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+        <Text style={{ fontSize: 14, color: '#8B97A8' }}>几何换算不依赖任何数据，是本组结论中最稳的一个；278 口/格由 1 km ÷ 60 m 池距换算</Text>
+        <Text style={{ fontSize: 14, color: '#1E4FA8' }}>09 / 14</Text>
+    </Box>
+
+</Slide>
